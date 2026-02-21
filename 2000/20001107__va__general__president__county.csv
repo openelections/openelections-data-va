@@ -1,0 +1,953 @@
+county,precinct,office,district,party,candidate,votes
+Accomack County,TOTAL,President,,Republican,Bush/ Cheney,6352
+Accomack County,TOTAL,President,,Democratic,Gore/ Lieberman,5092
+Accomack County,TOTAL,President,,Green,Nader/ La Duke,220
+Accomack County,TOTAL,President,,Libertarian,Browne/ Olivier,188
+Accomack County,TOTAL,President,,Reform,Buchanan/ Foster,56
+Accomack County,TOTAL,President,,Constitution,Phillips/ Frazier,17
+Accomack County,TOTAL,President,,Other,All Others,0
+Albemarle County,TOTAL,President,,Republican,Bush/ Cheney,18291
+Albemarle County,TOTAL,President,,Democratic,Gore/ Lieberman,16255
+Albemarle County,TOTAL,President,,Green,Nader/ La Duke,2043
+Albemarle County,TOTAL,President,,Libertarian,Browne/ Olivier,167
+Albemarle County,TOTAL,President,,Reform,Buchanan/ Foster,41
+Albemarle County,TOTAL,President,,Constitution,Phillips/ Frazier,11
+Albemarle County,TOTAL,President,,Other,All Others,38
+Alexandria City,TOTAL,President,,Republican,Bush/ Cheney,19043
+Alexandria City,TOTAL,President,,Democratic,Gore/ Lieberman,33633
+Alexandria City,TOTAL,President,,Green,Nader/ La Duke,2094
+Alexandria City,TOTAL,President,,Libertarian,Browne/ Olivier,223
+Alexandria City,TOTAL,President,,Reform,Buchanan/ Foster,92
+Alexandria City,TOTAL,President,,Constitution,Phillips/ Frazier,6
+Alexandria City,TOTAL,President,,Other,All Others,108
+Alleghany County,TOTAL,President,,Republican,Bush/ Cheney,2808
+Alleghany County,TOTAL,President,,Democratic,Gore/ Lieberman,2214
+Alleghany County,TOTAL,President,,Green,Nader/ La Duke,62
+Alleghany County,TOTAL,President,,Libertarian,Browne/ Olivier,25
+Alleghany County,TOTAL,President,,Reform,Buchanan/ Foster,9
+Alleghany County,TOTAL,President,,Constitution,Phillips/ Frazier,5
+Alleghany County,TOTAL,President,,Other,All Others,0
+Amelia County,TOTAL,President,,Republican,Bush/ Cheney,2947
+Amelia County,TOTAL,President,,Democratic,Gore/ Lieberman,1754
+Amelia County,TOTAL,President,,Green,Nader/ La Duke,40
+Amelia County,TOTAL,President,,Libertarian,Browne/ Olivier,24
+Amelia County,TOTAL,President,,Reform,Buchanan/ Foster,14
+Amelia County,TOTAL,President,,Constitution,Phillips/ Frazier,8
+Amelia County,TOTAL,President,,Other,All Others,1
+Amherst County,TOTAL,President,,Republican,Bush/ Cheney,6660
+Amherst County,TOTAL,President,,Democratic,Gore/ Lieberman,4812
+Amherst County,TOTAL,President,,Green,Nader/ La Duke,135
+Amherst County,TOTAL,President,,Libertarian,Browne/ Olivier,67
+Amherst County,TOTAL,President,,Reform,Buchanan/ Foster,29
+Amherst County,TOTAL,President,,Constitution,Phillips/ Frazier,5
+Amherst County,TOTAL,President,,Other,All Others,4
+Appomattox County,TOTAL,President,,Republican,Bush/ Cheney,3654
+Appomattox County,TOTAL,President,,Democratic,Gore/ Lieberman,2132
+Appomattox County,TOTAL,President,,Green,Nader/ La Duke,62
+Appomattox County,TOTAL,President,,Libertarian,Browne/ Olivier,60
+Appomattox County,TOTAL,President,,Reform,Buchanan/ Foster,13
+Appomattox County,TOTAL,President,,Constitution,Phillips/ Frazier,6
+Appomattox County,TOTAL,President,,Other,All Others,0
+Arlington County,TOTAL,President,,Republican,Bush/ Cheney,28555
+Arlington County,TOTAL,President,,Democratic,Gore/ Lieberman,50260
+Arlington County,TOTAL,President,,Green,Nader/ La Duke,3952
+Arlington County,TOTAL,President,,Libertarian,Browne/ Olivier,463
+Arlington County,TOTAL,President,,Reform,Buchanan/ Foster,152
+Arlington County,TOTAL,President,,Constitution,Phillips/ Frazier,34
+Arlington County,TOTAL,President,,Other,All Others,143
+Augusta County,TOTAL,President,,Republican,Bush/ Cheney,17744
+Augusta County,TOTAL,President,,Democratic,Gore/ Lieberman,6643
+Augusta County,TOTAL,President,,Green,Nader/ La Duke,527
+Augusta County,TOTAL,President,,Libertarian,Browne/ Olivier,269
+Augusta County,TOTAL,President,,Reform,Buchanan/ Foster,54
+Augusta County,TOTAL,President,,Constitution,Phillips/ Frazier,32
+Augusta County,TOTAL,President,,Other,All Others,2
+Bath County,TOTAL,President,,Republican,Bush/ Cheney,1311
+Bath County,TOTAL,President,,Democratic,Gore/ Lieberman,822
+Bath County,TOTAL,President,,Green,Nader/ La Duke,35
+Bath County,TOTAL,President,,Libertarian,Browne/ Olivier,27
+Bath County,TOTAL,President,,Reform,Buchanan/ Foster,10
+Bath County,TOTAL,President,,Constitution,Phillips/ Frazier,5
+Bath County,TOTAL,President,,Other,All Others,0
+Bedford County,TOTAL,President,,Republican,Bush/ Cheney,17224
+Bedford County,TOTAL,President,,Democratic,Gore/ Lieberman,8160
+Bedford County,TOTAL,President,,Green,Nader/ La Duke,376
+Bedford County,TOTAL,President,,Libertarian,Browne/ Olivier,268
+Bedford County,TOTAL,President,,Reform,Buchanan/ Foster,88
+Bedford County,TOTAL,President,,Constitution,Phillips/ Frazier,33
+Bedford County,TOTAL,President,,Other,All Others,0
+Bedford City,TOTAL,President,,Republican,Bush/ Cheney,1269
+Bedford City,TOTAL,President,,Democratic,Gore/ Lieberman,1078
+Bedford City,TOTAL,President,,Green,Nader/ La Duke,38
+Bedford City,TOTAL,President,,Libertarian,Browne/ Olivier,35
+Bedford City,TOTAL,President,,Reform,Buchanan/ Foster,18
+Bedford City,TOTAL,President,,Constitution,Phillips/ Frazier,3
+Bedford City,TOTAL,President,,Other,All Others,0
+Bland County,TOTAL,President,,Republican,Bush/ Cheney,1759
+Bland County,TOTAL,President,,Democratic,Gore/ Lieberman,851
+Bland County,TOTAL,President,,Green,Nader/ La Duke,42
+Bland County,TOTAL,President,,Libertarian,Browne/ Olivier,20
+Bland County,TOTAL,President,,Reform,Buchanan/ Foster,10
+Bland County,TOTAL,President,,Constitution,Phillips/ Frazier,6
+Bland County,TOTAL,President,,Other,All Others,0
+Botetourt County,TOTAL,President,,Republican,Bush/ Cheney,8867
+Botetourt County,TOTAL,President,,Democratic,Gore/ Lieberman,4627
+Botetourt County,TOTAL,President,,Green,Nader/ La Duke,207
+Botetourt County,TOTAL,President,,Libertarian,Browne/ Olivier,88
+Botetourt County,TOTAL,President,,Reform,Buchanan/ Foster,33
+Botetourt County,TOTAL,President,,Constitution,Phillips/ Frazier,18
+Botetourt County,TOTAL,President,,Other,All Others,0
+Bristol City,TOTAL,President,,Republican,Bush/ Cheney,3495
+Bristol City,TOTAL,President,,Democratic,Gore/ Lieberman,2646
+Bristol City,TOTAL,President,,Green,Nader/ La Duke,89
+Bristol City,TOTAL,President,,Libertarian,Browne/ Olivier,20
+Bristol City,TOTAL,President,,Reform,Buchanan/ Foster,9
+Bristol City,TOTAL,President,,Constitution,Phillips/ Frazier,12
+Bristol City,TOTAL,President,,Other,All Others,8
+Brunswick County,TOTAL,President,,Republican,Bush/ Cheney,2561
+Brunswick County,TOTAL,President,,Democratic,Gore/ Lieberman,3387
+Brunswick County,TOTAL,President,,Green,Nader/ La Duke,28
+Brunswick County,TOTAL,President,,Libertarian,Browne/ Olivier,13
+Brunswick County,TOTAL,President,,Reform,Buchanan/ Foster,7
+Brunswick County,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Brunswick County,TOTAL,President,,Other,All Others,0
+Buchanan County,TOTAL,President,,Republican,Bush/ Cheney,3867
+Buchanan County,TOTAL,President,,Democratic,Gore/ Lieberman,5745
+Buchanan County,TOTAL,President,,Green,Nader/ La Duke,65
+Buchanan County,TOTAL,President,,Libertarian,Browne/ Olivier,132
+Buchanan County,TOTAL,President,,Reform,Buchanan/ Foster,32
+Buchanan County,TOTAL,President,,Constitution,Phillips/ Frazier,15
+Buchanan County,TOTAL,President,,Other,All Others,0
+Buckingham County,TOTAL,President,,Republican,Bush/ Cheney,2738
+Buckingham County,TOTAL,President,,Democratic,Gore/ Lieberman,2561
+Buckingham County,TOTAL,President,,Green,Nader/ La Duke,96
+Buckingham County,TOTAL,President,,Libertarian,Browne/ Olivier,39
+Buckingham County,TOTAL,President,,Reform,Buchanan/ Foster,12
+Buckingham County,TOTAL,President,,Constitution,Phillips/ Frazier,8
+Buckingham County,TOTAL,President,,Other,All Others,0
+Buena Vista City,TOTAL,President,,Republican,Bush/ Cheney,980
+Buena Vista City,TOTAL,President,,Democratic,Gore/ Lieberman,941
+Buena Vista City,TOTAL,President,,Green,Nader/ La Duke,27
+Buena Vista City,TOTAL,President,,Libertarian,Browne/ Olivier,19
+Buena Vista City,TOTAL,President,,Reform,Buchanan/ Foster,7
+Buena Vista City,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Buena Vista City,TOTAL,President,,Other,All Others,0
+Campbell County,TOTAL,President,,Republican,Bush/ Cheney,13162
+Campbell County,TOTAL,President,,Democratic,Gore/ Lieberman,6659
+Campbell County,TOTAL,President,,Green,Nader/ La Duke,236
+Campbell County,TOTAL,President,,Libertarian,Browne/ Olivier,199
+Campbell County,TOTAL,President,,Reform,Buchanan/ Foster,54
+Campbell County,TOTAL,President,,Constitution,Phillips/ Frazier,14
+Campbell County,TOTAL,President,,Other,All Others,3
+Caroline County,TOTAL,President,,Republican,Bush/ Cheney,3873
+Caroline County,TOTAL,President,,Democratic,Gore/ Lieberman,4314
+Caroline County,TOTAL,President,,Green,Nader/ La Duke,102
+Caroline County,TOTAL,President,,Libertarian,Browne/ Olivier,38
+Caroline County,TOTAL,President,,Reform,Buchanan/ Foster,16
+Caroline County,TOTAL,President,,Constitution,Phillips/ Frazier,7
+Caroline County,TOTAL,President,,Other,All Others,1
+Carroll County,TOTAL,President,,Republican,Bush/ Cheney,7142
+Carroll County,TOTAL,President,,Democratic,Gore/ Lieberman,3638
+Carroll County,TOTAL,President,,Green,Nader/ La Duke,126
+Carroll County,TOTAL,President,,Libertarian,Browne/ Olivier,52
+Carroll County,TOTAL,President,,Reform,Buchanan/ Foster,34
+Carroll County,TOTAL,President,,Constitution,Phillips/ Frazier,9
+Carroll County,TOTAL,President,,Other,All Others,0
+Charles City County,TOTAL,President,,Republican,Bush/ Cheney,1023
+Charles City County,TOTAL,President,,Democratic,Gore/ Lieberman,1981
+Charles City County,TOTAL,President,,Green,Nader/ La Duke,31
+Charles City County,TOTAL,President,,Libertarian,Browne/ Olivier,19
+Charles City County,TOTAL,President,,Reform,Buchanan/ Foster,8
+Charles City County,TOTAL,President,,Constitution,Phillips/ Frazier,4
+Charles City County,TOTAL,President,,Other,All Others,0
+Charlotte County,TOTAL,President,,Republican,Bush/ Cheney,2855
+Charlotte County,TOTAL,President,,Democratic,Gore/ Lieberman,2017
+Charlotte County,TOTAL,President,,Green,Nader/ La Duke,43
+Charlotte County,TOTAL,President,,Libertarian,Browne/ Olivier,46
+Charlotte County,TOTAL,President,,Reform,Buchanan/ Foster,21
+Charlotte County,TOTAL,President,,Constitution,Phillips/ Frazier,11
+Charlotte County,TOTAL,President,,Other,All Others,1
+Charlottesville City,TOTAL,President,,Republican,Bush/ Cheney,4034
+Charlottesville City,TOTAL,President,,Democratic,Gore/ Lieberman,7762
+Charlottesville City,TOTAL,President,,Green,Nader/ La Duke,1196
+Charlottesville City,TOTAL,President,,Libertarian,Browne/ Olivier,111
+Charlottesville City,TOTAL,President,,Reform,Buchanan/ Foster,20
+Charlottesville City,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Charlottesville City,TOTAL,President,,Other,All Others,100
+Chesapeake City,TOTAL,President,,Republican,Bush/ Cheney,39684
+Chesapeake City,TOTAL,President,,Democratic,Gore/ Lieberman,33578
+Chesapeake City,TOTAL,President,,Green,Nader/ La Duke,732
+Chesapeake City,TOTAL,President,,Libertarian,Browne/ Olivier,322
+Chesapeake City,TOTAL,President,,Reform,Buchanan/ Foster,109
+Chesapeake City,TOTAL,President,,Constitution,Phillips/ Frazier,38
+Chesapeake City,TOTAL,President,,Other,All Others,122
+Chesterfield County,TOTAL,President,,Republican,Bush/ Cheney,69924
+Chesterfield County,TOTAL,President,,Democratic,Gore/ Lieberman,38638
+Chesterfield County,TOTAL,President,,Green,Nader/ La Duke,1646
+Chesterfield County,TOTAL,President,,Libertarian,Browne/ Olivier,335
+Chesterfield County,TOTAL,President,,Reform,Buchanan/ Foster,128
+Chesterfield County,TOTAL,President,,Constitution,Phillips/ Frazier,41
+Chesterfield County,TOTAL,President,,Other,All Others,239
+Clarke County,TOTAL,President,,Republican,Bush/ Cheney,2883
+Clarke County,TOTAL,President,,Democratic,Gore/ Lieberman,2166
+Clarke County,TOTAL,President,,Green,Nader/ La Duke,195
+Clarke County,TOTAL,President,,Libertarian,Browne/ Olivier,19
+Clarke County,TOTAL,President,,Reform,Buchanan/ Foster,15
+Clarke County,TOTAL,President,,Constitution,Phillips/ Frazier,4
+Clarke County,TOTAL,President,,Other,All Others,2
+Clifton Forge City,TOTAL,President,,Republican,Bush/ Cheney,613
+Clifton Forge City,TOTAL,President,,Democratic,Gore/ Lieberman,868
+Clifton Forge City,TOTAL,President,,Green,Nader/ La Duke,25
+Clifton Forge City,TOTAL,President,,Libertarian,Browne/ Olivier,20
+Clifton Forge City,TOTAL,President,,Reform,Buchanan/ Foster,4
+Clifton Forge City,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Clifton Forge City,TOTAL,President,,Other,All Others,1
+Colonial Heights City,TOTAL,President,,Republican,Bush/ Cheney,5519
+Colonial Heights City,TOTAL,President,,Democratic,Gore/ Lieberman,2100
+Colonial Heights City,TOTAL,President,,Green,Nader/ La Duke,123
+Colonial Heights City,TOTAL,President,,Libertarian,Browne/ Olivier,19
+Colonial Heights City,TOTAL,President,,Reform,Buchanan/ Foster,9
+Colonial Heights City,TOTAL,President,,Constitution,Phillips/ Frazier,2
+Colonial Heights City,TOTAL,President,,Other,All Others,10
+Covington City,TOTAL,President,,Republican,Bush/ Cheney,966
+Covington City,TOTAL,President,,Democratic,Gore/ Lieberman,1168
+Covington City,TOTAL,President,,Green,Nader/ La Duke,24
+Covington City,TOTAL,President,,Libertarian,Browne/ Olivier,40
+Covington City,TOTAL,President,,Reform,Buchanan/ Foster,11
+Covington City,TOTAL,President,,Constitution,Phillips/ Frazier,5
+Covington City,TOTAL,President,,Other,All Others,0
+Craig County,TOTAL,President,,Republican,Bush/ Cheney,1580
+Craig County,TOTAL,President,,Democratic,Gore/ Lieberman,851
+Craig County,TOTAL,President,,Green,Nader/ La Duke,39
+Craig County,TOTAL,President,,Libertarian,Browne/ Olivier,14
+Craig County,TOTAL,President,,Reform,Buchanan/ Foster,5
+Craig County,TOTAL,President,,Constitution,Phillips/ Frazier,4
+Craig County,TOTAL,President,,Other,All Others,0
+Culpeper County,TOTAL,President,,Republican,Bush/ Cheney,7440
+Culpeper County,TOTAL,President,,Democratic,Gore/ Lieberman,4364
+Culpeper County,TOTAL,President,,Green,Nader/ La Duke,253
+Culpeper County,TOTAL,President,,Libertarian,Browne/ Olivier,137
+Culpeper County,TOTAL,President,,Reform,Buchanan/ Foster,27
+Culpeper County,TOTAL,President,,Constitution,Phillips/ Frazier,21
+Culpeper County,TOTAL,President,,Other,All Others,2
+Cumberland County,TOTAL,President,,Republican,Bush/ Cheney,1974
+Cumberland County,TOTAL,President,,Democratic,Gore/ Lieberman,1405
+Cumberland County,TOTAL,President,,Green,Nader/ La Duke,35
+Cumberland County,TOTAL,President,,Libertarian,Browne/ Olivier,75
+Cumberland County,TOTAL,President,,Reform,Buchanan/ Foster,15
+Cumberland County,TOTAL,President,,Constitution,Phillips/ Frazier,3
+Cumberland County,TOTAL,President,,Other,All Others,0
+Danville City,TOTAL,President,,Republican,Bush/ Cheney,9427
+Danville City,TOTAL,President,,Democratic,Gore/ Lieberman,8221
+Danville City,TOTAL,President,,Green,Nader/ La Duke,168
+Danville City,TOTAL,President,,Libertarian,Browne/ Olivier,437
+Danville City,TOTAL,President,,Reform,Buchanan/ Foster,36
+Danville City,TOTAL,President,,Constitution,Phillips/ Frazier,17
+Danville City,TOTAL,President,,Other,All Others,1
+Dickenson County,TOTAL,President,,Republican,Bush/ Cheney,3122
+Dickenson County,TOTAL,President,,Democratic,Gore/ Lieberman,3951
+Dickenson County,TOTAL,President,,Green,Nader/ La Duke,85
+Dickenson County,TOTAL,President,,Libertarian,Browne/ Olivier,37
+Dickenson County,TOTAL,President,,Reform,Buchanan/ Foster,25
+Dickenson County,TOTAL,President,,Constitution,Phillips/ Frazier,6
+Dickenson County,TOTAL,President,,Other,All Others,0
+Dinwiddie County,TOTAL,President,,Republican,Bush/ Cheney,4959
+Dinwiddie County,TOTAL,President,,Democratic,Gore/ Lieberman,4001
+Dinwiddie County,TOTAL,President,,Green,Nader/ La Duke,74
+Dinwiddie County,TOTAL,President,,Libertarian,Browne/ Olivier,58
+Dinwiddie County,TOTAL,President,,Reform,Buchanan/ Foster,32
+Dinwiddie County,TOTAL,President,,Constitution,Phillips/ Frazier,12
+Dinwiddie County,TOTAL,President,,Other,All Others,0
+Emporia City,TOTAL,President,,Republican,Bush/ Cheney,938
+Emporia City,TOTAL,President,,Democratic,Gore/ Lieberman,1116
+Emporia City,TOTAL,President,,Green,Nader/ La Duke,17
+Emporia City,TOTAL,President,,Libertarian,Browne/ Olivier,4
+Emporia City,TOTAL,President,,Reform,Buchanan/ Foster,4
+Emporia City,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Emporia City,TOTAL,President,,Other,All Others,0
+Essex County,TOTAL,President,,Republican,Bush/ Cheney,1995
+Essex County,TOTAL,President,,Democratic,Gore/ Lieberman,1750
+Essex County,TOTAL,President,,Green,Nader/ La Duke,59
+Essex County,TOTAL,President,,Libertarian,Browne/ Olivier,19
+Essex County,TOTAL,President,,Reform,Buchanan/ Foster,3
+Essex County,TOTAL,President,,Constitution,Phillips/ Frazier,5
+Essex County,TOTAL,President,,Other,All Others,0
+Fairfax County,TOTAL,President,,Republican,Bush/ Cheney,202181
+Fairfax County,TOTAL,President,,Democratic,Gore/ Lieberman,196501
+Fairfax County,TOTAL,President,,Green,Nader/ La Duke,12201
+Fairfax County,TOTAL,President,,Libertarian,Browne/ Olivier,1546
+Fairfax County,TOTAL,President,,Reform,Buchanan/ Foster,745
+Fairfax County,TOTAL,President,,Constitution,Phillips/ Frazier,164
+Fairfax County,TOTAL,President,,Other,All Others,437
+Fairfax City,TOTAL,President,,Republican,Bush/ Cheney,4762
+Fairfax City,TOTAL,President,,Democratic,Gore/ Lieberman,4361
+Fairfax City,TOTAL,President,,Green,Nader/ La Duke,352
+Fairfax City,TOTAL,President,,Libertarian,Browne/ Olivier,39
+Fairfax City,TOTAL,President,,Reform,Buchanan/ Foster,33
+Fairfax City,TOTAL,President,,Constitution,Phillips/ Frazier,2
+Fairfax City,TOTAL,President,,Other,All Others,7
+Falls Church City,TOTAL,President,,Republican,Bush/ Cheney,2131
+Falls Church City,TOTAL,President,,Democratic,Gore/ Lieberman,3109
+Falls Church City,TOTAL,President,,Green,Nader/ La Duke,285
+Falls Church City,TOTAL,President,,Libertarian,Browne/ Olivier,38
+Falls Church City,TOTAL,President,,Reform,Buchanan/ Foster,18
+Falls Church City,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Falls Church City,TOTAL,President,,Other,All Others,11
+Fauquier County,TOTAL,President,,Republican,Bush/ Cheney,14456
+Fauquier County,TOTAL,President,,Democratic,Gore/ Lieberman,8296
+Fauquier County,TOTAL,President,,Green,Nader/ La Duke,570
+Fauquier County,TOTAL,President,,Libertarian,Browne/ Olivier,60
+Fauquier County,TOTAL,President,,Reform,Buchanan/ Foster,56
+Fauquier County,TOTAL,President,,Constitution,Phillips/ Frazier,8
+Fauquier County,TOTAL,President,,Other,All Others,35
+Floyd County,TOTAL,President,,Republican,Bush/ Cheney,3423
+Floyd County,TOTAL,President,,Democratic,Gore/ Lieberman,1957
+Floyd County,TOTAL,President,,Green,Nader/ La Duke,244
+Floyd County,TOTAL,President,,Libertarian,Browne/ Olivier,48
+Floyd County,TOTAL,President,,Reform,Buchanan/ Foster,23
+Floyd County,TOTAL,President,,Constitution,Phillips/ Frazier,43
+Floyd County,TOTAL,President,,Other,All Others,1
+Fluvanna County,TOTAL,President,,Republican,Bush/ Cheney,4962
+Fluvanna County,TOTAL,President,,Democratic,Gore/ Lieberman,3431
+Fluvanna County,TOTAL,President,,Green,Nader/ La Duke,252
+Fluvanna County,TOTAL,President,,Libertarian,Browne/ Olivier,38
+Fluvanna County,TOTAL,President,,Reform,Buchanan/ Foster,11
+Fluvanna County,TOTAL,President,,Constitution,Phillips/ Frazier,9
+Fluvanna County,TOTAL,President,,Other,All Others,3
+Franklin County,TOTAL,President,,Republican,Bush/ Cheney,11225
+Franklin County,TOTAL,President,,Democratic,Gore/ Lieberman,7145
+Franklin County,TOTAL,President,,Green,Nader/ La Duke,303
+Franklin County,TOTAL,President,,Libertarian,Browne/ Olivier,87
+Franklin County,TOTAL,President,,Reform,Buchanan/ Foster,55
+Franklin County,TOTAL,President,,Constitution,Phillips/ Frazier,14
+Franklin County,TOTAL,President,,Other,All Others,0
+Franklin City,TOTAL,President,,Republican,Bush/ Cheney,1393
+Franklin City,TOTAL,President,,Democratic,Gore/ Lieberman,1763
+Franklin City,TOTAL,President,,Green,Nader/ La Duke,25
+Franklin City,TOTAL,President,,Libertarian,Browne/ Olivier,8
+Franklin City,TOTAL,President,,Reform,Buchanan/ Foster,1
+Franklin City,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Franklin City,TOTAL,President,,Other,All Others,0
+Frederick County,TOTAL,President,,Republican,Bush/ Cheney,14574
+Frederick County,TOTAL,President,,Democratic,Gore/ Lieberman,7158
+Frederick County,TOTAL,President,,Green,Nader/ La Duke,483
+Frederick County,TOTAL,President,,Libertarian,Browne/ Olivier,80
+Frederick County,TOTAL,President,,Reform,Buchanan/ Foster,76
+Frederick County,TOTAL,President,,Constitution,Phillips/ Frazier,15
+Frederick County,TOTAL,President,,Other,All Others,6
+Fredericksburg City,TOTAL,President,,Republican,Bush/ Cheney,2935
+Fredericksburg City,TOTAL,President,,Democratic,Gore/ Lieberman,3360
+Fredericksburg City,TOTAL,President,,Green,Nader/ La Duke,326
+Fredericksburg City,TOTAL,President,,Libertarian,Browne/ Olivier,36
+Fredericksburg City,TOTAL,President,,Reform,Buchanan/ Foster,13
+Fredericksburg City,TOTAL,President,,Constitution,Phillips/ Frazier,2
+Fredericksburg City,TOTAL,President,,Other,All Others,9
+Galax City,TOTAL,President,,Republican,Bush/ Cheney,1160
+Galax City,TOTAL,President,,Democratic,Gore/ Lieberman,996
+Galax City,TOTAL,President,,Green,Nader/ La Duke,42
+Galax City,TOTAL,President,,Libertarian,Browne/ Olivier,5
+Galax City,TOTAL,President,,Reform,Buchanan/ Foster,8
+Galax City,TOTAL,President,,Constitution,Phillips/ Frazier,2
+Galax City,TOTAL,President,,Other,All Others,0
+Giles County,TOTAL,President,,Republican,Bush/ Cheney,3574
+Giles County,TOTAL,President,,Democratic,Gore/ Lieberman,3004
+Giles County,TOTAL,President,,Green,Nader/ La Duke,137
+Giles County,TOTAL,President,,Libertarian,Browne/ Olivier,70
+Giles County,TOTAL,President,,Reform,Buchanan/ Foster,22
+Giles County,TOTAL,President,,Constitution,Phillips/ Frazier,13
+Giles County,TOTAL,President,,Other,All Others,0
+Gloucester County,TOTAL,President,,Republican,Bush/ Cheney,8718
+Gloucester County,TOTAL,President,,Democratic,Gore/ Lieberman,4553
+Gloucester County,TOTAL,President,,Green,Nader/ La Duke,225
+Gloucester County,TOTAL,President,,Libertarian,Browne/ Olivier,148
+Gloucester County,TOTAL,President,,Reform,Buchanan/ Foster,34
+Gloucester County,TOTAL,President,,Constitution,Phillips/ Frazier,20
+Gloucester County,TOTAL,President,,Other,All Others,1
+Goochland County,TOTAL,President,,Republican,Bush/ Cheney,5378
+Goochland County,TOTAL,President,,Democratic,Gore/ Lieberman,3197
+Goochland County,TOTAL,President,,Green,Nader/ La Duke,139
+Goochland County,TOTAL,President,,Libertarian,Browne/ Olivier,42
+Goochland County,TOTAL,President,,Reform,Buchanan/ Foster,15
+Goochland County,TOTAL,President,,Constitution,Phillips/ Frazier,3
+Goochland County,TOTAL,President,,Other,All Others,3
+Grayson County,TOTAL,President,,Republican,Bush/ Cheney,4236
+Grayson County,TOTAL,President,,Democratic,Gore/ Lieberman,2467
+Grayson County,TOTAL,President,,Green,Nader/ La Duke,102
+Grayson County,TOTAL,President,,Libertarian,Browne/ Olivier,15
+Grayson County,TOTAL,President,,Reform,Buchanan/ Foster,29
+Grayson County,TOTAL,President,,Constitution,Phillips/ Frazier,2
+Grayson County,TOTAL,President,,Other,All Others,1
+Greene County,TOTAL,President,,Republican,Bush/ Cheney,3375
+Greene County,TOTAL,President,,Democratic,Gore/ Lieberman,1774
+Greene County,TOTAL,President,,Green,Nader/ La Duke,194
+Greene County,TOTAL,President,,Libertarian,Browne/ Olivier,50
+Greene County,TOTAL,President,,Reform,Buchanan/ Foster,10
+Greene County,TOTAL,President,,Constitution,Phillips/ Frazier,5
+Greene County,TOTAL,President,,Other,All Others,4
+Greensville County,TOTAL,President,,Republican,Bush/ Cheney,1565
+Greensville County,TOTAL,President,,Democratic,Gore/ Lieberman,2314
+Greensville County,TOTAL,President,,Green,Nader/ La Duke,13
+Greensville County,TOTAL,President,,Libertarian,Browne/ Olivier,4
+Greensville County,TOTAL,President,,Reform,Buchanan/ Foster,7
+Greensville County,TOTAL,President,,Constitution,Phillips/ Frazier,3
+Greensville County,TOTAL,President,,Other,All Others,0
+Halifax County,TOTAL,President,,Republican,Bush/ Cheney,7732
+Halifax County,TOTAL,President,,Democratic,Gore/ Lieberman,5963
+Halifax County,TOTAL,President,,Green,Nader/ La Duke,110
+Halifax County,TOTAL,President,,Libertarian,Browne/ Olivier,211
+Halifax County,TOTAL,President,,Reform,Buchanan/ Foster,37
+Halifax County,TOTAL,President,,Constitution,Phillips/ Frazier,19
+Halifax County,TOTAL,President,,Other,All Others,0
+Hampton City,TOTAL,President,,Republican,Bush/ Cheney,19561
+Hampton City,TOTAL,President,,Democratic,Gore/ Lieberman,27490
+Hampton City,TOTAL,President,,Green,Nader/ La Duke,563
+Hampton City,TOTAL,President,,Libertarian,Browne/ Olivier,154
+Hampton City,TOTAL,President,,Reform,Buchanan/ Foster,61
+Hampton City,TOTAL,President,,Constitution,Phillips/ Frazier,24
+Hampton City,TOTAL,President,,Other,All Others,34
+Hanover County,TOTAL,President,,Republican,Bush/ Cheney,28614
+Hanover County,TOTAL,President,,Democratic,Gore/ Lieberman,12044
+Hanover County,TOTAL,President,,Green,Nader/ La Duke,711
+Hanover County,TOTAL,President,,Libertarian,Browne/ Olivier,117
+Hanover County,TOTAL,President,,Reform,Buchanan/ Foster,75
+Hanover County,TOTAL,President,,Constitution,Phillips/ Frazier,12
+Hanover County,TOTAL,President,,Other,All Others,12
+Harrisonburg City,TOTAL,President,,Republican,Bush/ Cheney,5741
+Harrisonburg City,TOTAL,President,,Democratic,Gore/ Lieberman,3482
+Harrisonburg City,TOTAL,President,,Green,Nader/ La Duke,641
+Harrisonburg City,TOTAL,President,,Libertarian,Browne/ Olivier,45
+Harrisonburg City,TOTAL,President,,Reform,Buchanan/ Foster,19
+Harrisonburg City,TOTAL,President,,Constitution,Phillips/ Frazier,14
+Harrisonburg City,TOTAL,President,,Other,All Others,16
+Henrico County,TOTAL,President,,Republican,Bush/ Cheney,62887
+Henrico County,TOTAL,President,,Democratic,Gore/ Lieberman,48645
+Henrico County,TOTAL,President,,Green,Nader/ La Duke,1893
+Henrico County,TOTAL,President,,Libertarian,Browne/ Olivier,367
+Henrico County,TOTAL,President,,Reform,Buchanan/ Foster,157
+Henrico County,TOTAL,President,,Constitution,Phillips/ Frazier,27
+Henrico County,TOTAL,President,,Other,All Others,276
+Henry County,TOTAL,President,,Republican,Bush/ Cheney,11870
+Henry County,TOTAL,President,,Democratic,Gore/ Lieberman,8898
+Henry County,TOTAL,President,,Green,Nader/ La Duke,234
+Henry County,TOTAL,President,,Libertarian,Browne/ Olivier,331
+Henry County,TOTAL,President,,Reform,Buchanan/ Foster,103
+Henry County,TOTAL,President,,Constitution,Phillips/ Frazier,26
+Henry County,TOTAL,President,,Other,All Others,1
+Highland County,TOTAL,President,,Republican,Bush/ Cheney,942
+Highland County,TOTAL,President,,Democratic,Gore/ Lieberman,453
+Highland County,TOTAL,President,,Green,Nader/ La Duke,32
+Highland County,TOTAL,President,,Libertarian,Browne/ Olivier,4
+Highland County,TOTAL,President,,Reform,Buchanan/ Foster,6
+Highland County,TOTAL,President,,Constitution,Phillips/ Frazier,0
+Highland County,TOTAL,President,,Other,All Others,0
+Hopewell City,TOTAL,President,,Republican,Bush/ Cheney,3749
+Hopewell City,TOTAL,President,,Democratic,Gore/ Lieberman,3024
+Hopewell City,TOTAL,President,,Green,Nader/ La Duke,73
+Hopewell City,TOTAL,President,,Libertarian,Browne/ Olivier,92
+Hopewell City,TOTAL,President,,Reform,Buchanan/ Foster,28
+Hopewell City,TOTAL,President,,Constitution,Phillips/ Frazier,11
+Hopewell City,TOTAL,President,,Other,All Others,1
+Isle of Wight County,TOTAL,President,,Republican,Bush/ Cheney,7587
+Isle of Wight County,TOTAL,President,,Democratic,Gore/ Lieberman,5162
+Isle of Wight County,TOTAL,President,,Green,Nader/ La Duke,123
+Isle of Wight County,TOTAL,President,,Libertarian,Browne/ Olivier,51
+Isle of Wight County,TOTAL,President,,Reform,Buchanan/ Foster,11
+Isle of Wight County,TOTAL,President,,Constitution,Phillips/ Frazier,6
+Isle of Wight County,TOTAL,President,,Other,All Others,10
+James City County,TOTAL,President,,Republican,Bush/ Cheney,14628
+James City County,TOTAL,President,,Democratic,Gore/ Lieberman,9090
+James City County,TOTAL,President,,Green,Nader/ La Duke,639
+James City County,TOTAL,President,,Libertarian,Browne/ Olivier,94
+James City County,TOTAL,President,,Reform,Buchanan/ Foster,22
+James City County,TOTAL,President,,Constitution,Phillips/ Frazier,2
+James City County,TOTAL,President,,Other,All Others,17
+King and Queen County,TOTAL,President,,Republican,Bush/ Cheney,1423
+King and Queen County,TOTAL,President,,Democratic,Gore/ Lieberman,1387
+King and Queen County,TOTAL,President,,Green,Nader/ La Duke,33
+King and Queen County,TOTAL,President,,Libertarian,Browne/ Olivier,11
+King and Queen County,TOTAL,President,,Reform,Buchanan/ Foster,4
+King and Queen County,TOTAL,President,,Constitution,Phillips/ Frazier,1
+King and Queen County,TOTAL,President,,Other,All Others,0
+King George County,TOTAL,President,,Republican,Bush/ Cheney,3590
+King George County,TOTAL,President,,Democratic,Gore/ Lieberman,2070
+King George County,TOTAL,President,,Green,Nader/ La Duke,132
+King George County,TOTAL,President,,Libertarian,Browne/ Olivier,31
+King George County,TOTAL,President,,Reform,Buchanan/ Foster,17
+King George County,TOTAL,President,,Constitution,Phillips/ Frazier,6
+King George County,TOTAL,President,,Other,All Others,6
+King William County,TOTAL,President,,Republican,Bush/ Cheney,3547
+King William County,TOTAL,President,,Democratic,Gore/ Lieberman,2125
+King William County,TOTAL,President,,Green,Nader/ La Duke,74
+King William County,TOTAL,President,,Libertarian,Browne/ Olivier,9
+King William County,TOTAL,President,,Reform,Buchanan/ Foster,11
+King William County,TOTAL,President,,Constitution,Phillips/ Frazier,2
+King William County,TOTAL,President,,Other,All Others,1
+Lancaster County,TOTAL,President,,Republican,Bush/ Cheney,3411
+Lancaster County,TOTAL,President,,Democratic,Gore/ Lieberman,1937
+Lancaster County,TOTAL,President,,Green,Nader/ La Duke,88
+Lancaster County,TOTAL,President,,Libertarian,Browne/ Olivier,14
+Lancaster County,TOTAL,President,,Reform,Buchanan/ Foster,3
+Lancaster County,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Lancaster County,TOTAL,President,,Other,All Others,1
+Lee County,TOTAL,President,,Republican,Bush/ Cheney,4551
+Lee County,TOTAL,President,,Democratic,Gore/ Lieberman,4031
+Lee County,TOTAL,President,,Green,Nader/ La Duke,79
+Lee County,TOTAL,President,,Libertarian,Browne/ Olivier,34
+Lee County,TOTAL,President,,Reform,Buchanan/ Foster,42
+Lee County,TOTAL,President,,Constitution,Phillips/ Frazier,11
+Lee County,TOTAL,President,,Other,All Others,0
+Lexington City,TOTAL,President,,Republican,Bush/ Cheney,957
+Lexington City,TOTAL,President,,Democratic,Gore/ Lieberman,1048
+Lexington City,TOTAL,President,,Green,Nader/ La Duke,103
+Lexington City,TOTAL,President,,Libertarian,Browne/ Olivier,26
+Lexington City,TOTAL,President,,Reform,Buchanan/ Foster,3
+Lexington City,TOTAL,President,,Constitution,Phillips/ Frazier,2
+Lexington City,TOTAL,President,,Other,All Others,1
+Loudoun County,TOTAL,President,,Republican,Bush/ Cheney,42453
+Loudoun County,TOTAL,President,,Democratic,Gore/ Lieberman,30938
+Loudoun County,TOTAL,President,,Green,Nader/ La Duke,1665
+Loudoun County,TOTAL,President,,Libertarian,Browne/ Olivier,276
+Loudoun County,TOTAL,President,,Reform,Buchanan/ Foster,133
+Loudoun County,TOTAL,President,,Constitution,Phillips/ Frazier,38
+Loudoun County,TOTAL,President,,Other,All Others,150
+Louisa County,TOTAL,President,,Republican,Bush/ Cheney,5461
+Louisa County,TOTAL,President,,Democratic,Gore/ Lieberman,4309
+Louisa County,TOTAL,President,,Green,Nader/ La Duke,222
+Louisa County,TOTAL,President,,Libertarian,Browne/ Olivier,44
+Louisa County,TOTAL,President,,Reform,Buchanan/ Foster,45
+Louisa County,TOTAL,President,,Constitution,Phillips/ Frazier,12
+Louisa County,TOTAL,President,,Other,All Others,3
+Lunenburg County,TOTAL,President,,Republican,Bush/ Cheney,2510
+Lunenburg County,TOTAL,President,,Democratic,Gore/ Lieberman,2026
+Lunenburg County,TOTAL,President,,Green,Nader/ La Duke,33
+Lunenburg County,TOTAL,President,,Libertarian,Browne/ Olivier,16
+Lunenburg County,TOTAL,President,,Reform,Buchanan/ Foster,6
+Lunenburg County,TOTAL,President,,Constitution,Phillips/ Frazier,0
+Lunenburg County,TOTAL,President,,Other,All Others,0
+Lynchburg City,TOTAL,President,,Republican,Bush/ Cheney,12518
+Lynchburg City,TOTAL,President,,Democratic,Gore/ Lieberman,10374
+Lynchburg City,TOTAL,President,,Green,Nader/ La Duke,441
+Lynchburg City,TOTAL,President,,Libertarian,Browne/ Olivier,105
+Lynchburg City,TOTAL,President,,Reform,Buchanan/ Foster,35
+Lynchburg City,TOTAL,President,,Constitution,Phillips/ Frazier,21
+Lynchburg City,TOTAL,President,,Other,All Others,12
+Madison County,TOTAL,President,,Republican,Bush/ Cheney,2940
+Madison County,TOTAL,President,,Democratic,Gore/ Lieberman,1844
+Madison County,TOTAL,President,,Green,Nader/ La Duke,148
+Madison County,TOTAL,President,,Libertarian,Browne/ Olivier,67
+Madison County,TOTAL,President,,Reform,Buchanan/ Foster,17
+Madison County,TOTAL,President,,Constitution,Phillips/ Frazier,9
+Madison County,TOTAL,President,,Other,All Others,2
+Manassas City,TOTAL,President,,Republican,Bush/ Cheney,6752
+Manassas City,TOTAL,President,,Democratic,Gore/ Lieberman,5262
+Manassas City,TOTAL,President,,Green,Nader/ La Duke,230
+Manassas City,TOTAL,President,,Libertarian,Browne/ Olivier,93
+Manassas City,TOTAL,President,,Reform,Buchanan/ Foster,58
+Manassas City,TOTAL,President,,Constitution,Phillips/ Frazier,15
+Manassas City,TOTAL,President,,Other,All Others,0
+Manassas Park City,TOTAL,President,,Republican,Bush/ Cheney,1460
+Manassas Park City,TOTAL,President,,Democratic,Gore/ Lieberman,1048
+Manassas Park City,TOTAL,President,,Green,Nader/ La Duke,51
+Manassas Park City,TOTAL,President,,Libertarian,Browne/ Olivier,9
+Manassas Park City,TOTAL,President,,Reform,Buchanan/ Foster,10
+Manassas Park City,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Manassas Park City,TOTAL,President,,Other,All Others,1
+Martinsville City,TOTAL,President,,Republican,Bush/ Cheney,2560
+Martinsville City,TOTAL,President,,Democratic,Gore/ Lieberman,3048
+Martinsville City,TOTAL,President,,Green,Nader/ La Duke,59
+Martinsville City,TOTAL,President,,Libertarian,Browne/ Olivier,12
+Martinsville City,TOTAL,President,,Reform,Buchanan/ Foster,5
+Martinsville City,TOTAL,President,,Constitution,Phillips/ Frazier,2
+Martinsville City,TOTAL,President,,Other,All Others,8
+Mathews County,TOTAL,President,,Republican,Bush/ Cheney,2951
+Mathews County,TOTAL,President,,Democratic,Gore/ Lieberman,1499
+Mathews County,TOTAL,President,,Green,Nader/ La Duke,88
+Mathews County,TOTAL,President,,Libertarian,Browne/ Olivier,54
+Mathews County,TOTAL,President,,Reform,Buchanan/ Foster,11
+Mathews County,TOTAL,President,,Constitution,Phillips/ Frazier,6
+Mathews County,TOTAL,President,,Other,All Others,0
+Mecklenburg County,TOTAL,President,,Republican,Bush/ Cheney,6600
+Mecklenburg County,TOTAL,President,,Democratic,Gore/ Lieberman,4797
+Mecklenburg County,TOTAL,President,,Green,Nader/ La Duke,104
+Mecklenburg County,TOTAL,President,,Libertarian,Browne/ Olivier,96
+Mecklenburg County,TOTAL,President,,Reform,Buchanan/ Foster,43
+Mecklenburg County,TOTAL,President,,Constitution,Phillips/ Frazier,13
+Mecklenburg County,TOTAL,President,,Other,All Others,1
+Middlesex County,TOTAL,President,,Republican,Bush/ Cheney,2844
+Middlesex County,TOTAL,President,,Democratic,Gore/ Lieberman,1671
+Middlesex County,TOTAL,President,,Green,Nader/ La Duke,84
+Middlesex County,TOTAL,President,,Libertarian,Browne/ Olivier,66
+Middlesex County,TOTAL,President,,Reform,Buchanan/ Foster,17
+Middlesex County,TOTAL,President,,Constitution,Phillips/ Frazier,5
+Middlesex County,TOTAL,President,,Other,All Others,2
+Montgomery County,TOTAL,President,,Republican,Bush/ Cheney,13991
+Montgomery County,TOTAL,President,,Democratic,Gore/ Lieberman,11720
+Montgomery County,TOTAL,President,,Green,Nader/ La Duke,1222
+Montgomery County,TOTAL,President,,Libertarian,Browne/ Olivier,149
+Montgomery County,TOTAL,President,,Reform,Buchanan/ Foster,55
+Montgomery County,TOTAL,President,,Constitution,Phillips/ Frazier,16
+Montgomery County,TOTAL,President,,Other,All Others,7
+Nelson County,TOTAL,President,,Republican,Bush/ Cheney,2913
+Nelson County,TOTAL,President,,Democratic,Gore/ Lieberman,2907
+Nelson County,TOTAL,President,,Green,Nader/ La Duke,273
+Nelson County,TOTAL,President,,Libertarian,Browne/ Olivier,27
+Nelson County,TOTAL,President,,Reform,Buchanan/ Foster,17
+Nelson County,TOTAL,President,,Constitution,Phillips/ Frazier,2
+Nelson County,TOTAL,President,,Other,All Others,6
+New Kent County,TOTAL,President,,Republican,Bush/ Cheney,3934
+New Kent County,TOTAL,President,,Democratic,Gore/ Lieberman,2055
+New Kent County,TOTAL,President,,Green,Nader/ La Duke,81
+New Kent County,TOTAL,President,,Libertarian,Browne/ Olivier,20
+New Kent County,TOTAL,President,,Reform,Buchanan/ Foster,11
+New Kent County,TOTAL,President,,Constitution,Phillips/ Frazier,1
+New Kent County,TOTAL,President,,Other,All Others,12
+Newport News City,TOTAL,President,,Republican,Bush/ Cheney,27006
+Newport News City,TOTAL,President,,Democratic,Gore/ Lieberman,29779
+Newport News City,TOTAL,President,,Green,Nader/ La Duke,722
+Newport News City,TOTAL,President,,Libertarian,Browne/ Olivier,212
+Newport News City,TOTAL,President,,Reform,Buchanan/ Foster,46
+Newport News City,TOTAL,President,,Constitution,Phillips/ Frazier,21
+Newport News City,TOTAL,President,,Other,All Others,39
+Norfolk City,TOTAL,President,,Republican,Bush/ Cheney,21920
+Norfolk City,TOTAL,President,,Democratic,Gore/ Lieberman,38221
+Norfolk City,TOTAL,President,,Green,Nader/ La Duke,1153
+Norfolk City,TOTAL,President,,Libertarian,Browne/ Olivier,364
+Norfolk City,TOTAL,President,,Reform,Buchanan/ Foster,89
+Norfolk City,TOTAL,President,,Constitution,Phillips/ Frazier,29
+Norfolk City,TOTAL,President,,Other,All Others,170
+Northampton County,TOTAL,President,,Republican,Bush/ Cheney,2299
+Northampton County,TOTAL,President,,Democratic,Gore/ Lieberman,2340
+Northampton County,TOTAL,President,,Green,Nader/ La Duke,108
+Northampton County,TOTAL,President,,Libertarian,Browne/ Olivier,121
+Northampton County,TOTAL,President,,Reform,Buchanan/ Foster,16
+Northampton County,TOTAL,President,,Constitution,Phillips/ Frazier,8
+Northampton County,TOTAL,President,,Other,All Others,0
+Northumberland County,TOTAL,President,,Republican,Bush/ Cheney,3362
+Northumberland County,TOTAL,President,,Democratic,Gore/ Lieberman,2118
+Northumberland County,TOTAL,President,,Green,Nader/ La Duke,97
+Northumberland County,TOTAL,President,,Libertarian,Browne/ Olivier,11
+Northumberland County,TOTAL,President,,Reform,Buchanan/ Foster,12
+Northumberland County,TOTAL,President,,Constitution,Phillips/ Frazier,2
+Northumberland County,TOTAL,President,,Other,All Others,3
+Norton City,TOTAL,President,,Republican,Bush/ Cheney,639
+Norton City,TOTAL,President,,Democratic,Gore/ Lieberman,867
+Norton City,TOTAL,President,,Green,Nader/ La Duke,20
+Norton City,TOTAL,President,,Libertarian,Browne/ Olivier,2
+Norton City,TOTAL,President,,Reform,Buchanan/ Foster,0
+Norton City,TOTAL,President,,Constitution,Phillips/ Frazier,0
+Norton City,TOTAL,President,,Other,All Others,2
+Nottoway County,TOTAL,President,,Republican,Bush/ Cheney,2870
+Nottoway County,TOTAL,President,,Democratic,Gore/ Lieberman,2460
+Nottoway County,TOTAL,President,,Green,Nader/ La Duke,46
+Nottoway County,TOTAL,President,,Libertarian,Browne/ Olivier,98
+Nottoway County,TOTAL,President,,Reform,Buchanan/ Foster,14
+Nottoway County,TOTAL,President,,Constitution,Phillips/ Frazier,4
+Nottoway County,TOTAL,President,,Other,All Others,0
+Orange County,TOTAL,President,,Republican,Bush/ Cheney,5991
+Orange County,TOTAL,President,,Democratic,Gore/ Lieberman,4126
+Orange County,TOTAL,President,,Green,Nader/ La Duke,236
+Orange County,TOTAL,President,,Libertarian,Browne/ Olivier,91
+Orange County,TOTAL,President,,Reform,Buchanan/ Foster,26
+Orange County,TOTAL,President,,Constitution,Phillips/ Frazier,9
+Orange County,TOTAL,President,,Other,All Others,4
+Page County,TOTAL,President,,Republican,Bush/ Cheney,5089
+Page County,TOTAL,President,,Democratic,Gore/ Lieberman,2726
+Page County,TOTAL,President,,Green,Nader/ La Duke,143
+Page County,TOTAL,President,,Libertarian,Browne/ Olivier,15
+Page County,TOTAL,President,,Reform,Buchanan/ Foster,15
+Page County,TOTAL,President,,Constitution,Phillips/ Frazier,4
+Page County,TOTAL,President,,Other,All Others,4
+Patrick County,TOTAL,President,,Republican,Bush/ Cheney,4901
+Patrick County,TOTAL,President,,Democratic,Gore/ Lieberman,2254
+Patrick County,TOTAL,President,,Green,Nader/ La Duke,101
+Patrick County,TOTAL,President,,Libertarian,Browne/ Olivier,86
+Patrick County,TOTAL,President,,Reform,Buchanan/ Foster,33
+Patrick County,TOTAL,President,,Constitution,Phillips/ Frazier,10
+Patrick County,TOTAL,President,,Other,All Others,0
+Petersburg City,TOTAL,President,,Republican,Bush/ Cheney,2109
+Petersburg City,TOTAL,President,,Democratic,Gore/ Lieberman,8751
+Petersburg City,TOTAL,President,,Green,Nader/ La Duke,117
+Petersburg City,TOTAL,President,,Libertarian,Browne/ Olivier,49
+Petersburg City,TOTAL,President,,Reform,Buchanan/ Foster,22
+Petersburg City,TOTAL,President,,Constitution,Phillips/ Frazier,11
+Petersburg City,TOTAL,President,,Other,All Others,3
+Pittsylvania County,TOTAL,President,,Republican,Bush/ Cheney,15760
+Pittsylvania County,TOTAL,President,,Democratic,Gore/ Lieberman,7834
+Pittsylvania County,TOTAL,President,,Green,Nader/ La Duke,207
+Pittsylvania County,TOTAL,President,,Libertarian,Browne/ Olivier,374
+Pittsylvania County,TOTAL,President,,Reform,Buchanan/ Foster,55
+Pittsylvania County,TOTAL,President,,Constitution,Phillips/ Frazier,24
+Pittsylvania County,TOTAL,President,,Other,All Others,1
+Poquoson City,TOTAL,President,,Republican,Bush/ Cheney,4271
+Poquoson City,TOTAL,President,,Democratic,Gore/ Lieberman,1448
+Poquoson City,TOTAL,President,,Green,Nader/ La Duke,93
+Poquoson City,TOTAL,President,,Libertarian,Browne/ Olivier,41
+Poquoson City,TOTAL,President,,Reform,Buchanan/ Foster,5
+Poquoson City,TOTAL,President,,Constitution,Phillips/ Frazier,0
+Poquoson City,TOTAL,President,,Other,All Others,3
+Portsmouth City,TOTAL,President,,Republican,Bush/ Cheney,12628
+Portsmouth City,TOTAL,President,,Democratic,Gore/ Lieberman,22286
+Portsmouth City,TOTAL,President,,Green,Nader/ La Duke,348
+Portsmouth City,TOTAL,President,,Libertarian,Browne/ Olivier,126
+Portsmouth City,TOTAL,President,,Reform,Buchanan/ Foster,37
+Portsmouth City,TOTAL,President,,Constitution,Phillips/ Frazier,7
+Portsmouth City,TOTAL,President,,Other,All Others,23
+Powhatan County,TOTAL,President,,Republican,Bush/ Cheney,6820
+Powhatan County,TOTAL,President,,Democratic,Gore/ Lieberman,2708
+Powhatan County,TOTAL,President,,Green,Nader/ La Duke,122
+Powhatan County,TOTAL,President,,Libertarian,Browne/ Olivier,36
+Powhatan County,TOTAL,President,,Reform,Buchanan/ Foster,13
+Powhatan County,TOTAL,President,,Constitution,Phillips/ Frazier,9
+Powhatan County,TOTAL,President,,Other,All Others,3
+Prince Edward County,TOTAL,President,,Republican,Bush/ Cheney,3214
+Prince Edward County,TOTAL,President,,Democratic,Gore/ Lieberman,2922
+Prince Edward County,TOTAL,President,,Green,Nader/ La Duke,115
+Prince Edward County,TOTAL,President,,Libertarian,Browne/ Olivier,94
+Prince Edward County,TOTAL,President,,Reform,Buchanan/ Foster,10
+Prince Edward County,TOTAL,President,,Constitution,Phillips/ Frazier,8
+Prince Edward County,TOTAL,President,,Other,All Others,0
+Prince George County,TOTAL,President,,Republican,Bush/ Cheney,6579
+Prince George County,TOTAL,President,,Democratic,Gore/ Lieberman,4182
+Prince George County,TOTAL,President,,Green,Nader/ La Duke,97
+Prince George County,TOTAL,President,,Libertarian,Browne/ Olivier,19
+Prince George County,TOTAL,President,,Reform,Buchanan/ Foster,8
+Prince George County,TOTAL,President,,Constitution,Phillips/ Frazier,3
+Prince George County,TOTAL,President,,Other,All Others,12
+Prince William County,TOTAL,President,,Republican,Bush/ Cheney,52788
+Prince William County,TOTAL,President,,Democratic,Gore/ Lieberman,44745
+Prince William County,TOTAL,President,,Green,Nader/ La Duke,1927
+Prince William County,TOTAL,President,,Libertarian,Browne/ Olivier,695
+Prince William County,TOTAL,President,,Reform,Buchanan/ Foster,229
+Prince William County,TOTAL,President,,Constitution,Phillips/ Frazier,94
+Prince William County,TOTAL,President,,Other,All Others,33
+Pulaski County,TOTAL,President,,Republican,Bush/ Cheney,7089
+Pulaski County,TOTAL,President,,Democratic,Gore/ Lieberman,5255
+Pulaski County,TOTAL,President,,Green,Nader/ La Duke,207
+Pulaski County,TOTAL,President,,Libertarian,Browne/ Olivier,86
+Pulaski County,TOTAL,President,,Reform,Buchanan/ Foster,40
+Pulaski County,TOTAL,President,,Constitution,Phillips/ Frazier,17
+Pulaski County,TOTAL,President,,Other,All Others,3
+Radford City,TOTAL,President,,Republican,Bush/ Cheney,2190
+Radford City,TOTAL,President,,Democratic,Gore/ Lieberman,2063
+Radford City,TOTAL,President,,Green,Nader/ La Duke,172
+Radford City,TOTAL,President,,Libertarian,Browne/ Olivier,16
+Radford City,TOTAL,President,,Reform,Buchanan/ Foster,4
+Radford City,TOTAL,President,,Constitution,Phillips/ Frazier,3
+Radford City,TOTAL,President,,Other,All Others,0
+Rappahannock County,TOTAL,President,,Republican,Bush/ Cheney,1850
+Rappahannock County,TOTAL,President,,Democratic,Gore/ Lieberman,1462
+Rappahannock County,TOTAL,President,,Green,Nader/ La Duke,161
+Rappahannock County,TOTAL,President,,Libertarian,Browne/ Olivier,18
+Rappahannock County,TOTAL,President,,Reform,Buchanan/ Foster,11
+Rappahannock County,TOTAL,President,,Constitution,Phillips/ Frazier,4
+Rappahannock County,TOTAL,President,,Other,All Others,7
+Richmond County,TOTAL,President,,Republican,Bush/ Cheney,1784
+Richmond County,TOTAL,President,,Democratic,Gore/ Lieberman,1076
+Richmond County,TOTAL,President,,Green,Nader/ La Duke,44
+Richmond County,TOTAL,President,,Libertarian,Browne/ Olivier,24
+Richmond County,TOTAL,President,,Reform,Buchanan/ Foster,14
+Richmond County,TOTAL,President,,Constitution,Phillips/ Frazier,7
+Richmond County,TOTAL,President,,Other,All Others,0
+Richmond City,TOTAL,President,,Republican,Bush/ Cheney,20265
+Richmond City,TOTAL,President,,Democratic,Gore/ Lieberman,42717
+Richmond City,TOTAL,President,,Green,Nader/ La Duke,2425
+Richmond City,TOTAL,President,,Libertarian,Browne/ Olivier,357
+Richmond City,TOTAL,President,,Reform,Buchanan/ Foster,90
+Richmond City,TOTAL,President,,Constitution,Phillips/ Frazier,34
+Richmond City,TOTAL,President,,Other,All Others,38
+Roanoke County,TOTAL,President,,Republican,Bush/ Cheney,25740
+Roanoke County,TOTAL,President,,Democratic,Gore/ Lieberman,16141
+Roanoke County,TOTAL,President,,Green,Nader/ La Duke,681
+Roanoke County,TOTAL,President,,Libertarian,Browne/ Olivier,169
+Roanoke County,TOTAL,President,,Reform,Buchanan/ Foster,57
+Roanoke County,TOTAL,President,,Constitution,Phillips/ Frazier,20
+Roanoke County,TOTAL,President,,Other,All Others,9
+Roanoke City,TOTAL,President,,Republican,Bush/ Cheney,14630
+Roanoke City,TOTAL,President,,Democratic,Gore/ Lieberman,17920
+Roanoke City,TOTAL,President,,Green,Nader/ La Duke,603
+Roanoke City,TOTAL,President,,Libertarian,Browne/ Olivier,202
+Roanoke City,TOTAL,President,,Reform,Buchanan/ Foster,63
+Roanoke City,TOTAL,President,,Constitution,Phillips/ Frazier,18
+Roanoke City,TOTAL,President,,Other,All Others,6
+Rockbridge County,TOTAL,President,,Republican,Bush/ Cheney,4522
+Rockbridge County,TOTAL,President,,Democratic,Gore/ Lieberman,2953
+Rockbridge County,TOTAL,President,,Green,Nader/ La Duke,248
+Rockbridge County,TOTAL,President,,Libertarian,Browne/ Olivier,65
+Rockbridge County,TOTAL,President,,Reform,Buchanan/ Foster,25
+Rockbridge County,TOTAL,President,,Constitution,Phillips/ Frazier,10
+Rockbridge County,TOTAL,President,,Other,All Others,4
+Rockingham County,TOTAL,President,,Republican,Bush/ Cheney,17482
+Rockingham County,TOTAL,President,,Democratic,Gore/ Lieberman,5834
+Rockingham County,TOTAL,President,,Green,Nader/ La Duke,539
+Rockingham County,TOTAL,President,,Libertarian,Browne/ Olivier,53
+Rockingham County,TOTAL,President,,Reform,Buchanan/ Foster,45
+Rockingham County,TOTAL,President,,Constitution,Phillips/ Frazier,29
+Rockingham County,TOTAL,President,,Other,All Others,12
+Russell County,TOTAL,President,,Republican,Bush/ Cheney,5065
+Russell County,TOTAL,President,,Democratic,Gore/ Lieberman,5442
+Russell County,TOTAL,President,,Green,Nader/ La Duke,102
+Russell County,TOTAL,President,,Libertarian,Browne/ Olivier,123
+Russell County,TOTAL,President,,Reform,Buchanan/ Foster,39
+Russell County,TOTAL,President,,Constitution,Phillips/ Frazier,20
+Russell County,TOTAL,President,,Other,All Others,1
+Salem City,TOTAL,President,,Republican,Bush/ Cheney,6188
+Salem City,TOTAL,President,,Democratic,Gore/ Lieberman,4348
+Salem City,TOTAL,President,,Green,Nader/ La Duke,181
+Salem City,TOTAL,President,,Libertarian,Browne/ Olivier,31
+Salem City,TOTAL,President,,Reform,Buchanan/ Foster,11
+Salem City,TOTAL,President,,Constitution,Phillips/ Frazier,3
+Salem City,TOTAL,President,,Other,All Others,8
+Scott County,TOTAL,President,,Republican,Bush/ Cheney,5535
+Scott County,TOTAL,President,,Democratic,Gore/ Lieberman,3552
+Scott County,TOTAL,President,,Green,Nader/ La Duke,85
+Scott County,TOTAL,President,,Libertarian,Browne/ Olivier,114
+Scott County,TOTAL,President,,Reform,Buchanan/ Foster,31
+Scott County,TOTAL,President,,Constitution,Phillips/ Frazier,18
+Scott County,TOTAL,President,,Other,All Others,0
+Shenandoah County,TOTAL,President,,Republican,Bush/ Cheney,9636
+Shenandoah County,TOTAL,President,,Democratic,Gore/ Lieberman,4420
+Shenandoah County,TOTAL,President,,Green,Nader/ La Duke,294
+Shenandoah County,TOTAL,President,,Libertarian,Browne/ Olivier,37
+Shenandoah County,TOTAL,President,,Reform,Buchanan/ Foster,48
+Shenandoah County,TOTAL,President,,Constitution,Phillips/ Frazier,11
+Shenandoah County,TOTAL,President,,Other,All Others,6
+Smyth County,TOTAL,President,,Republican,Bush/ Cheney,6580
+Smyth County,TOTAL,President,,Democratic,Gore/ Lieberman,4836
+Smyth County,TOTAL,President,,Green,Nader/ La Duke,131
+Smyth County,TOTAL,President,,Libertarian,Browne/ Olivier,116
+Smyth County,TOTAL,President,,Reform,Buchanan/ Foster,58
+Smyth County,TOTAL,President,,Constitution,Phillips/ Frazier,19
+Smyth County,TOTAL,President,,Other,All Others,0
+Southampton County,TOTAL,President,,Republican,Bush/ Cheney,3293
+Southampton County,TOTAL,President,,Democratic,Gore/ Lieberman,3359
+Southampton County,TOTAL,President,,Green,Nader/ La Duke,44
+Southampton County,TOTAL,President,,Libertarian,Browne/ Olivier,4
+Southampton County,TOTAL,President,,Reform,Buchanan/ Foster,9
+Southampton County,TOTAL,President,,Constitution,Phillips/ Frazier,3
+Southampton County,TOTAL,President,,Other,All Others,2
+Spotsylvania County,TOTAL,President,,Republican,Bush/ Cheney,20739
+Spotsylvania County,TOTAL,President,,Democratic,Gore/ Lieberman,13455
+Spotsylvania County,TOTAL,President,,Green,Nader/ La Duke,586
+Spotsylvania County,TOTAL,President,,Libertarian,Browne/ Olivier,94
+Spotsylvania County,TOTAL,President,,Reform,Buchanan/ Foster,79
+Spotsylvania County,TOTAL,President,,Constitution,Phillips/ Frazier,32
+Spotsylvania County,TOTAL,President,,Other,All Others,36
+Stafford County,TOTAL,President,,Republican,Bush/ Cheney,20731
+Stafford County,TOTAL,President,,Democratic,Gore/ Lieberman,12596
+Stafford County,TOTAL,President,,Green,Nader/ La Duke,657
+Stafford County,TOTAL,President,,Libertarian,Browne/ Olivier,120
+Stafford County,TOTAL,President,,Reform,Buchanan/ Foster,69
+Stafford County,TOTAL,President,,Constitution,Phillips/ Frazier,30
+Stafford County,TOTAL,President,,Other,All Others,43
+Staunton City,TOTAL,President,,Republican,Bush/ Cheney,4878
+Staunton City,TOTAL,President,,Democratic,Gore/ Lieberman,3324
+Staunton City,TOTAL,President,,Green,Nader/ La Duke,278
+Staunton City,TOTAL,President,,Libertarian,Browne/ Olivier,18
+Staunton City,TOTAL,President,,Reform,Buchanan/ Foster,10
+Staunton City,TOTAL,President,,Constitution,Phillips/ Frazier,6
+Staunton City,TOTAL,President,,Other,All Others,0
+Suffolk City,TOTAL,President,,Republican,Bush/ Cheney,11836
+Suffolk City,TOTAL,President,,Democratic,Gore/ Lieberman,12471
+Suffolk City,TOTAL,President,,Green,Nader/ La Duke,199
+Suffolk City,TOTAL,President,,Libertarian,Browne/ Olivier,96
+Suffolk City,TOTAL,President,,Reform,Buchanan/ Foster,34
+Suffolk City,TOTAL,President,,Constitution,Phillips/ Frazier,15
+Suffolk City,TOTAL,President,,Other,All Others,10
+Surry County,TOTAL,President,,Republican,Bush/ Cheney,1313
+Surry County,TOTAL,President,,Democratic,Gore/ Lieberman,1845
+Surry County,TOTAL,President,,Green,Nader/ La Duke,29
+Surry County,TOTAL,President,,Libertarian,Browne/ Olivier,30
+Surry County,TOTAL,President,,Reform,Buchanan/ Foster,8
+Surry County,TOTAL,President,,Constitution,Phillips/ Frazier,5
+Surry County,TOTAL,President,,Other,All Others,0
+Sussex County,TOTAL,President,,Republican,Bush/ Cheney,1745
+Sussex County,TOTAL,President,,Democratic,Gore/ Lieberman,2006
+Sussex County,TOTAL,President,,Green,Nader/ La Duke,41
+Sussex County,TOTAL,President,,Libertarian,Browne/ Olivier,83
+Sussex County,TOTAL,President,,Reform,Buchanan/ Foster,20
+Sussex County,TOTAL,President,,Constitution,Phillips/ Frazier,11
+Sussex County,TOTAL,President,,Other,All Others,0
+Tazewell County,TOTAL,President,,Republican,Bush/ Cheney,8655
+Tazewell County,TOTAL,President,,Democratic,Gore/ Lieberman,7227
+Tazewell County,TOTAL,President,,Green,Nader/ La Duke,162
+Tazewell County,TOTAL,President,,Libertarian,Browne/ Olivier,217
+Tazewell County,TOTAL,President,,Reform,Buchanan/ Foster,52
+Tazewell County,TOTAL,President,,Constitution,Phillips/ Frazier,31
+Tazewell County,TOTAL,President,,Other,All Others,0
+Virginia Beach City,TOTAL,President,,Republican,Bush/ Cheney,83674
+Virginia Beach City,TOTAL,President,,Democratic,Gore/ Lieberman,62268
+Virginia Beach City,TOTAL,President,,Green,Nader/ La Duke,2370
+Virginia Beach City,TOTAL,President,,Libertarian,Browne/ Olivier,809
+Virginia Beach City,TOTAL,President,,Reform,Buchanan/ Foster,220
+Virginia Beach City,TOTAL,President,,Constitution,Phillips/ Frazier,56
+Virginia Beach City,TOTAL,President,,Other,All Others,374
+Warren County,TOTAL,President,,Republican,Bush/ Cheney,6335
+Warren County,TOTAL,President,,Democratic,Gore/ Lieberman,4313
+Warren County,TOTAL,President,,Green,Nader/ La Duke,260
+Warren County,TOTAL,President,,Libertarian,Browne/ Olivier,124
+Warren County,TOTAL,President,,Reform,Buchanan/ Foster,98
+Warren County,TOTAL,President,,Constitution,Phillips/ Frazier,34
+Warren County,TOTAL,President,,Other,All Others,2
+Washington County,TOTAL,President,,Republican,Bush/ Cheney,12064
+Washington County,TOTAL,President,,Democratic,Gore/ Lieberman,7549
+Washington County,TOTAL,President,,Green,Nader/ La Duke,288
+Washington County,TOTAL,President,,Libertarian,Browne/ Olivier,232
+Washington County,TOTAL,President,,Reform,Buchanan/ Foster,56
+Washington County,TOTAL,President,,Constitution,Phillips/ Frazier,31
+Washington County,TOTAL,President,,Other,All Others,2
+Waynesboro City,TOTAL,President,,Republican,Bush/ Cheney,4084
+Waynesboro City,TOTAL,President,,Democratic,Gore/ Lieberman,2737
+Waynesboro City,TOTAL,President,,Green,Nader/ La Duke,233
+Waynesboro City,TOTAL,President,,Libertarian,Browne/ Olivier,22
+Waynesboro City,TOTAL,President,,Reform,Buchanan/ Foster,16
+Waynesboro City,TOTAL,President,,Constitution,Phillips/ Frazier,5
+Waynesboro City,TOTAL,President,,Other,All Others,5
+Westmoreland County,TOTAL,President,,Republican,Bush/ Cheney,2932
+Westmoreland County,TOTAL,President,,Democratic,Gore/ Lieberman,2922
+Westmoreland County,TOTAL,President,,Green,Nader/ La Duke,88
+Westmoreland County,TOTAL,President,,Libertarian,Browne/ Olivier,59
+Westmoreland County,TOTAL,President,,Reform,Buchanan/ Foster,17
+Westmoreland County,TOTAL,President,,Constitution,Phillips/ Frazier,8
+Westmoreland County,TOTAL,President,,Other,All Others,0
+Williamsburg City,TOTAL,President,,Republican,Bush/ Cheney,1777
+Williamsburg City,TOTAL,President,,Democratic,Gore/ Lieberman,1724
+Williamsburg City,TOTAL,President,,Green,Nader/ La Duke,188
+Williamsburg City,TOTAL,President,,Libertarian,Browne/ Olivier,21
+Williamsburg City,TOTAL,President,,Reform,Buchanan/ Foster,7
+Williamsburg City,TOTAL,President,,Constitution,Phillips/ Frazier,6
+Williamsburg City,TOTAL,President,,Other,All Others,2
+Winchester City,TOTAL,President,,Republican,Bush/ Cheney,4314
+Winchester City,TOTAL,President,,Democratic,Gore/ Lieberman,3318
+Winchester City,TOTAL,President,,Green,Nader/ La Duke,209
+Winchester City,TOTAL,President,,Libertarian,Browne/ Olivier,27
+Winchester City,TOTAL,President,,Reform,Buchanan/ Foster,16
+Winchester City,TOTAL,President,,Constitution,Phillips/ Frazier,1
+Winchester City,TOTAL,President,,Other,All Others,1
+Wise County,TOTAL,President,,Republican,Bush/ Cheney,6504
+Wise County,TOTAL,President,,Democratic,Gore/ Lieberman,6412
+Wise County,TOTAL,President,,Green,Nader/ La Duke,160
+Wise County,TOTAL,President,,Libertarian,Browne/ Olivier,180
+Wise County,TOTAL,President,,Reform,Buchanan/ Foster,38
+Wise County,TOTAL,President,,Constitution,Phillips/ Frazier,16
+Wise County,TOTAL,President,,Other,All Others,0
+Wythe County,TOTAL,President,,Republican,Bush/ Cheney,6539
+Wythe County,TOTAL,President,,Democratic,Gore/ Lieberman,3462
+Wythe County,TOTAL,President,,Green,Nader/ La Duke,132
+Wythe County,TOTAL,President,,Libertarian,Browne/ Olivier,16
+Wythe County,TOTAL,President,,Reform,Buchanan/ Foster,33
+Wythe County,TOTAL,President,,Constitution,Phillips/ Frazier,6
+Wythe County,TOTAL,President,,Other,All Others,37
+York County,TOTAL,President,,Republican,Bush/ Cheney,15312
+York County,TOTAL,President,,Democratic,Gore/ Lieberman,8622
+York County,TOTAL,President,,Green,Nader/ La Duke,480
+York County,TOTAL,President,,Libertarian,Browne/ Olivier,114
+York County,TOTAL,President,,Reform,Buchanan/ Foster,27
+York County,TOTAL,President,,Constitution,Phillips/ Frazier,13
+York County,TOTAL,President,,Other,All Others,15
+TOTALS,TOTAL,President,,Republican,Bush/ Cheney,1437490
+TOTALS,TOTAL,President,,Democratic,Gore/ Lieberman,1217290
+TOTALS,TOTAL,President,,Green,Nader/ La Duke,59398
+TOTALS,TOTAL,President,,Libertarian,Browne/ Olivier,15198
+TOTALS,TOTAL,President,,Reform,Buchanan/ Foster,5455
+TOTALS,TOTAL,President,,Constitution,Phillips/ Frazier,1809
+TOTALS,TOTAL,President,,Other,All Others,2807
