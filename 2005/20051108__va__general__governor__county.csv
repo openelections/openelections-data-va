@@ -1,0 +1,541 @@
+county,precinct,office,district,party,candidate,votes
+Accomack County,TOTAL,Governor,,Democratic,T. M. Kaine,3860
+Accomack County,TOTAL,Governor,,Republican,J. W. Kilgore,3754
+Accomack County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",126
+Accomack County,TOTAL,Governor,,Other,All Others,5
+Albemarle County,TOTAL,Governor,,Democratic,T. M. Kaine,18455
+Albemarle County,TOTAL,Governor,,Republican,J. W. Kilgore,10994
+Albemarle County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",711
+Albemarle County,TOTAL,Governor,,Other,All Others,14
+Alexandria City,TOTAL,Governor,,Democratic,T. M. Kaine,25061
+Alexandria City,TOTAL,Governor,,Republican,J. W. Kilgore,9173
+Alexandria City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",605
+Alexandria City,TOTAL,Governor,,Other,All Others,25
+Alleghany County,TOTAL,Governor,,Democratic,T. M. Kaine,2907
+Alleghany County,TOTAL,Governor,,Republican,J. W. Kilgore,2373
+Alleghany County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",115
+Alleghany County,TOTAL,Governor,,Other,All Others,2
+Amelia County,TOTAL,Governor,,Democratic,T. M. Kaine,1368
+Amelia County,TOTAL,Governor,,Republican,J. W. Kilgore,2251
+Amelia County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",74
+Amelia County,TOTAL,Governor,,Other,All Others,3
+Amherst County,TOTAL,Governor,,Democratic,T. M. Kaine,3576
+Amherst County,TOTAL,Governor,,Republican,J. W. Kilgore,4450
+Amherst County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",175
+Amherst County,TOTAL,Governor,,Other,All Others,4
+Appomattox County,TOTAL,Governor,,Democratic,T. M. Kaine,1804
+Appomattox County,TOTAL,Governor,,Republican,J. W. Kilgore,2663
+Appomattox County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",99
+Appomattox County,TOTAL,Governor,,Other,All Others,4
+Arlington County,TOTAL,Governor,,Democratic,T. M. Kaine,42319
+Arlington County,TOTAL,Governor,,Republican,J. W. Kilgore,13631
+Arlington County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",990
+Arlington County,TOTAL,Governor,,Other,All Others,49
+Augusta County,TOTAL,Governor,,Democratic,T. M. Kaine,6395
+Augusta County,TOTAL,Governor,,Republican,J. W. Kilgore,12197
+Augusta County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",721
+Augusta County,TOTAL,Governor,,Other,All Others,12
+Bath County,TOTAL,Governor,,Democratic,T. M. Kaine,729
+Bath County,TOTAL,Governor,,Republican,J. W. Kilgore,860
+Bath County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",26
+Bath County,TOTAL,Governor,,Other,All Others,2
+Bedford County,TOTAL,Governor,,Democratic,T. M. Kaine,7524
+Bedford County,TOTAL,Governor,,Republican,J. W. Kilgore,12330
+Bedford County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",420
+Bedford County,TOTAL,Governor,,Other,All Others,14
+Bedford City,TOTAL,Governor,,Democratic,T. M. Kaine,892
+Bedford City,TOTAL,Governor,,Republican,J. W. Kilgore,877
+Bedford City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",47
+Bedford City,TOTAL,Governor,,Other,All Others,2
+Bland County,TOTAL,Governor,,Democratic,T. M. Kaine,706
+Bland County,TOTAL,Governor,,Republican,J. W. Kilgore,1176
+Bland County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",34
+Bland County,TOTAL,Governor,,Other,All Others,0
+Botetourt County,TOTAL,Governor,,Democratic,T. M. Kaine,4083
+Botetourt County,TOTAL,Governor,,Republican,J. W. Kilgore,6053
+Botetourt County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",227
+Botetourt County,TOTAL,Governor,,Other,All Others,10
+Bristol City,TOTAL,Governor,,Democratic,T. M. Kaine,1548
+Bristol City,TOTAL,Governor,,Republican,J. W. Kilgore,2515
+Bristol City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",27
+Bristol City,TOTAL,Governor,,Other,All Others,1
+Brunswick County,TOTAL,Governor,,Democratic,T. M. Kaine,2691
+Brunswick County,TOTAL,Governor,,Republican,J. W. Kilgore,1742
+Brunswick County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",31
+Brunswick County,TOTAL,Governor,,Other,All Others,2
+Buchanan County,TOTAL,Governor,,Democratic,T. M. Kaine,3171
+Buchanan County,TOTAL,Governor,,Republican,J. W. Kilgore,2875
+Buchanan County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",27
+Buchanan County,TOTAL,Governor,,Other,All Others,4
+Buckingham County,TOTAL,Governor,,Democratic,T. M. Kaine,1822
+Buckingham County,TOTAL,Governor,,Republican,J. W. Kilgore,1899
+Buckingham County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",80
+Buckingham County,TOTAL,Governor,,Other,All Others,0
+Buena Vista City,TOTAL,Governor,,Democratic,T. M. Kaine,799
+Buena Vista City,TOTAL,Governor,,Republican,J. W. Kilgore,713
+Buena Vista City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",28
+Buena Vista City,TOTAL,Governor,,Other,All Others,0
+Campbell County,TOTAL,Governor,,Democratic,T. M. Kaine,5319
+Campbell County,TOTAL,Governor,,Republican,J. W. Kilgore,8864
+Campbell County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",264
+Campbell County,TOTAL,Governor,,Other,All Others,15
+Caroline County,TOTAL,Governor,,Democratic,T. M. Kaine,3396
+Caroline County,TOTAL,Governor,,Republican,J. W. Kilgore,2786
+Caroline County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",142
+Caroline County,TOTAL,Governor,,Other,All Others,1
+Carroll County,TOTAL,Governor,,Democratic,T. M. Kaine,2942
+Carroll County,TOTAL,Governor,,Republican,J. W. Kilgore,4485
+Carroll County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",143
+Carroll County,TOTAL,Governor,,Other,All Others,1
+Charles City County,TOTAL,Governor,,Democratic,T. M. Kaine,1565
+Charles City County,TOTAL,Governor,,Republican,J. W. Kilgore,671
+Charles City County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",29
+Charles City County,TOTAL,Governor,,Other,All Others,0
+Charlotte County,TOTAL,Governor,,Democratic,T. M. Kaine,1637
+Charlotte County,TOTAL,Governor,,Republican,J. W. Kilgore,2078
+Charlotte County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",69
+Charlotte County,TOTAL,Governor,,Other,All Others,2
+Charlottesville City,TOTAL,Governor,,Democratic,T. M. Kaine,8018
+Charlottesville City,TOTAL,Governor,,Republican,J. W. Kilgore,1870
+Charlottesville City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",205
+Charlottesville City,TOTAL,Governor,,Other,All Others,11
+Chesapeake City,TOTAL,Governor,,Democratic,T. M. Kaine,26612
+Chesapeake City,TOTAL,Governor,,Republican,J. W. Kilgore,24885
+Chesapeake City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",1357
+Chesapeake City,TOTAL,Governor,,Other,All Others,34
+Chesterfield County,TOTAL,Governor,,Democratic,T. M. Kaine,40134
+Chesterfield County,TOTAL,Governor,,Republican,J. W. Kilgore,48112
+Chesterfield County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",1484
+Chesterfield County,TOTAL,Governor,,Other,All Others,81
+Clarke County,TOTAL,Governor,,Democratic,T. M. Kaine,2225
+Clarke County,TOTAL,Governor,,Republican,J. W. Kilgore,2350
+Clarke County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",363
+Clarke County,TOTAL,Governor,,Other,All Others,4
+Colonial Heights City,TOTAL,Governor,,Democratic,T. M. Kaine,1777
+Colonial Heights City,TOTAL,Governor,,Republican,J. W. Kilgore,4116
+Colonial Heights City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",143
+Colonial Heights City,TOTAL,Governor,,Other,All Others,2
+Covington City,TOTAL,Governor,,Democratic,T. M. Kaine,1022
+Covington City,TOTAL,Governor,,Republican,J. W. Kilgore,587
+Covington City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",53
+Covington City,TOTAL,Governor,,Other,All Others,0
+Craig County,TOTAL,Governor,,Democratic,T. M. Kaine,754
+Craig County,TOTAL,Governor,,Republican,J. W. Kilgore,975
+Craig County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",48
+Craig County,TOTAL,Governor,,Other,All Others,3
+Culpeper County,TOTAL,Governor,,Democratic,T. M. Kaine,3689
+Culpeper County,TOTAL,Governor,,Republican,J. W. Kilgore,5762
+Culpeper County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",242
+Culpeper County,TOTAL,Governor,,Other,All Others,5
+Cumberland County,TOTAL,Governor,,Democratic,T. M. Kaine,1144
+Cumberland County,TOTAL,Governor,,Republican,J. W. Kilgore,1420
+Cumberland County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",50
+Cumberland County,TOTAL,Governor,,Other,All Others,0
+Danville City,TOTAL,Governor,,Democratic,T. M. Kaine,6052
+Danville City,TOTAL,Governor,,Republican,J. W. Kilgore,5177
+Danville City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",119
+Danville City,TOTAL,Governor,,Other,All Others,2
+Dickenson County,TOTAL,Governor,,Democratic,T. M. Kaine,2377
+Dickenson County,TOTAL,Governor,,Republican,J. W. Kilgore,2559
+Dickenson County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",18
+Dickenson County,TOTAL,Governor,,Other,All Others,3
+Dinwiddie County,TOTAL,Governor,,Democratic,T. M. Kaine,3168
+Dinwiddie County,TOTAL,Governor,,Republican,J. W. Kilgore,3523
+Dinwiddie County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",131
+Dinwiddie County,TOTAL,Governor,,Other,All Others,4
+Emporia City,TOTAL,Governor,,Democratic,T. M. Kaine,796
+Emporia City,TOTAL,Governor,,Republican,J. W. Kilgore,815
+Emporia City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",26
+Emporia City,TOTAL,Governor,,Other,All Others,0
+Essex County,TOTAL,Governor,,Democratic,T. M. Kaine,1500
+Essex County,TOTAL,Governor,,Republican,J. W. Kilgore,1533
+Essex County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",45
+Essex County,TOTAL,Governor,,Other,All Others,0
+Fairfax County,TOTAL,Governor,,Democratic,T. M. Kaine,163667
+Fairfax County,TOTAL,Governor,,Republican,J. W. Kilgore,103285
+Fairfax County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",4907
+Fairfax County,TOTAL,Governor,,Other,All Others,241
+Fairfax City,TOTAL,Governor,,Democratic,T. M. Kaine,3865
+Fairfax City,TOTAL,Governor,,Republican,J. W. Kilgore,2750
+Fairfax City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",132
+Fairfax City,TOTAL,Governor,,Other,All Others,9
+Falls Church City,TOTAL,Governor,,Democratic,T. M. Kaine,3138
+Falls Church City,TOTAL,Governor,,Republican,J. W. Kilgore,1102
+Falls Church City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",77
+Falls Church City,TOTAL,Governor,,Other,All Others,10
+Fauquier County,TOTAL,Governor,,Democratic,T. M. Kaine,7746
+Fauquier County,TOTAL,Governor,,Republican,J. W. Kilgore,9505
+Fauquier County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",576
+Fauquier County,TOTAL,Governor,,Other,All Others,20
+Floyd County,TOTAL,Governor,,Democratic,T. M. Kaine,1959
+Floyd County,TOTAL,Governor,,Republican,J. W. Kilgore,2324
+Floyd County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",129
+Floyd County,TOTAL,Governor,,Other,All Others,0
+Fluvanna County,TOTAL,Governor,,Democratic,T. M. Kaine,3592
+Fluvanna County,TOTAL,Governor,,Republican,J. W. Kilgore,3456
+Fluvanna County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",178
+Fluvanna County,TOTAL,Governor,,Other,All Others,1
+Franklin County,TOTAL,Governor,,Democratic,T. M. Kaine,7017
+Franklin County,TOTAL,Governor,,Republican,J. W. Kilgore,8157
+Franklin County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",441
+Franklin County,TOTAL,Governor,,Other,All Others,3
+Franklin City,TOTAL,Governor,,Democratic,T. M. Kaine,1394
+Franklin City,TOTAL,Governor,,Republican,J. W. Kilgore,988
+Franklin City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",41
+Franklin City,TOTAL,Governor,,Other,All Others,0
+Frederick County,TOTAL,Governor,,Democratic,T. M. Kaine,6027
+Frederick County,TOTAL,Governor,,Republican,J. W. Kilgore,10698
+Frederick County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",1125
+Frederick County,TOTAL,Governor,,Other,All Others,26
+Fredericksburg City,TOTAL,Governor,,Democratic,T. M. Kaine,2611
+Fredericksburg City,TOTAL,Governor,,Republican,J. W. Kilgore,1561
+Fredericksburg City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",118
+Fredericksburg City,TOTAL,Governor,,Other,All Others,4
+Galax City,TOTAL,Governor,,Democratic,T. M. Kaine,730
+Galax City,TOTAL,Governor,,Republican,J. W. Kilgore,693
+Galax City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",36
+Galax City,TOTAL,Governor,,Other,All Others,0
+Giles County,TOTAL,Governor,,Democratic,T. M. Kaine,2570
+Giles County,TOTAL,Governor,,Republican,J. W. Kilgore,2507
+Giles County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",132
+Giles County,TOTAL,Governor,,Other,All Others,5
+Gloucester County,TOTAL,Governor,,Democratic,T. M. Kaine,3985
+Gloucester County,TOTAL,Governor,,Republican,J. W. Kilgore,5688
+Gloucester County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",373
+Gloucester County,TOTAL,Governor,,Other,All Others,12
+Goochland County,TOTAL,Governor,,Democratic,T. M. Kaine,3292
+Goochland County,TOTAL,Governor,,Republican,J. W. Kilgore,4313
+Goochland County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",146
+Goochland County,TOTAL,Governor,,Other,All Others,5
+Grayson County,TOTAL,Governor,,Democratic,T. M. Kaine,1875
+Grayson County,TOTAL,Governor,,Republican,J. W. Kilgore,2710
+Grayson County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",66
+Grayson County,TOTAL,Governor,,Other,All Others,0
+Greene County,TOTAL,Governor,,Democratic,T. M. Kaine,1846
+Greene County,TOTAL,Governor,,Republican,J. W. Kilgore,2526
+Greene County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",115
+Greene County,TOTAL,Governor,,Other,All Others,1
+Greensville County,TOTAL,Governor,,Democratic,T. M. Kaine,1833
+Greensville County,TOTAL,Governor,,Republican,J. W. Kilgore,1424
+Greensville County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",25
+Greensville County,TOTAL,Governor,,Other,All Others,1
+Halifax County,TOTAL,Governor,,Democratic,T. M. Kaine,3931
+Halifax County,TOTAL,Governor,,Republican,J. W. Kilgore,4887
+Halifax County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",149
+Halifax County,TOTAL,Governor,,Other,All Others,5
+Hampton City,TOTAL,Governor,,Democratic,T. M. Kaine,20961
+Hampton City,TOTAL,Governor,,Republican,J. W. Kilgore,11078
+Hampton City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",814
+Hampton City,TOTAL,Governor,,Other,All Others,25
+Hanover County,TOTAL,Governor,,Democratic,T. M. Kaine,12784
+Hanover County,TOTAL,Governor,,Republican,J. W. Kilgore,21637
+Hanover County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",770
+Hanover County,TOTAL,Governor,,Other,All Others,19
+Harrisonburg City,TOTAL,Governor,,Democratic,T. M. Kaine,3539
+Harrisonburg City,TOTAL,Governor,,Republican,J. W. Kilgore,3251
+Harrisonburg City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",138
+Harrisonburg City,TOTAL,Governor,,Other,All Others,12
+Henrico County,TOTAL,Governor,,Democratic,T. M. Kaine,49170
+Henrico County,TOTAL,Governor,,Republican,J. W. Kilgore,41619
+Henrico County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",1492
+Henrico County,TOTAL,Governor,,Other,All Others,78
+Henry County,TOTAL,Governor,,Democratic,T. M. Kaine,7454
+Henry County,TOTAL,Governor,,Republican,J. W. Kilgore,7004
+Henry County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",198
+Henry County,TOTAL,Governor,,Other,All Others,3
+Highland County,TOTAL,Governor,,Democratic,T. M. Kaine,478
+Highland County,TOTAL,Governor,,Republican,J. W. Kilgore,700
+Highland County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",32
+Highland County,TOTAL,Governor,,Other,All Others,1
+Hopewell City,TOTAL,Governor,,Democratic,T. M. Kaine,2300
+Hopewell City,TOTAL,Governor,,Republican,J. W. Kilgore,2705
+Hopewell City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",90
+Hopewell City,TOTAL,Governor,,Other,All Others,4
+Isle of Wight County,TOTAL,Governor,,Democratic,T. M. Kaine,4664
+Isle of Wight County,TOTAL,Governor,,Republican,J. W. Kilgore,5262
+Isle of Wight County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",285
+Isle of Wight County,TOTAL,Governor,,Other,All Others,4
+James City County,TOTAL,Governor,,Democratic,T. M. Kaine,10205
+James City County,TOTAL,Governor,,Republican,J. W. Kilgore,10104
+James City County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",704
+James City County,TOTAL,Governor,,Other,All Others,16
+King and Queen County,TOTAL,Governor,,Democratic,T. M. Kaine,1114
+King and Queen County,TOTAL,Governor,,Republican,J. W. Kilgore,896
+King and Queen County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",40
+King and Queen County,TOTAL,Governor,,Other,All Others,1
+King George County,TOTAL,Governor,,Democratic,T. M. Kaine,2042
+King George County,TOTAL,Governor,,Republican,J. W. Kilgore,2569
+King George County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",133
+King George County,TOTAL,Governor,,Other,All Others,5
+King William County,TOTAL,Governor,,Democratic,T. M. Kaine,1951
+King William County,TOTAL,Governor,,Republican,J. W. Kilgore,2509
+King William County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",108
+King William County,TOTAL,Governor,,Other,All Others,2
+Lancaster County,TOTAL,Governor,,Democratic,T. M. Kaine,2043
+Lancaster County,TOTAL,Governor,,Republican,J. W. Kilgore,2463
+Lancaster County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",113
+Lancaster County,TOTAL,Governor,,Other,All Others,6
+Lee County,TOTAL,Governor,,Democratic,T. M. Kaine,2453
+Lee County,TOTAL,Governor,,Republican,J. W. Kilgore,4640
+Lee County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",42
+Lee County,TOTAL,Governor,,Other,All Others,0
+Lexington City,TOTAL,Governor,,Democratic,T. M. Kaine,1097
+Lexington City,TOTAL,Governor,,Republican,J. W. Kilgore,567
+Lexington City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",33
+Lexington City,TOTAL,Governor,,Other,All Others,0
+Loudoun County,TOTAL,Governor,,Democratic,T. M. Kaine,31074
+Loudoun County,TOTAL,Governor,,Republican,J. W. Kilgore,27539
+Loudoun County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",1501
+Loudoun County,TOTAL,Governor,,Other,All Others,65
+Louisa County,TOTAL,Governor,,Democratic,T. M. Kaine,3716
+Louisa County,TOTAL,Governor,,Republican,J. W. Kilgore,4179
+Louisa County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",193
+Louisa County,TOTAL,Governor,,Other,All Others,2
+Lunenburg County,TOTAL,Governor,,Democratic,T. M. Kaine,1490
+Lunenburg County,TOTAL,Governor,,Republican,J. W. Kilgore,1749
+Lunenburg County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",48
+Lunenburg County,TOTAL,Governor,,Other,All Others,2
+Lynchburg City,TOTAL,Governor,,Democratic,T. M. Kaine,8329
+Lynchburg City,TOTAL,Governor,,Republican,J. W. Kilgore,7708
+Lynchburg City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",308
+Lynchburg City,TOTAL,Governor,,Other,All Others,27
+Madison County,TOTAL,Governor,,Democratic,T. M. Kaine,1672
+Madison County,TOTAL,Governor,,Republican,J. W. Kilgore,2105
+Madison County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",90
+Madison County,TOTAL,Governor,,Other,All Others,4
+Manassas City,TOTAL,Governor,,Democratic,T. M. Kaine,3167
+Manassas City,TOTAL,Governor,,Republican,J. W. Kilgore,3532
+Manassas City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",147
+Manassas City,TOTAL,Governor,,Other,All Others,4
+Manassas Park City,TOTAL,Governor,,Democratic,T. M. Kaine,650
+Manassas Park City,TOTAL,Governor,,Republican,J. W. Kilgore,751
+Manassas Park City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",20
+Manassas Park City,TOTAL,Governor,,Other,All Others,2
+Martinsville City,TOTAL,Governor,,Democratic,T. M. Kaine,2363
+Martinsville City,TOTAL,Governor,,Republican,J. W. Kilgore,1380
+Martinsville City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",43
+Martinsville City,TOTAL,Governor,,Other,All Others,2
+Mathews County,TOTAL,Governor,,Democratic,T. M. Kaine,1452
+Mathews County,TOTAL,Governor,,Republican,J. W. Kilgore,1946
+Mathews County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",170
+Mathews County,TOTAL,Governor,,Other,All Others,0
+Mecklenburg County,TOTAL,Governor,,Democratic,T. M. Kaine,2986
+Mecklenburg County,TOTAL,Governor,,Republican,J. W. Kilgore,3864
+Mecklenburg County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",131
+Mecklenburg County,TOTAL,Governor,,Other,All Others,0
+Middlesex County,TOTAL,Governor,,Democratic,T. M. Kaine,1530
+Middlesex County,TOTAL,Governor,,Republican,J. W. Kilgore,2167
+Middlesex County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",104
+Middlesex County,TOTAL,Governor,,Other,All Others,1
+Montgomery County,TOTAL,Governor,,Democratic,T. M. Kaine,11509
+Montgomery County,TOTAL,Governor,,Republican,J. W. Kilgore,8670
+Montgomery County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",560
+Montgomery County,TOTAL,Governor,,Other,All Others,19
+Nelson County,TOTAL,Governor,,Democratic,T. M. Kaine,2755
+Nelson County,TOTAL,Governor,,Republican,J. W. Kilgore,2113
+Nelson County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",102
+Nelson County,TOTAL,Governor,,Other,All Others,2
+New Kent County,TOTAL,Governor,,Democratic,T. M. Kaine,2241
+New Kent County,TOTAL,Governor,,Republican,J. W. Kilgore,3179
+New Kent County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",127
+New Kent County,TOTAL,Governor,,Other,All Others,2
+Newport News City,TOTAL,Governor,,Democratic,T. M. Kaine,21743
+Newport News City,TOTAL,Governor,,Republican,J. W. Kilgore,15095
+Newport News City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",992
+Newport News City,TOTAL,Governor,,Other,All Others,42
+Norfolk City,TOTAL,Governor,,Democratic,T. M. Kaine,27791
+Norfolk City,TOTAL,Governor,,Republican,J. W. Kilgore,12899
+Norfolk City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",1290
+Norfolk City,TOTAL,Governor,,Other,All Others,50
+Northampton County,TOTAL,Governor,,Democratic,T. M. Kaine,2058
+Northampton County,TOTAL,Governor,,Republican,J. W. Kilgore,1256
+Northampton County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",73
+Northampton County,TOTAL,Governor,,Other,All Others,0
+Northumberland County,TOTAL,Governor,,Democratic,T. M. Kaine,2104
+Northumberland County,TOTAL,Governor,,Republican,J. W. Kilgore,2548
+Northumberland County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",95
+Northumberland County,TOTAL,Governor,,Other,All Others,6
+Norton City,TOTAL,Governor,,Democratic,T. M. Kaine,449
+Norton City,TOTAL,Governor,,Republican,J. W. Kilgore,539
+Norton City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",11
+Norton City,TOTAL,Governor,,Other,All Others,0
+Nottoway County,TOTAL,Governor,,Democratic,T. M. Kaine,1993
+Nottoway County,TOTAL,Governor,,Republican,J. W. Kilgore,1942
+Nottoway County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",59
+Nottoway County,TOTAL,Governor,,Other,All Others,0
+Orange County,TOTAL,Governor,,Democratic,T. M. Kaine,3888
+Orange County,TOTAL,Governor,,Republican,J. W. Kilgore,4481
+Orange County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",182
+Orange County,TOTAL,Governor,,Other,All Others,0
+Page County,TOTAL,Governor,,Democratic,T. M. Kaine,2385
+Page County,TOTAL,Governor,,Republican,J. W. Kilgore,3591
+Page County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",185
+Page County,TOTAL,Governor,,Other,All Others,4
+Patrick County,TOTAL,Governor,,Democratic,T. M. Kaine,2111
+Patrick County,TOTAL,Governor,,Republican,J. W. Kilgore,2853
+Patrick County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",93
+Patrick County,TOTAL,Governor,,Other,All Others,4
+Petersburg City,TOTAL,Governor,,Democratic,T. M. Kaine,5995
+Petersburg City,TOTAL,Governor,,Republican,J. W. Kilgore,1274
+Petersburg City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",59
+Petersburg City,TOTAL,Governor,,Other,All Others,2
+Pittsylvania County,TOTAL,Governor,,Democratic,T. M. Kaine,6363
+Pittsylvania County,TOTAL,Governor,,Republican,J. W. Kilgore,10252
+Pittsylvania County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",250
+Pittsylvania County,TOTAL,Governor,,Other,All Others,6
+Poquoson City,TOTAL,Governor,,Democratic,T. M. Kaine,1383
+Poquoson City,TOTAL,Governor,,Republican,J. W. Kilgore,2515
+Poquoson City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",143
+Poquoson City,TOTAL,Governor,,Other,All Others,3
+Portsmouth City,TOTAL,Governor,,Democratic,T. M. Kaine,16314
+Portsmouth City,TOTAL,Governor,,Republican,J. W. Kilgore,7926
+Portsmouth City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",560
+Portsmouth City,TOTAL,Governor,,Other,All Others,17
+Powhatan County,TOTAL,Governor,,Democratic,T. M. Kaine,2744
+Powhatan County,TOTAL,Governor,,Republican,J. W. Kilgore,5580
+Powhatan County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",170
+Powhatan County,TOTAL,Governor,,Other,All Others,6
+Prince Edward County,TOTAL,Governor,,Democratic,T. M. Kaine,2546
+Prince Edward County,TOTAL,Governor,,Republican,J. W. Kilgore,2259
+Prince Edward County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",85
+Prince Edward County,TOTAL,Governor,,Other,All Others,1
+Prince George County,TOTAL,Governor,,Democratic,T. M. Kaine,3382
+Prince George County,TOTAL,Governor,,Republican,J. W. Kilgore,4751
+Prince George County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",130
+Prince George County,TOTAL,Governor,,Other,All Others,3
+Prince William County,TOTAL,Governor,,Democratic,T. M. Kaine,33364
+Prince William County,TOTAL,Governor,,Republican,J. W. Kilgore,32178
+Prince William County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",1220
+Prince William County,TOTAL,Governor,,Other,All Others,35
+Pulaski County,TOTAL,Governor,,Democratic,T. M. Kaine,4427
+Pulaski County,TOTAL,Governor,,Republican,J. W. Kilgore,4901
+Pulaski County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",199
+Pulaski County,TOTAL,Governor,,Other,All Others,0
+Radford City,TOTAL,Governor,,Democratic,T. M. Kaine,1928
+Radford City,TOTAL,Governor,,Republican,J. W. Kilgore,1534
+Radford City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",94
+Radford City,TOTAL,Governor,,Other,All Others,2
+Rappahannock County,TOTAL,Governor,,Democratic,T. M. Kaine,1397
+Rappahannock County,TOTAL,Governor,,Republican,J. W. Kilgore,1283
+Rappahannock County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",50
+Rappahannock County,TOTAL,Governor,,Other,All Others,2
+Richmond County,TOTAL,Governor,,Democratic,T. M. Kaine,863
+Richmond County,TOTAL,Governor,,Republican,J. W. Kilgore,1293
+Richmond County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",42
+Richmond County,TOTAL,Governor,,Other,All Others,0
+Richmond City,TOTAL,Governor,,Democratic,T. M. Kaine,38900
+Richmond City,TOTAL,Governor,,Republican,J. W. Kilgore,11529
+Richmond City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",769
+Richmond City,TOTAL,Governor,,Other,All Others,40
+Roanoke County,TOTAL,Governor,,Democratic,T. M. Kaine,14125
+Roanoke County,TOTAL,Governor,,Republican,J. W. Kilgore,16686
+Roanoke County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",755
+Roanoke County,TOTAL,Governor,,Other,All Others,29
+Roanoke City,TOTAL,Governor,,Democratic,T. M. Kaine,14207
+Roanoke City,TOTAL,Governor,,Republican,J. W. Kilgore,8239
+Roanoke City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",505
+Roanoke City,TOTAL,Governor,,Other,All Others,21
+Rockbridge County,TOTAL,Governor,,Democratic,T. M. Kaine,2993
+Rockbridge County,TOTAL,Governor,,Republican,J. W. Kilgore,3354
+Rockbridge County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",142
+Rockbridge County,TOTAL,Governor,,Other,All Others,5
+Rockingham County,TOTAL,Governor,,Democratic,T. M. Kaine,6560
+Rockingham County,TOTAL,Governor,,Republican,J. W. Kilgore,13262
+Rockingham County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",404
+Rockingham County,TOTAL,Governor,,Other,All Others,19
+Russell County,TOTAL,Governor,,Democratic,T. M. Kaine,3431
+Russell County,TOTAL,Governor,,Republican,J. W. Kilgore,4314
+Russell County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",69
+Russell County,TOTAL,Governor,,Other,All Others,0
+Salem City,TOTAL,Governor,,Democratic,T. M. Kaine,3788
+Salem City,TOTAL,Governor,,Republican,J. W. Kilgore,3993
+Salem City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",242
+Salem City,TOTAL,Governor,,Other,All Others,12
+Scott County,TOTAL,Governor,,Democratic,T. M. Kaine,2156
+Scott County,TOTAL,Governor,,Republican,J. W. Kilgore,6016
+Scott County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",43
+Scott County,TOTAL,Governor,,Other,All Others,0
+Shenandoah County,TOTAL,Governor,,Democratic,T. M. Kaine,3996
+Shenandoah County,TOTAL,Governor,,Republican,J. W. Kilgore,7874
+Shenandoah County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",438
+Shenandoah County,TOTAL,Governor,,Other,All Others,12
+Smyth County,TOTAL,Governor,,Democratic,T. M. Kaine,2989
+Smyth County,TOTAL,Governor,,Republican,J. W. Kilgore,5053
+Smyth County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",91
+Smyth County,TOTAL,Governor,,Other,All Others,2
+Southampton County,TOTAL,Governor,,Democratic,T. M. Kaine,2442
+Southampton County,TOTAL,Governor,,Republican,J. W. Kilgore,2354
+Southampton County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",110
+Southampton County,TOTAL,Governor,,Other,All Others,1
+Spotsylvania County,TOTAL,Governor,,Democratic,T. M. Kaine,11061
+Spotsylvania County,TOTAL,Governor,,Republican,J. W. Kilgore,13635
+Spotsylvania County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",533
+Spotsylvania County,TOTAL,Governor,,Other,All Others,38
+Stafford County,TOTAL,Governor,,Democratic,T. M. Kaine,10924
+Stafford County,TOTAL,Governor,,Republican,J. W. Kilgore,13559
+Stafford County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",564
+Stafford County,TOTAL,Governor,,Other,All Others,28
+Staunton City,TOTAL,Governor,,Democratic,T. M. Kaine,3384
+Staunton City,TOTAL,Governor,,Republican,J. W. Kilgore,3112
+Staunton City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",270
+Staunton City,TOTAL,Governor,,Other,All Others,3
+Suffolk City,TOTAL,Governor,,Democratic,T. M. Kaine,10480
+Suffolk City,TOTAL,Governor,,Republican,J. W. Kilgore,8561
+Suffolk City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",456
+Suffolk City,TOTAL,Governor,,Other,All Others,12
+Surry County,TOTAL,Governor,,Democratic,T. M. Kaine,1480
+Surry County,TOTAL,Governor,,Republican,J. W. Kilgore,919
+Surry County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",37
+Surry County,TOTAL,Governor,,Other,All Others,3
+Sussex County,TOTAL,Governor,,Democratic,T. M. Kaine,1739
+Sussex County,TOTAL,Governor,,Republican,J. W. Kilgore,1401
+Sussex County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",48
+Sussex County,TOTAL,Governor,,Other,All Others,0
+Tazewell County,TOTAL,Governor,,Democratic,T. M. Kaine,4194
+Tazewell County,TOTAL,Governor,,Republican,J. W. Kilgore,5970
+Tazewell County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",106
+Tazewell County,TOTAL,Governor,,Other,All Others,4
+Virginia Beach City,TOTAL,Governor,,Democratic,T. M. Kaine,47120
+Virginia Beach City,TOTAL,Governor,,Republican,J. W. Kilgore,46471
+Virginia Beach City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",3178
+Virginia Beach City,TOTAL,Governor,,Other,All Others,120
+Warren County,TOTAL,Governor,,Democratic,T. M. Kaine,3408
+Warren County,TOTAL,Governor,,Republican,J. W. Kilgore,4705
+Warren County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",329
+Warren County,TOTAL,Governor,,Other,All Others,9
+Washington County,TOTAL,Governor,,Democratic,T. M. Kaine,5188
+Washington County,TOTAL,Governor,,Republican,J. W. Kilgore,10009
+Washington County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",108
+Washington County,TOTAL,Governor,,Other,All Others,5
+Waynesboro City,TOTAL,Governor,,Democratic,T. M. Kaine,2223
+Waynesboro City,TOTAL,Governor,,Republican,J. W. Kilgore,2596
+Waynesboro City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",181
+Waynesboro City,TOTAL,Governor,,Other,All Others,0
+Westmoreland County,TOTAL,Governor,,Democratic,T. M. Kaine,2219
+Westmoreland County,TOTAL,Governor,,Republican,J. W. Kilgore,1924
+Westmoreland County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",93
+Westmoreland County,TOTAL,Governor,,Other,All Others,3
+Williamsburg City,TOTAL,Governor,,Democratic,T. M. Kaine,1782
+Williamsburg City,TOTAL,Governor,,Republican,J. W. Kilgore,1081
+Williamsburg City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",80
+Williamsburg City,TOTAL,Governor,,Other,All Others,1
+Winchester City,TOTAL,Governor,,Democratic,T. M. Kaine,2683
+Winchester City,TOTAL,Governor,,Republican,J. W. Kilgore,2497
+Winchester City,TOTAL,Governor,,Independent,"H. R. Potts, Jr",763
+Winchester City,TOTAL,Governor,,Other,All Others,8
+Wise County,TOTAL,Governor,,Democratic,T. M. Kaine,3871
+Wise County,TOTAL,Governor,,Republican,J. W. Kilgore,6190
+Wise County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",56
+Wise County,TOTAL,Governor,,Other,All Others,5
+Wythe County,TOTAL,Governor,,Democratic,T. M. Kaine,3125
+Wythe County,TOTAL,Governor,,Republican,J. W. Kilgore,4954
+Wythe County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",185
+Wythe County,TOTAL,Governor,,Other,All Others,5
+York County,TOTAL,Governor,,Democratic,T. M. Kaine,8142
+York County,TOTAL,Governor,,Republican,J. W. Kilgore,9565
+York County,TOTAL,Governor,,Independent,"H. R. Potts, Jr",620
+York County,TOTAL,Governor,,Other,All Others,16
+TOTALS,TOTAL,Governor,,Democratic,T. M. Kaine,1025942
+TOTALS,TOTAL,Governor,,Republican,J. W. Kilgore,912327
+TOTALS,TOTAL,Governor,,Independent,"H. R. Potts, Jr",43953
+TOTALS,TOTAL,Governor,,Other,All Others,1556

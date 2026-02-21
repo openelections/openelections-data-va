@@ -1,0 +1,805 @@
+county,precinct,office,district,party,candidate,votes
+Accomack County,TOTAL,President,,Democratic,Hillary R. Clinton,6740
+Accomack County,TOTAL,President,,Republican,Donald J. Trump,8583
+Accomack County,TOTAL,President,,Libertarian,Gary Johnson,264
+Accomack County,TOTAL,President,,Independent,Evan McMullin,112
+Accomack County,TOTAL,President,,Green,Jill Stein,66
+Accomack County,TOTAL,President,,Other,All Others,53
+Albemarle County,TOTAL,President,,Democratic,Hillary R. Clinton,33345
+Albemarle County,TOTAL,President,,Republican,Donald J. Trump,19259
+Albemarle County,TOTAL,President,,Libertarian,Gary Johnson,2105
+Albemarle County,TOTAL,President,,Independent,Evan McMullin,1059
+Albemarle County,TOTAL,President,,Green,Jill Stein,450
+Albemarle County,TOTAL,President,,Other,All Others,508
+Alexandria City,TOTAL,President,,Democratic,Hillary R. Clinton,57242
+Alexandria City,TOTAL,President,,Republican,Donald J. Trump,13285
+Alexandria City,TOTAL,President,,Libertarian,Gary Johnson,2020
+Alexandria City,TOTAL,President,,Independent,Evan McMullin,1398
+Alexandria City,TOTAL,President,,Green,Jill Stein,592
+Alexandria City,TOTAL,President,,Other,All Others,1233
+Alleghany County,TOTAL,President,,Democratic,Hillary R. Clinton,2166
+Alleghany County,TOTAL,President,,Republican,Donald J. Trump,4874
+Alleghany County,TOTAL,President,,Libertarian,Gary Johnson,164
+Alleghany County,TOTAL,President,,Independent,Evan McMullin,69
+Alleghany County,TOTAL,President,,Green,Jill Stein,35
+Alleghany County,TOTAL,President,,Other,All Others,17
+Amelia County,TOTAL,President,,Democratic,Hillary R. Clinton,2128
+Amelia County,TOTAL,President,,Republican,Donald J. Trump,4708
+Amelia County,TOTAL,President,,Libertarian,Gary Johnson,129
+Amelia County,TOTAL,President,,Independent,Evan McMullin,41
+Amelia County,TOTAL,President,,Green,Jill Stein,11
+Amelia County,TOTAL,President,,Other,All Others,23
+Amherst County,TOTAL,President,,Democratic,Hillary R. Clinton,5057
+Amherst County,TOTAL,President,,Republican,Donald J. Trump,9719
+Amherst County,TOTAL,President,,Libertarian,Gary Johnson,317
+Amherst County,TOTAL,President,,Independent,Evan McMullin,159
+Amherst County,TOTAL,President,,Green,Jill Stein,65
+Amherst County,TOTAL,President,,Other,All Others,79
+Appomattox County,TOTAL,President,,Democratic,Hillary R. Clinton,2023
+Appomattox County,TOTAL,President,,Republican,Donald J. Trump,5715
+Appomattox County,TOTAL,President,,Libertarian,Gary Johnson,136
+Appomattox County,TOTAL,President,,Independent,Evan McMullin,50
+Appomattox County,TOTAL,President,,Green,Jill Stein,31
+Appomattox County,TOTAL,President,,Other,All Others,56
+Arlington County,TOTAL,President,,Democratic,Hillary R. Clinton,92016
+Arlington County,TOTAL,President,,Republican,Donald J. Trump,20186
+Arlington County,TOTAL,President,,Libertarian,Gary Johnson,3827
+Arlington County,TOTAL,President,,Independent,Evan McMullin,2594
+Arlington County,TOTAL,President,,Green,Jill Stein,819
+Arlington County,TOTAL,President,,Other,All Others,1914
+Augusta County,TOTAL,President,,Democratic,Hillary R. Clinton,8177
+Augusta County,TOTAL,President,,Republican,Donald J. Trump,26163
+Augusta County,TOTAL,President,,Libertarian,Gary Johnson,1099
+Augusta County,TOTAL,President,,Independent,Evan McMullin,502
+Augusta County,TOTAL,President,,Green,Jill Stein,200
+Augusta County,TOTAL,President,,Other,All Others,202
+Bath County,TOTAL,President,,Democratic,Hillary R. Clinton,603
+Bath County,TOTAL,President,,Republican,Donald J. Trump,1548
+Bath County,TOTAL,President,,Libertarian,Gary Johnson,56
+Bath County,TOTAL,President,,Independent,Evan McMullin,22
+Bath County,TOTAL,President,,Green,Jill Stein,15
+Bath County,TOTAL,President,,Other,All Others,9
+Bedford County,TOTAL,President,,Democratic,Hillary R. Clinton,9768
+Bedford County,TOTAL,President,,Republican,Donald J. Trump,30659
+Bedford County,TOTAL,President,,Libertarian,Gary Johnson,1074
+Bedford County,TOTAL,President,,Independent,Evan McMullin,627
+Bedford County,TOTAL,President,,Green,Jill Stein,176
+Bedford County,TOTAL,President,,Other,All Others,221
+Bland County,TOTAL,President,,Democratic,Hillary R. Clinton,453
+Bland County,TOTAL,President,,Republican,Donald J. Trump,2573
+Bland County,TOTAL,President,,Libertarian,Gary Johnson,61
+Bland County,TOTAL,President,,Independent,Evan McMullin,21
+Bland County,TOTAL,President,,Green,Jill Stein,17
+Bland County,TOTAL,President,,Other,All Others,14
+Botetourt County,TOTAL,President,,Democratic,Hillary R. Clinton,4494
+Botetourt County,TOTAL,President,,Republican,Donald J. Trump,13375
+Botetourt County,TOTAL,President,,Libertarian,Gary Johnson,497
+Botetourt County,TOTAL,President,,Independent,Evan McMullin,185
+Botetourt County,TOTAL,President,,Green,Jill Stein,101
+Botetourt County,TOTAL,President,,Other,All Others,87
+Bristol City,TOTAL,President,,Democratic,Hillary R. Clinton,1835
+Bristol City,TOTAL,President,,Republican,Donald J. Trump,4892
+Bristol City,TOTAL,President,,Libertarian,Gary Johnson,136
+Bristol City,TOTAL,President,,Independent,Evan McMullin,64
+Bristol City,TOTAL,President,,Green,Jill Stein,50
+Bristol City,TOTAL,President,,Other,All Others,55
+Brunswick County,TOTAL,President,,Democratic,Hillary R. Clinton,4481
+Brunswick County,TOTAL,President,,Republican,Donald J. Trump,3046
+Brunswick County,TOTAL,President,,Libertarian,Gary Johnson,72
+Brunswick County,TOTAL,President,,Independent,Evan McMullin,30
+Brunswick County,TOTAL,President,,Green,Jill Stein,25
+Brunswick County,TOTAL,President,,Other,All Others,15
+Buchanan County,TOTAL,President,,Democratic,Hillary R. Clinton,1721
+Buchanan County,TOTAL,President,,Republican,Donald J. Trump,7296
+Buchanan County,TOTAL,President,,Libertarian,Gary Johnson,122
+Buchanan County,TOTAL,President,,Independent,Evan McMullin,59
+Buchanan County,TOTAL,President,,Green,Jill Stein,24
+Buchanan County,TOTAL,President,,Other,All Others,25
+Buckingham County,TOTAL,President,,Democratic,Hillary R. Clinton,3128
+Buckingham County,TOTAL,President,,Republican,Donald J. Trump,3950
+Buckingham County,TOTAL,President,,Libertarian,Gary Johnson,102
+Buckingham County,TOTAL,President,,Independent,Evan McMullin,58
+Buckingham County,TOTAL,President,,Green,Jill Stein,27
+Buckingham County,TOTAL,President,,Other,All Others,30
+Buena Vista City,TOTAL,President,,Democratic,Hillary R. Clinton,693
+Buena Vista City,TOTAL,President,,Republican,Donald J. Trump,1430
+Buena Vista City,TOTAL,President,,Libertarian,Gary Johnson,83
+Buena Vista City,TOTAL,President,,Independent,Evan McMullin,174
+Buena Vista City,TOTAL,President,,Green,Jill Stein,13
+Buena Vista City,TOTAL,President,,Other,All Others,14
+Campbell County,TOTAL,President,,Democratic,Hillary R. Clinton,6664
+Campbell County,TOTAL,President,,Republican,Donald J. Trump,19551
+Campbell County,TOTAL,President,,Libertarian,Gary Johnson,665
+Campbell County,TOTAL,President,,Independent,Evan McMullin,419
+Campbell County,TOTAL,President,,Green,Jill Stein,102
+Campbell County,TOTAL,President,,Other,All Others,134
+Caroline County,TOTAL,President,,Democratic,Hillary R. Clinton,6432
+Caroline County,TOTAL,President,,Republican,Donald J. Trump,7147
+Caroline County,TOTAL,President,,Libertarian,Gary Johnson,368
+Caroline County,TOTAL,President,,Independent,Evan McMullin,154
+Caroline County,TOTAL,President,,Green,Jill Stein,99
+Caroline County,TOTAL,President,,Other,All Others,663
+Carroll County,TOTAL,President,,Democratic,Hillary R. Clinton,2559
+Carroll County,TOTAL,President,,Republican,Donald J. Trump,10663
+Carroll County,TOTAL,President,,Libertarian,Gary Johnson,220
+Carroll County,TOTAL,President,,Independent,Evan McMullin,88
+Carroll County,TOTAL,President,,Green,Jill Stein,69
+Carroll County,TOTAL,President,,Other,All Others,69
+Charles City County,TOTAL,President,,Democratic,Hillary R. Clinton,2496
+Charles City County,TOTAL,President,,Republican,Donald J. Trump,1476
+Charles City County,TOTAL,President,,Libertarian,Gary Johnson,67
+Charles City County,TOTAL,President,,Independent,Evan McMullin,39
+Charles City County,TOTAL,President,,Green,Jill Stein,15
+Charles City County,TOTAL,President,,Other,All Others,14
+Charlotte County,TOTAL,President,,Democratic,Hillary R. Clinton,2155
+Charlotte County,TOTAL,President,,Republican,Donald J. Trump,3479
+Charlotte County,TOTAL,President,,Libertarian,Gary Johnson,111
+Charlotte County,TOTAL,President,,Independent,Evan McMullin,38
+Charlotte County,TOTAL,President,,Green,Jill Stein,11
+Charlotte County,TOTAL,President,,Other,All Others,14
+Charlottesville City,TOTAL,President,,Democratic,Hillary R. Clinton,17901
+Charlottesville City,TOTAL,President,,Republican,Donald J. Trump,2960
+Charlottesville City,TOTAL,President,,Libertarian,Gary Johnson,785
+Charlottesville City,TOTAL,President,,Independent,Evan McMullin,383
+Charlottesville City,TOTAL,President,,Green,Jill Stein,230
+Charlottesville City,TOTAL,President,,Other,All Others,213
+Chesapeake City,TOTAL,President,,Democratic,Hillary R. Clinton,52627
+Chesapeake City,TOTAL,President,,Republican,Donald J. Trump,54047
+Chesapeake City,TOTAL,President,,Libertarian,Gary Johnson,3458
+Chesapeake City,TOTAL,President,,Independent,Evan McMullin,1146
+Chesapeake City,TOTAL,President,,Green,Jill Stein,698
+Chesapeake City,TOTAL,President,,Other,All Others,729
+Chesterfield County,TOTAL,President,,Democratic,Hillary R. Clinton,81074
+Chesterfield County,TOTAL,President,,Republican,Donald J. Trump,85045
+Chesterfield County,TOTAL,President,,Libertarian,Gary Johnson,6247
+Chesterfield County,TOTAL,President,,Independent,Evan McMullin,2004
+Chesterfield County,TOTAL,President,,Green,Jill Stein,990
+Chesterfield County,TOTAL,President,,Other,All Others,1101
+Clarke County,TOTAL,President,,Democratic,Hillary R. Clinton,3051
+Clarke County,TOTAL,President,,Republican,Donald J. Trump,4661
+Clarke County,TOTAL,President,,Libertarian,Gary Johnson,261
+Clarke County,TOTAL,President,,Independent,Evan McMullin,111
+Clarke County,TOTAL,President,,Green,Jill Stein,55
+Clarke County,TOTAL,President,,Other,All Others,74
+Colonial Heights City,TOTAL,President,,Democratic,Hillary R. Clinton,2367
+Colonial Heights City,TOTAL,President,,Republican,Donald J. Trump,5681
+Colonial Heights City,TOTAL,President,,Libertarian,Gary Johnson,247
+Colonial Heights City,TOTAL,President,,Independent,Evan McMullin,88
+Colonial Heights City,TOTAL,President,,Green,Jill Stein,44
+Colonial Heights City,TOTAL,President,,Other,All Others,30
+Covington City,TOTAL,President,,Democratic,Hillary R. Clinton,914
+Covington City,TOTAL,President,,Republican,Donald J. Trump,1349
+Covington City,TOTAL,President,,Libertarian,Gary Johnson,73
+Covington City,TOTAL,President,,Independent,Evan McMullin,25
+Covington City,TOTAL,President,,Green,Jill Stein,8
+Covington City,TOTAL,President,,Other,All Others,13
+Craig County,TOTAL,President,,Democratic,Hillary R. Clinton,541
+Craig County,TOTAL,President,,Republican,Donald J. Trump,2140
+Craig County,TOTAL,President,,Libertarian,Gary Johnson,54
+Craig County,TOTAL,President,,Independent,Evan McMullin,30
+Craig County,TOTAL,President,,Green,Jill Stein,20
+Craig County,TOTAL,President,,Other,All Others,9
+Culpeper County,TOTAL,President,,Democratic,Hillary R. Clinton,7759
+Culpeper County,TOTAL,President,,Republican,Donald J. Trump,13349
+Culpeper County,TOTAL,President,,Libertarian,Gary Johnson,584
+Culpeper County,TOTAL,President,,Independent,Evan McMullin,242
+Culpeper County,TOTAL,President,,Green,Jill Stein,176
+Culpeper County,TOTAL,President,,Other,All Others,108
+Cumberland County,TOTAL,President,,Democratic,Hillary R. Clinton,2036
+Cumberland County,TOTAL,President,,Republican,Donald J. Trump,2697
+Cumberland County,TOTAL,President,,Libertarian,Gary Johnson,95
+Cumberland County,TOTAL,President,,Independent,Evan McMullin,32
+Cumberland County,TOTAL,President,,Green,Jill Stein,24
+Cumberland County,TOTAL,President,,Other,All Others,22
+Danville City,TOTAL,President,,Democratic,Hillary R. Clinton,11059
+Danville City,TOTAL,President,,Republican,Donald J. Trump,7303
+Danville City,TOTAL,President,,Libertarian,Gary Johnson,315
+Danville City,TOTAL,President,,Independent,Evan McMullin,117
+Danville City,TOTAL,President,,Green,Jill Stein,73
+Danville City,TOTAL,President,,Other,All Others,85
+Dickenson County,TOTAL,President,,Democratic,Hillary R. Clinton,1335
+Dickenson County,TOTAL,President,,Republican,Donald J. Trump,4932
+Dickenson County,TOTAL,President,,Libertarian,Gary Johnson,81
+Dickenson County,TOTAL,President,,Independent,Evan McMullin,43
+Dickenson County,TOTAL,President,,Green,Jill Stein,14
+Dickenson County,TOTAL,President,,Other,All Others,35
+Dinwiddie County,TOTAL,President,,Democratic,Hillary R. Clinton,5765
+Dinwiddie County,TOTAL,President,,Republican,Donald J. Trump,7447
+Dinwiddie County,TOTAL,President,,Libertarian,Gary Johnson,196
+Dinwiddie County,TOTAL,President,,Independent,Evan McMullin,79
+Dinwiddie County,TOTAL,President,,Green,Jill Stein,46
+Dinwiddie County,TOTAL,President,,Other,All Others,42
+Emporia City,TOTAL,President,,Democratic,Hillary R. Clinton,1530
+Emporia City,TOTAL,President,,Republican,Donald J. Trump,789
+Emporia City,TOTAL,President,,Libertarian,Gary Johnson,26
+Emporia City,TOTAL,President,,Independent,Evan McMullin,8
+Emporia City,TOTAL,President,,Green,Jill Stein,10
+Emporia City,TOTAL,President,,Other,All Others,4
+Essex County,TOTAL,President,,Democratic,Hillary R. Clinton,2542
+Essex County,TOTAL,President,,Republican,Donald J. Trump,2657
+Essex County,TOTAL,President,,Libertarian,Gary Johnson,113
+Essex County,TOTAL,President,,Independent,Evan McMullin,25
+Essex County,TOTAL,President,,Green,Jill Stein,18
+Essex County,TOTAL,President,,Other,All Others,53
+Fairfax County,TOTAL,President,,Democratic,Hillary R. Clinton,355133
+Fairfax County,TOTAL,President,,Republican,Donald J. Trump,157710
+Fairfax County,TOTAL,President,,Libertarian,Gary Johnson,15664
+Fairfax County,TOTAL,President,,Independent,Evan McMullin,10369
+Fairfax County,TOTAL,President,,Green,Jill Stein,4477
+Fairfax County,TOTAL,President,,Other,All Others,7830
+Fairfax City,TOTAL,President,,Democratic,Hillary R. Clinton,7367
+Fairfax City,TOTAL,President,,Republican,Donald J. Trump,3702
+Fairfax City,TOTAL,President,,Libertarian,Gary Johnson,427
+Fairfax City,TOTAL,President,,Independent,Evan McMullin,263
+Fairfax City,TOTAL,President,,Green,Jill Stein,107
+Fairfax City,TOTAL,President,,Other,All Others,164
+Falls Church City,TOTAL,President,,Democratic,Hillary R. Clinton,5819
+Falls Church City,TOTAL,President,,Republican,Donald J. Trump,1324
+Falls Church City,TOTAL,President,,Libertarian,Gary Johnson,237
+Falls Church City,TOTAL,President,,Independent,Evan McMullin,228
+Falls Church City,TOTAL,President,,Green,Jill Stein,70
+Falls Church City,TOTAL,President,,Other,All Others,79
+Fauquier County,TOTAL,President,,Democratic,Hillary R. Clinton,12971
+Fauquier County,TOTAL,President,,Republican,Donald J. Trump,22127
+Fauquier County,TOTAL,President,,Libertarian,Gary Johnson,1191
+Fauquier County,TOTAL,President,,Independent,Evan McMullin,597
+Fauquier County,TOTAL,President,,Green,Jill Stein,267
+Fauquier County,TOTAL,President,,Other,All Others,314
+Floyd County,TOTAL,President,,Democratic,Hillary R. Clinton,2300
+Floyd County,TOTAL,President,,Republican,Donald J. Trump,5293
+Floyd County,TOTAL,President,,Libertarian,Gary Johnson,185
+Floyd County,TOTAL,President,,Independent,Evan McMullin,91
+Floyd County,TOTAL,President,,Green,Jill Stein,107
+Floyd County,TOTAL,President,,Other,All Others,75
+Fluvanna County,TOTAL,President,,Democratic,Hillary R. Clinton,5760
+Fluvanna County,TOTAL,President,,Republican,Donald J. Trump,7025
+Fluvanna County,TOTAL,President,,Libertarian,Gary Johnson,425
+Fluvanna County,TOTAL,President,,Independent,Evan McMullin,218
+Fluvanna County,TOTAL,President,,Green,Jill Stein,80
+Fluvanna County,TOTAL,President,,Other,All Others,89
+Franklin County,TOTAL,President,,Democratic,Hillary R. Clinton,7257
+Franklin County,TOTAL,President,,Republican,Donald J. Trump,18569
+Franklin County,TOTAL,President,,Libertarian,Gary Johnson,602
+Franklin County,TOTAL,President,,Independent,Evan McMullin,274
+Franklin County,TOTAL,President,,Green,Jill Stein,115
+Franklin County,TOTAL,President,,Other,All Others,154
+Franklin City,TOTAL,President,,Democratic,Hillary R. Clinton,2519
+Franklin City,TOTAL,President,,Republican,Donald J. Trump,1421
+Franklin City,TOTAL,President,,Libertarian,Gary Johnson,72
+Franklin City,TOTAL,President,,Independent,Evan McMullin,15
+Franklin City,TOTAL,President,,Green,Jill Stein,16
+Franklin City,TOTAL,President,,Other,All Others,27
+Frederick County,TOTAL,President,,Democratic,Hillary R. Clinton,11932
+Frederick County,TOTAL,President,,Republican,Donald J. Trump,26083
+Frederick County,TOTAL,President,,Libertarian,Gary Johnson,1280
+Frederick County,TOTAL,President,,Independent,Evan McMullin,543
+Frederick County,TOTAL,President,,Green,Jill Stein,325
+Frederick County,TOTAL,President,,Other,All Others,277
+Fredericksburg City,TOTAL,President,,Democratic,Hillary R. Clinton,6707
+Fredericksburg City,TOTAL,President,,Republican,Donald J. Trump,3744
+Fredericksburg City,TOTAL,President,,Libertarian,Gary Johnson,389
+Fredericksburg City,TOTAL,President,,Independent,Evan McMullin,189
+Fredericksburg City,TOTAL,President,,Green,Jill Stein,137
+Fredericksburg City,TOTAL,President,,Other,All Others,98
+Galax City,TOTAL,President,,Democratic,Hillary R. Clinton,681
+Galax City,TOTAL,President,,Republican,Donald J. Trump,1603
+Galax City,TOTAL,President,,Libertarian,Gary Johnson,45
+Galax City,TOTAL,President,,Independent,Evan McMullin,28
+Galax City,TOTAL,President,,Green,Jill Stein,7
+Galax City,TOTAL,President,,Other,All Others,12
+Giles County,TOTAL,President,,Democratic,Hillary R. Clinton,1950
+Giles County,TOTAL,President,,Republican,Donald J. Trump,5910
+Giles County,TOTAL,President,,Libertarian,Gary Johnson,201
+Giles County,TOTAL,President,,Independent,Evan McMullin,78
+Giles County,TOTAL,President,,Green,Jill Stein,39
+Giles County,TOTAL,President,,Other,All Others,34
+Gloucester County,TOTAL,President,,Democratic,Hillary R. Clinton,5404
+Gloucester County,TOTAL,President,,Republican,Donald J. Trump,13096
+Gloucester County,TOTAL,President,,Libertarian,Gary Johnson,693
+Gloucester County,TOTAL,President,,Independent,Evan McMullin,213
+Gloucester County,TOTAL,President,,Green,Jill Stein,134
+Gloucester County,TOTAL,President,,Other,All Others,79
+Goochland County,TOTAL,President,,Democratic,Hillary R. Clinton,4889
+Goochland County,TOTAL,President,,Republican,Donald J. Trump,8384
+Goochland County,TOTAL,President,,Libertarian,Gary Johnson,474
+Goochland County,TOTAL,President,,Independent,Evan McMullin,145
+Goochland County,TOTAL,President,,Green,Jill Stein,54
+Goochland County,TOTAL,President,,Other,All Others,91
+Grayson County,TOTAL,President,,Democratic,Hillary R. Clinton,1407
+Grayson County,TOTAL,President,,Republican,Donald J. Trump,5592
+Grayson County,TOTAL,President,,Libertarian,Gary Johnson,110
+Grayson County,TOTAL,President,,Independent,Evan McMullin,93
+Grayson County,TOTAL,President,,Green,Jill Stein,55
+Grayson County,TOTAL,President,,Other,All Others,28
+Greene County,TOTAL,President,,Democratic,Hillary R. Clinton,2924
+Greene County,TOTAL,President,,Republican,Donald J. Trump,5945
+Greene County,TOTAL,President,,Libertarian,Gary Johnson,406
+Greene County,TOTAL,President,,Independent,Evan McMullin,167
+Greene County,TOTAL,President,,Green,Jill Stein,66
+Greene County,TOTAL,President,,Other,All Others,100
+Greensville County,TOTAL,President,,Democratic,Hillary R. Clinton,2558
+Greensville County,TOTAL,President,,Republican,Donald J. Trump,1737
+Greensville County,TOTAL,President,,Libertarian,Gary Johnson,50
+Greensville County,TOTAL,President,,Independent,Evan McMullin,12
+Greensville County,TOTAL,President,,Green,Jill Stein,6
+Greensville County,TOTAL,President,,Other,All Others,0
+Halifax County,TOTAL,President,,Democratic,Hillary R. Clinton,6897
+Halifax County,TOTAL,President,,Republican,Donald J. Trump,9704
+Halifax County,TOTAL,President,,Libertarian,Gary Johnson,237
+Halifax County,TOTAL,President,,Independent,Evan McMullin,77
+Halifax County,TOTAL,President,,Green,Jill Stein,44
+Halifax County,TOTAL,President,,Other,All Others,42
+Hampton City,TOTAL,President,,Democratic,Hillary R. Clinton,41312
+Hampton City,TOTAL,President,,Republican,Donald J. Trump,17902
+Hampton City,TOTAL,President,,Libertarian,Gary Johnson,1658
+Hampton City,TOTAL,President,,Independent,Evan McMullin,551
+Hampton City,TOTAL,President,,Green,Jill Stein,474
+Hampton City,TOTAL,President,,Other,All Others,459
+Hanover County,TOTAL,President,,Democratic,Hillary R. Clinton,19382
+Hanover County,TOTAL,President,,Republican,Donald J. Trump,39630
+Hanover County,TOTAL,President,,Libertarian,Gary Johnson,2310
+Hanover County,TOTAL,President,,Independent,Evan McMullin,741
+Hanover County,TOTAL,President,,Green,Jill Stein,314
+Hanover County,TOTAL,President,,Other,All Others,376
+Harrisonburg City,TOTAL,President,,Democratic,Hillary R. Clinton,10212
+Harrisonburg City,TOTAL,President,,Republican,Donald J. Trump,6262
+Harrisonburg City,TOTAL,President,,Libertarian,Gary Johnson,810
+Harrisonburg City,TOTAL,President,,Independent,Evan McMullin,310
+Harrisonburg City,TOTAL,President,,Green,Jill Stein,255
+Harrisonburg City,TOTAL,President,,Other,All Others,144
+Henrico County,TOTAL,President,,Democratic,Hillary R. Clinton,93935
+Henrico County,TOTAL,President,,Republican,Donald J. Trump,59857
+Henrico County,TOTAL,President,,Libertarian,Gary Johnson,5657
+Henrico County,TOTAL,President,,Independent,Evan McMullin,1997
+Henrico County,TOTAL,President,,Green,Jill Stein,1081
+Henrico County,TOTAL,President,,Other,All Others,1127
+Henry County,TOTAL,President,,Democratic,Hillary R. Clinton,8198
+Henry County,TOTAL,President,,Republican,Donald J. Trump,15208
+Henry County,TOTAL,President,,Libertarian,Gary Johnson,378
+Henry County,TOTAL,President,,Independent,Evan McMullin,147
+Henry County,TOTAL,President,,Green,Jill Stein,98
+Henry County,TOTAL,President,,Other,All Others,77
+Highland County,TOTAL,President,,Democratic,Hillary R. Clinton,371
+Highland County,TOTAL,President,,Republican,Donald J. Trump,958
+Highland County,TOTAL,President,,Libertarian,Gary Johnson,33
+Highland County,TOTAL,President,,Independent,Evan McMullin,21
+Highland County,TOTAL,President,,Green,Jill Stein,8
+Highland County,TOTAL,President,,Other,All Others,0
+Hopewell City,TOTAL,President,,Democratic,Hillary R. Clinton,4724
+Hopewell City,TOTAL,President,,Republican,Donald J. Trump,3885
+Hopewell City,TOTAL,President,,Libertarian,Gary Johnson,212
+Hopewell City,TOTAL,President,,Independent,Evan McMullin,91
+Hopewell City,TOTAL,President,,Green,Jill Stein,58
+Hopewell City,TOTAL,President,,Other,All Others,38
+Isle of Wight County,TOTAL,President,,Democratic,Hillary R. Clinton,7881
+Isle of Wight County,TOTAL,President,,Republican,Donald J. Trump,12204
+Isle of Wight County,TOTAL,President,,Libertarian,Gary Johnson,589
+Isle of Wight County,TOTAL,President,,Independent,Evan McMullin,207
+Isle of Wight County,TOTAL,President,,Green,Jill Stein,81
+Isle of Wight County,TOTAL,President,,Other,All Others,113
+James City County,TOTAL,President,,Democratic,Hillary R. Clinton,19105
+James City County,TOTAL,President,,Republican,Donald J. Trump,21306
+James City County,TOTAL,President,,Libertarian,Gary Johnson,1395
+James City County,TOTAL,President,,Independent,Evan McMullin,686
+James City County,TOTAL,President,,Green,Jill Stein,281
+James City County,TOTAL,President,,Other,All Others,400
+King and Queen County,TOTAL,President,,Democratic,Hillary R. Clinton,1468
+King and Queen County,TOTAL,President,,Republican,Donald J. Trump,2099
+King and Queen County,TOTAL,President,,Libertarian,Gary Johnson,75
+King and Queen County,TOTAL,President,,Independent,Evan McMullin,13
+King and Queen County,TOTAL,President,,Green,Jill Stein,18
+King and Queen County,TOTAL,President,,Other,All Others,24
+King George County,TOTAL,President,,Democratic,Hillary R. Clinton,4007
+King George County,TOTAL,President,,Republican,Donald J. Trump,7341
+King George County,TOTAL,President,,Libertarian,Gary Johnson,367
+King George County,TOTAL,President,,Independent,Evan McMullin,177
+King George County,TOTAL,President,,Green,Jill Stein,83
+King George County,TOTAL,President,,Other,All Others,84
+King William County,TOTAL,President,,Democratic,Hillary R. Clinton,2760
+King William County,TOTAL,President,,Republican,Donald J. Trump,5975
+King William County,TOTAL,President,,Libertarian,Gary Johnson,261
+King William County,TOTAL,President,,Independent,Evan McMullin,71
+King William County,TOTAL,President,,Green,Jill Stein,44
+King William County,TOTAL,President,,Other,All Others,50
+Lancaster County,TOTAL,President,,Democratic,Hillary R. Clinton,2869
+Lancaster County,TOTAL,President,,Republican,Donald J. Trump,3523
+Lancaster County,TOTAL,President,,Libertarian,Gary Johnson,141
+Lancaster County,TOTAL,President,,Independent,Evan McMullin,41
+Lancaster County,TOTAL,President,,Green,Jill Stein,35
+Lancaster County,TOTAL,President,,Other,All Others,36
+Lee County,TOTAL,President,,Democratic,Hillary R. Clinton,1627
+Lee County,TOTAL,President,,Republican,Donald J. Trump,7543
+Lee County,TOTAL,President,,Libertarian,Gary Johnson,106
+Lee County,TOTAL,President,,Independent,Evan McMullin,45
+Lee County,TOTAL,President,,Green,Jill Stein,33
+Lee County,TOTAL,President,,Other,All Others,45
+Lexington City,TOTAL,President,,Democratic,Hillary R. Clinton,1514
+Lexington City,TOTAL,President,,Republican,Donald J. Trump,766
+Lexington City,TOTAL,President,,Libertarian,Gary Johnson,92
+Lexington City,TOTAL,President,,Independent,Evan McMullin,56
+Lexington City,TOTAL,President,,Green,Jill Stein,20
+Lexington City,TOTAL,President,,Other,All Others,17
+Loudoun County,TOTAL,President,,Democratic,Hillary R. Clinton,100795
+Loudoun County,TOTAL,President,,Republican,Donald J. Trump,69949
+Loudoun County,TOTAL,President,,Libertarian,Gary Johnson,5674
+Loudoun County,TOTAL,President,,Independent,Evan McMullin,3413
+Loudoun County,TOTAL,President,,Green,Jill Stein,1316
+Loudoun County,TOTAL,President,,Other,All Others,1950
+Louisa County,TOTAL,President,,Democratic,Hillary R. Clinton,6212
+Louisa County,TOTAL,President,,Republican,Donald J. Trump,10528
+Louisa County,TOTAL,President,,Libertarian,Gary Johnson,505
+Louisa County,TOTAL,President,,Independent,Evan McMullin,163
+Louisa County,TOTAL,President,,Green,Jill Stein,124
+Louisa County,TOTAL,President,,Other,All Others,99
+Lunenburg County,TOTAL,President,,Democratic,Hillary R. Clinton,2227
+Lunenburg County,TOTAL,President,,Republican,Donald J. Trump,3204
+Lunenburg County,TOTAL,President,,Libertarian,Gary Johnson,88
+Lunenburg County,TOTAL,President,,Independent,Evan McMullin,32
+Lunenburg County,TOTAL,President,,Green,Jill Stein,25
+Lunenburg County,TOTAL,President,,Other,All Others,10
+Lynchburg City,TOTAL,President,,Democratic,Hillary R. Clinton,14792
+Lynchburg City,TOTAL,President,,Republican,Donald J. Trump,17982
+Lynchburg City,TOTAL,President,,Libertarian,Gary Johnson,1379
+Lynchburg City,TOTAL,President,,Independent,Evan McMullin,998
+Lynchburg City,TOTAL,President,,Green,Jill Stein,208
+Lynchburg City,TOTAL,President,,Other,All Others,312
+Madison County,TOTAL,President,,Democratic,Hillary R. Clinton,2203
+Madison County,TOTAL,President,,Republican,Donald J. Trump,4419
+Madison County,TOTAL,President,,Libertarian,Gary Johnson,184
+Madison County,TOTAL,President,,Independent,Evan McMullin,87
+Madison County,TOTAL,President,,Green,Jill Stein,43
+Madison County,TOTAL,President,,Other,All Others,43
+Manassas City,TOTAL,President,,Democratic,Hillary R. Clinton,8423
+Manassas City,TOTAL,President,,Republican,Donald J. Trump,5953
+Manassas City,TOTAL,President,,Libertarian,Gary Johnson,488
+Manassas City,TOTAL,President,,Independent,Evan McMullin,246
+Manassas City,TOTAL,President,,Green,Jill Stein,147
+Manassas City,TOTAL,President,,Other,All Others,154
+Manassas Park City,TOTAL,President,,Democratic,Hillary R. Clinton,3204
+Manassas Park City,TOTAL,President,,Republican,Donald J. Trump,1733
+Manassas Park City,TOTAL,President,,Libertarian,Gary Johnson,162
+Manassas Park City,TOTAL,President,,Independent,Evan McMullin,57
+Manassas Park City,TOTAL,President,,Green,Jill Stein,45
+Manassas Park City,TOTAL,President,,Other,All Others,31
+Martinsville City,TOTAL,President,,Democratic,Hillary R. Clinton,3533
+Martinsville City,TOTAL,President,,Republican,Donald J. Trump,2149
+Martinsville City,TOTAL,President,,Libertarian,Gary Johnson,114
+Martinsville City,TOTAL,President,,Independent,Evan McMullin,51
+Martinsville City,TOTAL,President,,Green,Jill Stein,29
+Martinsville City,TOTAL,President,,Other,All Others,31
+Mathews County,TOTAL,President,,Democratic,Hillary R. Clinton,1563
+Mathews County,TOTAL,President,,Republican,Donald J. Trump,3517
+Mathews County,TOTAL,President,,Libertarian,Gary Johnson,147
+Mathews County,TOTAL,President,,Independent,Evan McMullin,36
+Mathews County,TOTAL,President,,Green,Jill Stein,31
+Mathews County,TOTAL,President,,Other,All Others,17
+Mecklenburg County,TOTAL,President,,Democratic,Hillary R. Clinton,6285
+Mecklenburg County,TOTAL,President,,Republican,Donald J. Trump,8288
+Mecklenburg County,TOTAL,President,,Libertarian,Gary Johnson,239
+Mecklenburg County,TOTAL,President,,Independent,Evan McMullin,54
+Mecklenburg County,TOTAL,President,,Green,Jill Stein,30
+Mecklenburg County,TOTAL,President,,Other,All Others,49
+Middlesex County,TOTAL,President,,Democratic,Hillary R. Clinton,2108
+Middlesex County,TOTAL,President,,Republican,Donald J. Trump,3670
+Middlesex County,TOTAL,President,,Libertarian,Gary Johnson,140
+Middlesex County,TOTAL,President,,Independent,Evan McMullin,50
+Middlesex County,TOTAL,President,,Green,Jill Stein,33
+Middlesex County,TOTAL,President,,Other,All Others,16
+Montgomery County,TOTAL,President,,Democratic,Hillary R. Clinton,20021
+Montgomery County,TOTAL,President,,Republican,Donald J. Trump,19459
+Montgomery County,TOTAL,President,,Libertarian,Gary Johnson,2026
+Montgomery County,TOTAL,President,,Independent,Evan McMullin,798
+Montgomery County,TOTAL,President,,Green,Jill Stein,401
+Montgomery County,TOTAL,President,,Other,All Others,326
+Nelson County,TOTAL,President,,Democratic,Hillary R. Clinton,3689
+Nelson County,TOTAL,President,,Republican,Donald J. Trump,4154
+Nelson County,TOTAL,President,,Libertarian,Gary Johnson,244
+Nelson County,TOTAL,President,,Independent,Evan McMullin,95
+Nelson County,TOTAL,President,,Green,Jill Stein,81
+Nelson County,TOTAL,President,,Other,All Others,55
+New Kent County,TOTAL,President,,Democratic,Hillary R. Clinton,3546
+New Kent County,TOTAL,President,,Republican,Donald J. Trump,8118
+New Kent County,TOTAL,President,,Libertarian,Gary Johnson,348
+New Kent County,TOTAL,President,,Independent,Evan McMullin,102
+New Kent County,TOTAL,President,,Green,Jill Stein,52
+New Kent County,TOTAL,President,,Other,All Others,76
+Newport News City,TOTAL,President,,Democratic,Hillary R. Clinton,45618
+Newport News City,TOTAL,President,,Republican,Donald J. Trump,25468
+Newport News City,TOTAL,President,,Libertarian,Gary Johnson,2531
+Newport News City,TOTAL,President,,Independent,Evan McMullin,931
+Newport News City,TOTAL,President,,Green,Jill Stein,591
+Newport News City,TOTAL,President,,Other,All Others,576
+Norfolk City,TOTAL,President,,Democratic,Hillary R. Clinton,57023
+Norfolk City,TOTAL,President,,Republican,Donald J. Trump,21552
+Norfolk City,TOTAL,President,,Libertarian,Gary Johnson,2717
+Norfolk City,TOTAL,President,,Independent,Evan McMullin,761
+Norfolk City,TOTAL,President,,Green,Jill Stein,797
+Norfolk City,TOTAL,President,,Other,All Others,538
+Northampton County,TOTAL,President,,Democratic,Hillary R. Clinton,3255
+Northampton County,TOTAL,President,,Republican,Donald J. Trump,2686
+Northampton County,TOTAL,President,,Libertarian,Gary Johnson,116
+Northampton County,TOTAL,President,,Independent,Evan McMullin,37
+Northampton County,TOTAL,President,,Green,Jill Stein,40
+Northampton County,TOTAL,President,,Other,All Others,38
+Northumberland County,TOTAL,President,,Democratic,Hillary R. Clinton,2852
+Northumberland County,TOTAL,President,,Republican,Donald J. Trump,4302
+Northumberland County,TOTAL,President,,Libertarian,Gary Johnson,136
+Northumberland County,TOTAL,President,,Independent,Evan McMullin,51
+Northumberland County,TOTAL,President,,Green,Jill Stein,21
+Northumberland County,TOTAL,President,,Other,All Others,36
+Norton City,TOTAL,President,,Democratic,Hillary R. Clinton,383
+Norton City,TOTAL,President,,Republican,Donald J. Trump,1021
+Norton City,TOTAL,President,,Libertarian,Gary Johnson,24
+Norton City,TOTAL,President,,Independent,Evan McMullin,22
+Norton City,TOTAL,President,,Green,Jill Stein,6
+Norton City,TOTAL,President,,Other,All Others,4
+Nottoway County,TOTAL,President,,Democratic,Hillary R. Clinton,2829
+Nottoway County,TOTAL,President,,Republican,Donald J. Trump,3712
+Nottoway County,TOTAL,President,,Libertarian,Gary Johnson,116
+Nottoway County,TOTAL,President,,Independent,Evan McMullin,35
+Nottoway County,TOTAL,President,,Green,Jill Stein,25
+Nottoway County,TOTAL,President,,Other,All Others,27
+Orange County,TOTAL,President,,Democratic,Hillary R. Clinton,5957
+Orange County,TOTAL,President,,Republican,Donald J. Trump,10521
+Orange County,TOTAL,President,,Libertarian,Gary Johnson,399
+Orange County,TOTAL,President,,Independent,Evan McMullin,178
+Orange County,TOTAL,President,,Green,Jill Stein,116
+Orange County,TOTAL,President,,Other,All Others,99
+Page County,TOTAL,President,,Democratic,Hillary R. Clinton,2514
+Page County,TOTAL,President,,Republican,Donald J. Trump,7831
+Page County,TOTAL,President,,Libertarian,Gary Johnson,198
+Page County,TOTAL,President,,Independent,Evan McMullin,89
+Page County,TOTAL,President,,Green,Jill Stein,38
+Page County,TOTAL,President,,Other,All Others,70
+Patrick County,TOTAL,President,,Democratic,Hillary R. Clinton,1768
+Patrick County,TOTAL,President,,Republican,Donald J. Trump,6454
+Patrick County,TOTAL,President,,Libertarian,Gary Johnson,147
+Patrick County,TOTAL,President,,Independent,Evan McMullin,71
+Patrick County,TOTAL,President,,Green,Jill Stein,49
+Patrick County,TOTAL,President,,Other,All Others,36
+Petersburg City,TOTAL,President,,Democratic,Hillary R. Clinton,12021
+Petersburg City,TOTAL,President,,Republican,Donald J. Trump,1451
+Petersburg City,TOTAL,President,,Libertarian,Gary Johnson,139
+Petersburg City,TOTAL,President,,Independent,Evan McMullin,58
+Petersburg City,TOTAL,President,,Green,Jill Stein,67
+Petersburg City,TOTAL,President,,Other,All Others,50
+Pittsylvania County,TOTAL,President,,Democratic,Hillary R. Clinton,9199
+Pittsylvania County,TOTAL,President,,Republican,Donald J. Trump,21554
+Pittsylvania County,TOTAL,President,,Libertarian,Gary Johnson,442
+Pittsylvania County,TOTAL,President,,Independent,Evan McMullin,202
+Pittsylvania County,TOTAL,President,,Green,Jill Stein,106
+Pittsylvania County,TOTAL,President,,Other,All Others,95
+Poquoson City,TOTAL,President,,Democratic,Hillary R. Clinton,1601
+Poquoson City,TOTAL,President,,Republican,Donald J. Trump,5092
+Poquoson City,TOTAL,President,,Libertarian,Gary Johnson,307
+Poquoson City,TOTAL,President,,Independent,Evan McMullin,76
+Poquoson City,TOTAL,President,,Green,Jill Stein,43
+Poquoson City,TOTAL,President,,Other,All Others,58
+Portsmouth City,TOTAL,President,,Democratic,Hillary R. Clinton,28497
+Portsmouth City,TOTAL,President,,Republican,Donald J. Trump,12795
+Portsmouth City,TOTAL,President,,Libertarian,Gary Johnson,1096
+Portsmouth City,TOTAL,President,,Independent,Evan McMullin,331
+Portsmouth City,TOTAL,President,,Green,Jill Stein,323
+Portsmouth City,TOTAL,President,,Other,All Others,223
+Powhatan County,TOTAL,President,,Democratic,Hillary R. Clinton,4060
+Powhatan County,TOTAL,President,,Republican,Donald J. Trump,11885
+Powhatan County,TOTAL,President,,Libertarian,Gary Johnson,639
+Powhatan County,TOTAL,President,,Independent,Evan McMullin,151
+Powhatan County,TOTAL,President,,Green,Jill Stein,73
+Powhatan County,TOTAL,President,,Other,All Others,92
+Prince Edward County,TOTAL,President,,Democratic,Hillary R. Clinton,4591
+Prince Edward County,TOTAL,President,,Republican,Donald J. Trump,4101
+Prince Edward County,TOTAL,President,,Libertarian,Gary Johnson,286
+Prince Edward County,TOTAL,President,,Independent,Evan McMullin,85
+Prince Edward County,TOTAL,President,,Green,Jill Stein,53
+Prince Edward County,TOTAL,President,,Other,All Others,27
+Prince George County,TOTAL,President,,Democratic,Hillary R. Clinton,6419
+Prince George County,TOTAL,President,,Republican,Donald J. Trump,9157
+Prince George County,TOTAL,President,,Libertarian,Gary Johnson,374
+Prince George County,TOTAL,President,,Independent,Evan McMullin,120
+Prince George County,TOTAL,President,,Green,Jill Stein,70
+Prince George County,TOTAL,President,,Other,All Others,44
+Prince William County,TOTAL,President,,Democratic,Hillary R. Clinton,113144
+Prince William County,TOTAL,President,,Republican,Donald J. Trump,71721
+Prince William County,TOTAL,President,,Libertarian,Gary Johnson,5374
+Prince William County,TOTAL,President,,Independent,Evan McMullin,2995
+Prince William County,TOTAL,President,,Green,Jill Stein,1497
+Prince William County,TOTAL,President,,Other,All Others,1807
+Pulaski County,TOTAL,President,,Democratic,Hillary R. Clinton,4172
+Pulaski County,TOTAL,President,,Republican,Donald J. Trump,10322
+Pulaski County,TOTAL,President,,Libertarian,Gary Johnson,351
+Pulaski County,TOTAL,President,,Independent,Evan McMullin,171
+Pulaski County,TOTAL,President,,Green,Jill Stein,107
+Pulaski County,TOTAL,President,,Other,All Others,44
+Radford City,TOTAL,President,,Democratic,Hillary R. Clinton,2925
+Radford City,TOTAL,President,,Republican,Donald J. Trump,2638
+Radford City,TOTAL,President,,Libertarian,Gary Johnson,301
+Radford City,TOTAL,President,,Independent,Evan McMullin,113
+Radford City,TOTAL,President,,Green,Jill Stein,58
+Radford City,TOTAL,President,,Other,All Others,50
+Rappahannock County,TOTAL,President,,Democratic,Hillary R. Clinton,1747
+Rappahannock County,TOTAL,President,,Republican,Donald J. Trump,2539
+Rappahannock County,TOTAL,President,,Libertarian,Gary Johnson,93
+Rappahannock County,TOTAL,President,,Independent,Evan McMullin,42
+Rappahannock County,TOTAL,President,,Green,Jill Stein,36
+Rappahannock County,TOTAL,President,,Other,All Others,26
+Richmond County,TOTAL,President,,Democratic,Hillary R. Clinton,1347
+Richmond County,TOTAL,President,,Republican,Donald J. Trump,2213
+Richmond County,TOTAL,President,,Libertarian,Gary Johnson,57
+Richmond County,TOTAL,President,,Independent,Evan McMullin,21
+Richmond County,TOTAL,President,,Green,Jill Stein,13
+Richmond County,TOTAL,President,,Other,All Others,10
+Richmond City,TOTAL,President,,Democratic,Hillary R. Clinton,81259
+Richmond City,TOTAL,President,,Republican,Donald J. Trump,15581
+Richmond City,TOTAL,President,,Libertarian,Gary Johnson,3617
+Richmond City,TOTAL,President,,Independent,Evan McMullin,1124
+Richmond City,TOTAL,President,,Green,Jill Stein,1134
+Richmond City,TOTAL,President,,Other,All Others,769
+Roanoke County,TOTAL,President,,Democratic,Hillary R. Clinton,17200
+Roanoke County,TOTAL,President,,Republican,Donald J. Trump,31408
+Roanoke County,TOTAL,President,,Libertarian,Gary Johnson,1620
+Roanoke County,TOTAL,President,,Independent,Evan McMullin,678
+Roanoke County,TOTAL,President,,Green,Jill Stein,286
+Roanoke County,TOTAL,President,,Other,All Others,297
+Roanoke City,TOTAL,President,,Democratic,Hillary R. Clinton,22286
+Roanoke City,TOTAL,President,,Republican,Donald J. Trump,14789
+Roanoke City,TOTAL,President,,Libertarian,Gary Johnson,1316
+Roanoke City,TOTAL,President,,Independent,Evan McMullin,413
+Roanoke City,TOTAL,President,,Green,Jill Stein,411
+Roanoke City,TOTAL,President,,Other,All Others,251
+Rockbridge County,TOTAL,President,,Democratic,Hillary R. Clinton,3508
+Rockbridge County,TOTAL,President,,Republican,Donald J. Trump,6680
+Rockbridge County,TOTAL,President,,Libertarian,Gary Johnson,271
+Rockbridge County,TOTAL,President,,Independent,Evan McMullin,171
+Rockbridge County,TOTAL,President,,Green,Jill Stein,66
+Rockbridge County,TOTAL,President,,Other,All Others,99
+Rockingham County,TOTAL,President,,Democratic,Hillary R. Clinton,9366
+Rockingham County,TOTAL,President,,Republican,Donald J. Trump,25990
+Rockingham County,TOTAL,President,,Libertarian,Gary Johnson,1088
+Rockingham County,TOTAL,President,,Independent,Evan McMullin,610
+Rockingham County,TOTAL,President,,Green,Jill Stein,208
+Rockingham County,TOTAL,President,,Other,All Others,225
+Russell County,TOTAL,President,,Democratic,Hillary R. Clinton,2330
+Russell County,TOTAL,President,,Republican,Donald J. Trump,9521
+Russell County,TOTAL,President,,Libertarian,Gary Johnson,190
+Russell County,TOTAL,President,,Independent,Evan McMullin,104
+Russell County,TOTAL,President,,Green,Jill Stein,58
+Russell County,TOTAL,President,,Other,All Others,43
+Salem City,TOTAL,President,,Democratic,Hillary R. Clinton,4202
+Salem City,TOTAL,President,,Republican,Donald J. Trump,7226
+Salem City,TOTAL,President,,Libertarian,Gary Johnson,442
+Salem City,TOTAL,President,,Independent,Evan McMullin,158
+Salem City,TOTAL,President,,Green,Jill Stein,92
+Salem City,TOTAL,President,,Other,All Others,105
+Scott County,TOTAL,President,,Democratic,Hillary R. Clinton,1581
+Scott County,TOTAL,President,,Republican,Donald J. Trump,8247
+Scott County,TOTAL,President,,Libertarian,Gary Johnson,142
+Scott County,TOTAL,President,,Independent,Evan McMullin,53
+Scott County,TOTAL,President,,Green,Jill Stein,39
+Scott County,TOTAL,President,,Other,All Others,38
+Shenandoah County,TOTAL,President,,Democratic,Hillary R. Clinton,5273
+Shenandoah County,TOTAL,President,,Republican,Donald J. Trump,14094
+Shenandoah County,TOTAL,President,,Libertarian,Gary Johnson,556
+Shenandoah County,TOTAL,President,,Independent,Evan McMullin,286
+Shenandoah County,TOTAL,President,,Green,Jill Stein,149
+Shenandoah County,TOTAL,President,,Other,All Others,155
+Smyth County,TOTAL,President,,Democratic,Hillary R. Clinton,2665
+Smyth County,TOTAL,President,,Republican,Donald J. Trump,9750
+Smyth County,TOTAL,President,,Libertarian,Gary Johnson,258
+Smyth County,TOTAL,President,,Independent,Evan McMullin,113
+Smyth County,TOTAL,President,,Green,Jill Stein,53
+Smyth County,TOTAL,President,,Other,All Others,51
+Southampton County,TOTAL,President,,Democratic,Hillary R. Clinton,3595
+Southampton County,TOTAL,President,,Republican,Donald J. Trump,5035
+Southampton County,TOTAL,President,,Libertarian,Gary Johnson,156
+Southampton County,TOTAL,President,,Independent,Evan McMullin,62
+Southampton County,TOTAL,President,,Green,Jill Stein,24
+Southampton County,TOTAL,President,,Other,All Others,6
+Spotsylvania County,TOTAL,President,,Democratic,Hillary R. Clinton,24207
+Spotsylvania County,TOTAL,President,,Republican,Donald J. Trump,34623
+Spotsylvania County,TOTAL,President,,Libertarian,Gary Johnson,1910
+Spotsylvania County,TOTAL,President,,Independent,Evan McMullin,900
+Spotsylvania County,TOTAL,President,,Green,Jill Stein,450
+Spotsylvania County,TOTAL,President,,Other,All Others,472
+Stafford County,TOTAL,President,,Democratic,Hillary R. Clinton,27908
+Stafford County,TOTAL,President,,Republican,Donald J. Trump,33868
+Stafford County,TOTAL,President,,Libertarian,Gary Johnson,2140
+Stafford County,TOTAL,President,,Independent,Evan McMullin,1006
+Stafford County,TOTAL,President,,Green,Jill Stein,488
+Stafford County,TOTAL,President,,Other,All Others,524
+Staunton City,TOTAL,President,,Democratic,Hillary R. Clinton,5333
+Staunton City,TOTAL,President,,Republican,Donald J. Trump,5133
+Staunton City,TOTAL,President,,Libertarian,Gary Johnson,419
+Staunton City,TOTAL,President,,Independent,Evan McMullin,159
+Staunton City,TOTAL,President,,Green,Jill Stein,109
+Staunton City,TOTAL,President,,Other,All Others,102
+Suffolk City,TOTAL,President,,Democratic,Hillary R. Clinton,23280
+Suffolk City,TOTAL,President,,Republican,Donald J. Trump,18006
+Suffolk City,TOTAL,President,,Libertarian,Gary Johnson,1098
+Suffolk City,TOTAL,President,,Independent,Evan McMullin,436
+Suffolk City,TOTAL,President,,Green,Jill Stein,223
+Suffolk City,TOTAL,President,,Other,All Others,197
+Surry County,TOTAL,President,,Democratic,Hillary R. Clinton,2272
+Surry County,TOTAL,President,,Republican,Donald J. Trump,1819
+Surry County,TOTAL,President,,Libertarian,Gary Johnson,81
+Surry County,TOTAL,President,,Independent,Evan McMullin,29
+Surry County,TOTAL,President,,Green,Jill Stein,17
+Surry County,TOTAL,President,,Other,All Others,10
+Sussex County,TOTAL,President,,Democratic,Hillary R. Clinton,2879
+Sussex County,TOTAL,President,,Republican,Donald J. Trump,2055
+Sussex County,TOTAL,President,,Libertarian,Gary Johnson,63
+Sussex County,TOTAL,President,,Independent,Evan McMullin,22
+Sussex County,TOTAL,President,,Green,Jill Stein,22
+Sussex County,TOTAL,President,,Other,All Others,3
+Tazewell County,TOTAL,President,,Democratic,Hillary R. Clinton,2895
+Tazewell County,TOTAL,President,,Republican,Donald J. Trump,15168
+Tazewell County,TOTAL,President,,Libertarian,Gary Johnson,260
+Tazewell County,TOTAL,President,,Independent,Evan McMullin,127
+Tazewell County,TOTAL,President,,Green,Jill Stein,53
+Tazewell County,TOTAL,President,,Other,All Others,63
+Virginia Beach City,TOTAL,President,,Democratic,Hillary R. Clinton,91032
+Virginia Beach City,TOTAL,President,,Republican,Donald J. Trump,98224
+Virginia Beach City,TOTAL,President,,Libertarian,Gary Johnson,8255
+Virginia Beach City,TOTAL,President,,Independent,Evan McMullin,2237
+Virginia Beach City,TOTAL,President,,Green,Jill Stein,1737
+Virginia Beach City,TOTAL,President,,Other,All Others,1777
+Warren County,TOTAL,President,,Democratic,Hillary R. Clinton,5169
+Warren County,TOTAL,President,,Republican,Donald J. Trump,11773
+Warren County,TOTAL,President,,Libertarian,Gary Johnson,495
+Warren County,TOTAL,President,,Independent,Evan McMullin,222
+Warren County,TOTAL,President,,Green,Jill Stein,149
+Warren County,TOTAL,President,,Other,All Others,152
+Washington County,TOTAL,President,,Democratic,Hillary R. Clinton,5553
+Washington County,TOTAL,President,,Republican,Donald J. Trump,19320
+Washington County,TOTAL,President,,Libertarian,Gary Johnson,537
+Washington County,TOTAL,President,,Independent,Evan McMullin,229
+Washington County,TOTAL,President,,Green,Jill Stein,93
+Washington County,TOTAL,President,,Other,All Others,115
+Waynesboro City,TOTAL,President,,Democratic,Hillary R. Clinton,3764
+Waynesboro City,TOTAL,President,,Republican,Donald J. Trump,4801
+Waynesboro City,TOTAL,President,,Libertarian,Gary Johnson,336
+Waynesboro City,TOTAL,President,,Independent,Evan McMullin,145
+Waynesboro City,TOTAL,President,,Green,Jill Stein,74
+Waynesboro City,TOTAL,President,,Other,All Others,84
+Westmoreland County,TOTAL,President,,Democratic,Hillary R. Clinton,3836
+Westmoreland County,TOTAL,President,,Republican,Donald J. Trump,4448
+Westmoreland County,TOTAL,President,,Libertarian,Gary Johnson,157
+Westmoreland County,TOTAL,President,,Independent,Evan McMullin,50
+Westmoreland County,TOTAL,President,,Green,Jill Stein,40
+Westmoreland County,TOTAL,President,,Other,All Others,43
+Williamsburg City,TOTAL,President,,Democratic,Hillary R. Clinton,5206
+Williamsburg City,TOTAL,President,,Republican,Donald J. Trump,1925
+Williamsburg City,TOTAL,President,,Libertarian,Gary Johnson,231
+Williamsburg City,TOTAL,President,,Independent,Evan McMullin,100
+Williamsburg City,TOTAL,President,,Green,Jill Stein,84
+Williamsburg City,TOTAL,President,,Other,All Others,80
+Winchester City,TOTAL,President,,Democratic,Hillary R. Clinton,5164
+Winchester City,TOTAL,President,,Republican,Donald J. Trump,4790
+Winchester City,TOTAL,President,,Libertarian,Gary Johnson,400
+Winchester City,TOTAL,President,,Independent,Evan McMullin,128
+Winchester City,TOTAL,President,,Green,Jill Stein,99
+Winchester City,TOTAL,President,,Other,All Others,86
+Wise County,TOTAL,President,,Democratic,Hillary R. Clinton,2701
+Wise County,TOTAL,President,,Republican,Donald J. Trump,12086
+Wise County,TOTAL,President,,Libertarian,Gary Johnson,182
+Wise County,TOTAL,President,,Independent,Evan McMullin,65
+Wise County,TOTAL,President,,Green,Jill Stein,77
+Wise County,TOTAL,President,,Other,All Others,52
+Wythe County,TOTAL,President,,Democratic,Hillary R. Clinton,2770
+Wythe County,TOTAL,President,,Republican,Donald J. Trump,10046
+Wythe County,TOTAL,President,,Libertarian,Gary Johnson,285
+Wythe County,TOTAL,President,,Independent,Evan McMullin,107
+Wythe County,TOTAL,President,,Green,Jill Stein,49
+Wythe County,TOTAL,President,,Other,All Others,86
+York County,TOTAL,President,,Democratic,Hillary R. Clinton,12999
+York County,TOTAL,President,,Republican,Donald J. Trump,18837
+York County,TOTAL,President,,Libertarian,Gary Johnson,1186
+York County,TOTAL,President,,Independent,Evan McMullin,549
+York County,TOTAL,President,,Green,Jill Stein,252
+York County,TOTAL,President,,Other,All Others,295
+TOTALS,TOTAL,President,,Democratic,Hillary R. Clinton,1981473
+TOTALS,TOTAL,President,,Republican,Donald J. Trump,1769443
+TOTALS,TOTAL,President,,Libertarian,Gary Johnson,118274
+TOTALS,TOTAL,President,,Independent,Evan McMullin,54054
+TOTALS,TOTAL,President,,Green,Jill Stein,27638
+TOTALS,TOTAL,President,,Other,All Others,33749
