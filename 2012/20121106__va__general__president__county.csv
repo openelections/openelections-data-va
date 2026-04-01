@@ -1,0 +1,811 @@
+county,precinct,office,district,party,candidate,votes
+Accomack County,TOTAL,President,,Democratic,Barack Obama,7655
+Accomack County,TOTAL,President,,Republican,Willard M. Romney,8213
+Accomack County,TOTAL,President,,Libertarian,Gary Johnson,83
+Accomack County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",35
+Accomack County,TOTAL,President,,Green,Jill Stein,41
+Accomack County,TOTAL,President,,Other,All Others,24
+Albemarle County,TOTAL,President,,Democratic,Barack Obama,29757
+Albemarle County,TOTAL,President,,Republican,Willard M. Romney,23297
+Albemarle County,TOTAL,President,,Libertarian,Gary Johnson,483
+Albemarle County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",141
+Albemarle County,TOTAL,President,,Green,Jill Stein,135
+Albemarle County,TOTAL,President,,Other,All Others,175
+Alexandria City,TOTAL,President,,Democratic,Barack Obama,52199
+Alexandria City,TOTAL,President,,Republican,Willard M. Romney,20249
+Alexandria City,TOTAL,President,,Libertarian,Gary Johnson,553
+Alexandria City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",95
+Alexandria City,TOTAL,President,,Green,Jill Stein,185
+Alexandria City,TOTAL,President,,Other,All Others,260
+Alleghany County,TOTAL,President,,Democratic,Barack Obama,3403
+Alleghany County,TOTAL,President,,Republican,Willard M. Romney,3595
+Alleghany County,TOTAL,President,,Libertarian,Gary Johnson,62
+Alleghany County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",78
+Alleghany County,TOTAL,President,,Green,Jill Stein,24
+Alleghany County,TOTAL,President,,Other,All Others,11
+Amelia County,TOTAL,President,,Democratic,Barack Obama,2490
+Amelia County,TOTAL,President,,Republican,Willard M. Romney,4331
+Amelia County,TOTAL,President,,Libertarian,Gary Johnson,43
+Amelia County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",28
+Amelia County,TOTAL,President,,Green,Jill Stein,12
+Amelia County,TOTAL,President,,Other,All Others,11
+Amherst County,TOTAL,President,,Democratic,Barack Obama,5900
+Amherst County,TOTAL,President,,Republican,Willard M. Romney,8876
+Amherst County,TOTAL,President,,Libertarian,Gary Johnson,85
+Amherst County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",71
+Amherst County,TOTAL,President,,Green,Jill Stein,18
+Amherst County,TOTAL,President,,Other,All Others,20
+Appomattox County,TOTAL,President,,Democratic,Barack Obama,2453
+Appomattox County,TOTAL,President,,Republican,Willard M. Romney,5340
+Appomattox County,TOTAL,President,,Libertarian,Gary Johnson,46
+Appomattox County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",58
+Appomattox County,TOTAL,President,,Green,Jill Stein,27
+Appomattox County,TOTAL,President,,Other,All Others,11
+Arlington County,TOTAL,President,,Democratic,Barack Obama,81269
+Arlington County,TOTAL,President,,Republican,Willard M. Romney,34474
+Arlington County,TOTAL,President,,Libertarian,Gary Johnson,1178
+Arlington County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",126
+Arlington County,TOTAL,President,,Green,Jill Stein,365
+Arlington County,TOTAL,President,,Other,All Others,198
+Augusta County,TOTAL,President,,Democratic,Barack Obama,9451
+Augusta County,TOTAL,President,,Republican,Willard M. Romney,23624
+Augusta County,TOTAL,President,,Libertarian,Gary Johnson,313
+Augusta County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",163
+Augusta County,TOTAL,President,,Green,Jill Stein,76
+Augusta County,TOTAL,President,,Other,All Others,69
+Bath County,TOTAL,President,,Democratic,Barack Obama,894
+Bath County,TOTAL,President,,Republican,Willard M. Romney,1274
+Bath County,TOTAL,President,,Libertarian,Gary Johnson,14
+Bath County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",27
+Bath County,TOTAL,President,,Green,Jill Stein,9
+Bath County,TOTAL,President,,Other,All Others,5
+Bedford County,TOTAL,President,,Democratic,Barack Obama,10209
+Bedford County,TOTAL,President,,Republican,Willard M. Romney,26679
+Bedford County,TOTAL,President,,Libertarian,Gary Johnson,222
+Bedford County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",212
+Bedford County,TOTAL,President,,Green,Jill Stein,53
+Bedford County,TOTAL,President,,Other,All Others,62
+Bedford City,TOTAL,President,,Democratic,Barack Obama,1225
+Bedford City,TOTAL,President,,Republican,Willard M. Romney,1527
+Bedford City,TOTAL,President,,Libertarian,Gary Johnson,19
+Bedford City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",23
+Bedford City,TOTAL,President,,Green,Jill Stein,4
+Bedford City,TOTAL,President,,Other,All Others,7
+Bland County,TOTAL,President,,Democratic,Barack Obama,735
+Bland County,TOTAL,President,,Republican,Willard M. Romney,2144
+Bland County,TOTAL,President,,Libertarian,Gary Johnson,19
+Bland County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",28
+Bland County,TOTAL,President,,Green,Jill Stein,11
+Bland County,TOTAL,President,,Other,All Others,11
+Botetourt County,TOTAL,President,,Democratic,Barack Obama,5452
+Botetourt County,TOTAL,President,,Republican,Willard M. Romney,12479
+Botetourt County,TOTAL,President,,Libertarian,Gary Johnson,98
+Botetourt County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",164
+Botetourt County,TOTAL,President,,Green,Jill Stein,26
+Botetourt County,TOTAL,President,,Other,All Others,22
+Bristol City,TOTAL,President,,Democratic,Barack Obama,2492
+Bristol City,TOTAL,President,,Republican,Willard M. Romney,4780
+Bristol City,TOTAL,President,,Libertarian,Gary Johnson,51
+Bristol City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",31
+Bristol City,TOTAL,President,,Green,Jill Stein,11
+Bristol City,TOTAL,President,,Other,All Others,31
+Brunswick County,TOTAL,President,,Democratic,Barack Obama,4994
+Brunswick County,TOTAL,President,,Republican,Willard M. Romney,2968
+Brunswick County,TOTAL,President,,Libertarian,Gary Johnson,23
+Brunswick County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",36
+Brunswick County,TOTAL,President,,Green,Jill Stein,12
+Brunswick County,TOTAL,President,,Other,All Others,9
+Buchanan County,TOTAL,President,,Democratic,Barack Obama,3094
+Buchanan County,TOTAL,President,,Republican,Willard M. Romney,6436
+Buchanan County,TOTAL,President,,Libertarian,Gary Johnson,44
+Buchanan County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",52
+Buchanan County,TOTAL,President,,Green,Jill Stein,10
+Buchanan County,TOTAL,President,,Other,All Others,10
+Buckingham County,TOTAL,President,,Democratic,Barack Obama,3750
+Buckingham County,TOTAL,President,,Republican,Willard M. Romney,3569
+Buckingham County,TOTAL,President,,Libertarian,Gary Johnson,38
+Buckingham County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",73
+Buckingham County,TOTAL,President,,Green,Jill Stein,20
+Buckingham County,TOTAL,President,,Other,All Others,7
+Buena Vista City,TOTAL,President,,Democratic,Barack Obama,919
+Buena Vista City,TOTAL,President,,Republican,Willard M. Romney,1564
+Buena Vista City,TOTAL,President,,Libertarian,Gary Johnson,17
+Buena Vista City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",18
+Buena Vista City,TOTAL,President,,Green,Jill Stein,8
+Buena Vista City,TOTAL,President,,Other,All Others,1
+Campbell County,TOTAL,President,,Democratic,Barack Obama,7595
+Campbell County,TOTAL,President,,Republican,Willard M. Romney,17695
+Campbell County,TOTAL,President,,Libertarian,Gary Johnson,178
+Campbell County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",149
+Campbell County,TOTAL,President,,Green,Jill Stein,35
+Campbell County,TOTAL,President,,Other,All Others,54
+Caroline County,TOTAL,President,,Democratic,Barack Obama,7276
+Caroline County,TOTAL,President,,Republican,Willard M. Romney,6151
+Caroline County,TOTAL,President,,Libertarian,Gary Johnson,98
+Caroline County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",59
+Caroline County,TOTAL,President,,Green,Jill Stein,30
+Caroline County,TOTAL,President,,Other,All Others,38
+Carroll County,TOTAL,President,,Democratic,Barack Obama,3685
+Carroll County,TOTAL,President,,Republican,Willard M. Romney,8736
+Carroll County,TOTAL,President,,Libertarian,Gary Johnson,105
+Carroll County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",280
+Carroll County,TOTAL,President,,Green,Jill Stein,92
+Carroll County,TOTAL,President,,Other,All Others,20
+Charles City County,TOTAL,President,,Democratic,Barack Obama,2772
+Charles City County,TOTAL,President,,Republican,Willard M. Romney,1396
+Charles City County,TOTAL,President,,Libertarian,Gary Johnson,29
+Charles City County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",10
+Charles City County,TOTAL,President,,Green,Jill Stein,6
+Charles City County,TOTAL,President,,Other,All Others,19
+Charlotte County,TOTAL,President,,Democratic,Barack Obama,2503
+Charlotte County,TOTAL,President,,Republican,Willard M. Romney,3311
+Charlotte County,TOTAL,President,,Libertarian,Gary Johnson,16
+Charlotte County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",51
+Charlotte County,TOTAL,President,,Green,Jill Stein,17
+Charlotte County,TOTAL,President,,Other,All Others,0
+Charlottesville City,TOTAL,President,,Democratic,Barack Obama,16510
+Charlottesville City,TOTAL,President,,Republican,Willard M. Romney,4844
+Charlottesville City,TOTAL,President,,Libertarian,Gary Johnson,237
+Charlottesville City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",44
+Charlottesville City,TOTAL,President,,Green,Jill Stein,109
+Charlottesville City,TOTAL,President,,Other,All Others,60
+Chesapeake City,TOTAL,President,,Democratic,Barack Obama,55052
+Chesapeake City,TOTAL,President,,Republican,Willard M. Romney,53900
+Chesapeake City,TOTAL,President,,Libertarian,Gary Johnson,853
+Chesapeake City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",212
+Chesapeake City,TOTAL,President,,Green,Jill Stein,157
+Chesapeake City,TOTAL,President,,Other,All Others,309
+Chesterfield County,TOTAL,President,,Democratic,Barack Obama,77694
+Chesterfield County,TOTAL,President,,Republican,Willard M. Romney,90934
+Chesterfield County,TOTAL,President,,Libertarian,Gary Johnson,1385
+Chesterfield County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",405
+Chesterfield County,TOTAL,President,,Green,Jill Stein,274
+Chesterfield County,TOTAL,President,,Other,All Others,514
+Clarke County,TOTAL,President,,Democratic,Barack Obama,3239
+Clarke County,TOTAL,President,,Republican,Willard M. Romney,4296
+Clarke County,TOTAL,President,,Libertarian,Gary Johnson,118
+Clarke County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",38
+Clarke County,TOTAL,President,,Green,Jill Stein,43
+Clarke County,TOTAL,President,,Other,All Others,28
+Colonial Heights City,TOTAL,President,,Democratic,Barack Obama,2544
+Colonial Heights City,TOTAL,President,,Republican,Willard M. Romney,5941
+Colonial Heights City,TOTAL,President,,Libertarian,Gary Johnson,74
+Colonial Heights City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",23
+Colonial Heights City,TOTAL,President,,Green,Jill Stein,18
+Colonial Heights City,TOTAL,President,,Other,All Others,24
+Covington City,TOTAL,President,,Democratic,Barack Obama,1319
+Covington City,TOTAL,President,,Republican,Willard M. Romney,975
+Covington City,TOTAL,President,,Libertarian,Gary Johnson,13
+Covington City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",20
+Covington City,TOTAL,President,,Green,Jill Stein,2
+Covington City,TOTAL,President,,Other,All Others,1
+Craig County,TOTAL,President,,Democratic,Barack Obama,830
+Craig County,TOTAL,President,,Republican,Willard M. Romney,1757
+Craig County,TOTAL,President,,Libertarian,Gary Johnson,21
+Craig County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",55
+Craig County,TOTAL,President,,Green,Jill Stein,1
+Craig County,TOTAL,President,,Other,All Others,3
+Culpeper County,TOTAL,President,,Democratic,Barack Obama,8285
+Culpeper County,TOTAL,President,,Republican,Willard M. Romney,11580
+Culpeper County,TOTAL,President,,Libertarian,Gary Johnson,200
+Culpeper County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",73
+Culpeper County,TOTAL,President,,Green,Jill Stein,46
+Culpeper County,TOTAL,President,,Other,All Others,30
+Cumberland County,TOTAL,President,,Democratic,Barack Obama,2422
+Cumberland County,TOTAL,President,,Republican,Willard M. Romney,2538
+Cumberland County,TOTAL,President,,Libertarian,Gary Johnson,26
+Cumberland County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",40
+Cumberland County,TOTAL,President,,Green,Jill Stein,14
+Cumberland County,TOTAL,President,,Other,All Others,8
+Danville City,TOTAL,President,,Democratic,Barack Obama,12218
+Danville City,TOTAL,President,,Republican,Willard M. Romney,7763
+Danville City,TOTAL,President,,Libertarian,Gary Johnson,55
+Danville City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",110
+Danville City,TOTAL,President,,Green,Jill Stein,33
+Danville City,TOTAL,President,,Other,All Others,48
+Dickenson County,TOTAL,President,,Democratic,Barack Obama,2473
+Dickenson County,TOTAL,President,,Republican,Willard M. Romney,4274
+Dickenson County,TOTAL,President,,Libertarian,Gary Johnson,57
+Dickenson County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",52
+Dickenson County,TOTAL,President,,Green,Jill Stein,24
+Dickenson County,TOTAL,President,,Other,All Others,25
+Dinwiddie County,TOTAL,President,,Democratic,Barack Obama,6550
+Dinwiddie County,TOTAL,President,,Republican,Willard M. Romney,6875
+Dinwiddie County,TOTAL,President,,Libertarian,Gary Johnson,60
+Dinwiddie County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",56
+Dinwiddie County,TOTAL,President,,Green,Jill Stein,31
+Dinwiddie County,TOTAL,President,,Other,All Others,17
+Emporia City,TOTAL,President,,Democratic,Barack Obama,1793
+Emporia City,TOTAL,President,,Republican,Willard M. Romney,886
+Emporia City,TOTAL,President,,Libertarian,Gary Johnson,3
+Emporia City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",6
+Emporia City,TOTAL,President,,Green,Jill Stein,4
+Emporia City,TOTAL,President,,Other,All Others,4
+Essex County,TOTAL,President,,Democratic,Barack Obama,3016
+Essex County,TOTAL,President,,Republican,Willard M. Romney,2602
+Essex County,TOTAL,President,,Libertarian,Gary Johnson,27
+Essex County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",20
+Essex County,TOTAL,President,,Green,Jill Stein,8
+Essex County,TOTAL,President,,Other,All Others,4
+Fairfax County,TOTAL,President,,Democratic,Barack Obama,315273
+Fairfax County,TOTAL,President,,Republican,Willard M. Romney,206773
+Fairfax County,TOTAL,President,,Libertarian,Gary Johnson,4297
+Fairfax County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",707
+Fairfax County,TOTAL,President,,Green,Jill Stein,1267
+Fairfax County,TOTAL,President,,Other,All Others,2051
+Fairfax City,TOTAL,President,,Democratic,Barack Obama,6651
+Fairfax City,TOTAL,President,,Republican,Willard M. Romney,4775
+Fairfax City,TOTAL,President,,Libertarian,Gary Johnson,123
+Fairfax City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",18
+Fairfax City,TOTAL,President,,Green,Jill Stein,38
+Fairfax City,TOTAL,President,,Other,All Others,24
+Falls Church City,TOTAL,President,,Democratic,Barack Obama,5015
+Falls Church City,TOTAL,President,,Republican,Willard M. Romney,2147
+Falls Church City,TOTAL,President,,Libertarian,Gary Johnson,62
+Falls Church City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",11
+Falls Church City,TOTAL,President,,Green,Jill Stein,25
+Falls Church City,TOTAL,President,,Other,All Others,32
+Fauquier County,TOTAL,President,,Democratic,Barack Obama,13965
+Fauquier County,TOTAL,President,,Republican,Willard M. Romney,21034
+Fauquier County,TOTAL,President,,Libertarian,Gary Johnson,323
+Fauquier County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",77
+Fauquier County,TOTAL,President,,Green,Jill Stein,93
+Fauquier County,TOTAL,President,,Other,All Others,82
+Floyd County,TOTAL,President,,Democratic,Barack Obama,2732
+Floyd County,TOTAL,President,,Republican,Willard M. Romney,4673
+Floyd County,TOTAL,President,,Libertarian,Gary Johnson,96
+Floyd County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",95
+Floyd County,TOTAL,President,,Green,Jill Stein,32
+Floyd County,TOTAL,President,,Other,All Others,18
+Fluvanna County,TOTAL,President,,Democratic,Barack Obama,5893
+Fluvanna County,TOTAL,President,,Republican,Willard M. Romney,6678
+Fluvanna County,TOTAL,President,,Libertarian,Gary Johnson,87
+Fluvanna County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",49
+Fluvanna County,TOTAL,President,,Green,Jill Stein,25
+Fluvanna County,TOTAL,President,,Other,All Others,17
+Franklin County,TOTAL,President,,Democratic,Barack Obama,9090
+Franklin County,TOTAL,President,,Republican,Willard M. Romney,16718
+Franklin County,TOTAL,President,,Libertarian,Gary Johnson,145
+Franklin County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",688
+Franklin County,TOTAL,President,,Green,Jill Stein,32
+Franklin County,TOTAL,President,,Other,All Others,38
+Franklin City,TOTAL,President,,Democratic,Barack Obama,2833
+Franklin City,TOTAL,President,,Republican,Willard M. Romney,1496
+Franklin City,TOTAL,President,,Libertarian,Gary Johnson,11
+Franklin City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",10
+Franklin City,TOTAL,President,,Green,Jill Stein,4
+Franklin City,TOTAL,President,,Other,All Others,6
+Frederick County,TOTAL,President,,Democratic,Barack Obama,12690
+Frederick County,TOTAL,President,,Republican,Willard M. Romney,22858
+Frederick County,TOTAL,President,,Libertarian,Gary Johnson,393
+Frederick County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",201
+Frederick County,TOTAL,President,,Green,Jill Stein,139
+Frederick County,TOTAL,President,,Other,All Others,146
+Fredericksburg City,TOTAL,President,,Democratic,Barack Obama,7131
+Fredericksburg City,TOTAL,President,,Republican,Willard M. Romney,4060
+Fredericksburg City,TOTAL,President,,Libertarian,Gary Johnson,148
+Fredericksburg City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",23
+Fredericksburg City,TOTAL,President,,Green,Jill Stein,57
+Fredericksburg City,TOTAL,President,,Other,All Others,42
+Galax City,TOTAL,President,,Democratic,Barack Obama,900
+Galax City,TOTAL,President,,Republican,Willard M. Romney,1332
+Galax City,TOTAL,President,,Libertarian,Gary Johnson,15
+Galax City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",23
+Galax City,TOTAL,President,,Green,Jill Stein,3
+Galax City,TOTAL,President,,Other,All Others,4
+Giles County,TOTAL,President,,Democratic,Barack Obama,2730
+Giles County,TOTAL,President,,Republican,Willard M. Romney,4660
+Giles County,TOTAL,President,,Libertarian,Gary Johnson,66
+Giles County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",66
+Giles County,TOTAL,President,,Green,Jill Stein,23
+Giles County,TOTAL,President,,Other,All Others,13
+Gloucester County,TOTAL,President,,Democratic,Barack Obama,6764
+Gloucester County,TOTAL,President,,Republican,Willard M. Romney,12137
+Gloucester County,TOTAL,President,,Libertarian,Gary Johnson,207
+Gloucester County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",81
+Gloucester County,TOTAL,President,,Green,Jill Stein,57
+Gloucester County,TOTAL,President,,Other,All Others,37
+Goochland County,TOTAL,President,,Democratic,Barack Obama,4676
+Goochland County,TOTAL,President,,Republican,Willard M. Romney,8448
+Goochland County,TOTAL,President,,Libertarian,Gary Johnson,90
+Goochland County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",43
+Goochland County,TOTAL,President,,Green,Jill Stein,30
+Goochland County,TOTAL,President,,Other,All Others,28
+Grayson County,TOTAL,President,,Democratic,Barack Obama,2068
+Grayson County,TOTAL,President,,Republican,Willard M. Romney,4801
+Grayson County,TOTAL,President,,Libertarian,Gary Johnson,71
+Grayson County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",133
+Grayson County,TOTAL,President,,Green,Jill Stein,47
+Grayson County,TOTAL,President,,Other,All Others,1
+Greene County,TOTAL,President,,Democratic,Barack Obama,3290
+Greene County,TOTAL,President,,Republican,Willard M. Romney,5569
+Greene County,TOTAL,President,,Libertarian,Gary Johnson,81
+Greene County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",48
+Greene County,TOTAL,President,,Green,Jill Stein,22
+Greene County,TOTAL,President,,Other,All Others,13
+Greensville County,TOTAL,President,,Democratic,Barack Obama,3135
+Greensville County,TOTAL,President,,Republican,Willard M. Romney,1766
+Greensville County,TOTAL,President,,Libertarian,Gary Johnson,10
+Greensville County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",8
+Greensville County,TOTAL,President,,Green,Jill Stein,6
+Greensville County,TOTAL,President,,Other,All Others,1
+Halifax County,TOTAL,President,,Democratic,Barack Obama,7766
+Halifax County,TOTAL,President,,Republican,Willard M. Romney,8694
+Halifax County,TOTAL,President,,Libertarian,Gary Johnson,67
+Halifax County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",106
+Halifax County,TOTAL,President,,Green,Jill Stein,35
+Halifax County,TOTAL,President,,Other,All Others,24
+Hampton City,TOTAL,President,,Democratic,Barack Obama,46966
+Hampton City,TOTAL,President,,Republican,Willard M. Romney,18640
+Hampton City,TOTAL,President,,Libertarian,Gary Johnson,514
+Hampton City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",129
+Hampton City,TOTAL,President,,Green,Jill Stein,112
+Hampton City,TOTAL,President,,Other,All Others,161
+Hanover County,TOTAL,President,,Democratic,Barack Obama,18294
+Hanover County,TOTAL,President,,Republican,Willard M. Romney,39940
+Hanover County,TOTAL,President,,Libertarian,Gary Johnson,469
+Hanover County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",141
+Hanover County,TOTAL,President,,Green,Jill Stein,123
+Hanover County,TOTAL,President,,Other,All Others,184
+Harrisonburg City,TOTAL,President,,Democratic,Barack Obama,8654
+Harrisonburg City,TOTAL,President,,Republican,Willard M. Romney,6565
+Harrisonburg City,TOTAL,President,,Libertarian,Gary Johnson,216
+Harrisonburg City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",37
+Harrisonburg City,TOTAL,President,,Green,Jill Stein,75
+Harrisonburg City,TOTAL,President,,Other,All Others,46
+Henrico County,TOTAL,President,,Democratic,Barack Obama,89594
+Henrico County,TOTAL,President,,Republican,Willard M. Romney,70449
+Henrico County,TOTAL,President,,Libertarian,Gary Johnson,1192
+Henrico County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",367
+Henrico County,TOTAL,President,,Green,Jill Stein,296
+Henrico County,TOTAL,President,,Other,All Others,888
+Henry County,TOTAL,President,,Democratic,Barack Obama,10317
+Henry County,TOTAL,President,,Republican,Willard M. Romney,13984
+Henry County,TOTAL,President,,Libertarian,Gary Johnson,128
+Henry County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",480
+Henry County,TOTAL,President,,Green,Jill Stein,27
+Henry County,TOTAL,President,,Other,All Others,27
+Highland County,TOTAL,President,,Democratic,Barack Obama,459
+Highland County,TOTAL,President,,Republican,Willard M. Romney,924
+Highland County,TOTAL,President,,Libertarian,Gary Johnson,12
+Highland County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",13
+Highland County,TOTAL,President,,Green,Jill Stein,3
+Highland County,TOTAL,President,,Other,All Others,2
+Hopewell City,TOTAL,President,,Democratic,Barack Obama,5179
+Hopewell City,TOTAL,President,,Republican,Willard M. Romney,3739
+Hopewell City,TOTAL,President,,Libertarian,Gary Johnson,44
+Hopewell City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",30
+Hopewell City,TOTAL,President,,Green,Jill Stein,22
+Hopewell City,TOTAL,President,,Other,All Others,17
+Isle of Wight County,TOTAL,President,,Democratic,Barack Obama,8761
+Isle of Wight County,TOTAL,President,,Republican,Willard M. Romney,11802
+Isle of Wight County,TOTAL,President,,Libertarian,Gary Johnson,144
+Isle of Wight County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",56
+Isle of Wight County,TOTAL,President,,Green,Jill Stein,32
+Isle of Wight County,TOTAL,President,,Other,All Others,34
+James City County,TOTAL,President,,Democratic,Barack Obama,17879
+James City County,TOTAL,President,,Republican,Willard M. Romney,22843
+James City County,TOTAL,President,,Libertarian,Gary Johnson,331
+James City County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",51
+James City County,TOTAL,President,,Green,Jill Stein,69
+James City County,TOTAL,President,,Other,All Others,107
+King and Queen County,TOTAL,President,,Democratic,Barack Obama,1745
+King and Queen County,TOTAL,President,,Republican,Willard M. Romney,1865
+King and Queen County,TOTAL,President,,Libertarian,Gary Johnson,14
+King and Queen County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",14
+King and Queen County,TOTAL,President,,Green,Jill Stein,12
+King and Queen County,TOTAL,President,,Other,All Others,5
+King George County,TOTAL,President,,Democratic,Barack Obama,4477
+King George County,TOTAL,President,,Republican,Willard M. Romney,6604
+King George County,TOTAL,President,,Libertarian,Gary Johnson,137
+King George County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",38
+King George County,TOTAL,President,,Green,Jill Stein,36
+King George County,TOTAL,President,,Other,All Others,37
+King William County,TOTAL,President,,Democratic,Barack Obama,3344
+King William County,TOTAL,President,,Republican,Willard M. Romney,5466
+King William County,TOTAL,President,,Libertarian,Gary Johnson,55
+King William County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",27
+King William County,TOTAL,President,,Green,Jill Stein,12
+King William County,TOTAL,President,,Other,All Others,21
+Lancaster County,TOTAL,President,,Democratic,Barack Obama,3149
+Lancaster County,TOTAL,President,,Republican,Willard M. Romney,3753
+Lancaster County,TOTAL,President,,Libertarian,Gary Johnson,29
+Lancaster County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",8
+Lancaster County,TOTAL,President,,Green,Jill Stein,12
+Lancaster County,TOTAL,President,,Other,All Others,19
+Lee County,TOTAL,President,,Democratic,Barack Obama,2583
+Lee County,TOTAL,President,,Republican,Willard M. Romney,6847
+Lee County,TOTAL,President,,Libertarian,Gary Johnson,59
+Lee County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",67
+Lee County,TOTAL,President,,Green,Jill Stein,26
+Lee County,TOTAL,President,,Other,All Others,16
+Lexington City,TOTAL,President,,Democratic,Barack Obama,1486
+Lexington City,TOTAL,President,,Republican,Willard M. Romney,1146
+Lexington City,TOTAL,President,,Libertarian,Gary Johnson,28
+Lexington City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",11
+Lexington City,TOTAL,President,,Green,Jill Stein,8
+Lexington City,TOTAL,President,,Other,All Others,10
+Loudoun County,TOTAL,President,,Democratic,Barack Obama,82479
+Loudoun County,TOTAL,President,,Republican,Willard M. Romney,75292
+Loudoun County,TOTAL,President,,Libertarian,Gary Johnson,1400
+Loudoun County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",212
+Loudoun County,TOTAL,President,,Green,Jill Stein,356
+Loudoun County,TOTAL,President,,Other,All Others,358
+Louisa County,TOTAL,President,,Democratic,Barack Obama,6953
+Louisa County,TOTAL,President,,Republican,Willard M. Romney,9215
+Louisa County,TOTAL,President,,Libertarian,Gary Johnson,110
+Louisa County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",90
+Louisa County,TOTAL,President,,Green,Jill Stein,48
+Louisa County,TOTAL,President,,Other,All Others,36
+Lunenburg County,TOTAL,President,,Democratic,Barack Obama,2684
+Lunenburg County,TOTAL,President,,Republican,Willard M. Romney,2969
+Lunenburg County,TOTAL,President,,Libertarian,Gary Johnson,22
+Lunenburg County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",40
+Lunenburg County,TOTAL,President,,Green,Jill Stein,11
+Lunenburg County,TOTAL,President,,Other,All Others,15
+Lynchburg City,TOTAL,President,,Democratic,Barack Obama,15948
+Lynchburg City,TOTAL,President,,Republican,Willard M. Romney,19806
+Lynchburg City,TOTAL,President,,Libertarian,Gary Johnson,402
+Lynchburg City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",142
+Lynchburg City,TOTAL,President,,Green,Jill Stein,49
+Lynchburg City,TOTAL,President,,Other,All Others,101
+Madison County,TOTAL,President,,Democratic,Barack Obama,2639
+Madison County,TOTAL,President,,Republican,Willard M. Romney,3869
+Madison County,TOTAL,President,,Libertarian,Gary Johnson,43
+Madison County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",42
+Madison County,TOTAL,President,,Green,Jill Stein,13
+Madison County,TOTAL,President,,Other,All Others,11
+Manassas City,TOTAL,President,,Democratic,Barack Obama,8478
+Manassas City,TOTAL,President,,Republican,Willard M. Romney,6463
+Manassas City,TOTAL,President,,Libertarian,Gary Johnson,148
+Manassas City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",37
+Manassas City,TOTAL,President,,Green,Jill Stein,28
+Manassas City,TOTAL,President,,Other,All Others,46
+Manassas Park City,TOTAL,President,,Democratic,Barack Obama,2879
+Manassas Park City,TOTAL,President,,Republican,Willard M. Romney,1699
+Manassas Park City,TOTAL,President,,Libertarian,Gary Johnson,37
+Manassas Park City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",14
+Manassas Park City,TOTAL,President,,Green,Jill Stein,17
+Manassas Park City,TOTAL,President,,Other,All Others,10
+Martinsville City,TOTAL,President,,Democratic,Barack Obama,3855
+Martinsville City,TOTAL,President,,Republican,Willard M. Romney,2312
+Martinsville City,TOTAL,President,,Libertarian,Gary Johnson,17
+Martinsville City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",83
+Martinsville City,TOTAL,President,,Green,Jill Stein,10
+Martinsville City,TOTAL,President,,Other,All Others,8
+Mathews County,TOTAL,President,,Democratic,Barack Obama,1807
+Mathews County,TOTAL,President,,Republican,Willard M. Romney,3488
+Mathews County,TOTAL,President,,Libertarian,Gary Johnson,40
+Mathews County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",16
+Mathews County,TOTAL,President,,Green,Jill Stein,13
+Mathews County,TOTAL,President,,Other,All Others,10
+Mecklenburg County,TOTAL,President,,Democratic,Barack Obama,6921
+Mecklenburg County,TOTAL,President,,Republican,Willard M. Romney,7973
+Mecklenburg County,TOTAL,President,,Libertarian,Gary Johnson,55
+Mecklenburg County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",103
+Mecklenburg County,TOTAL,President,,Green,Jill Stein,22
+Mecklenburg County,TOTAL,President,,Other,All Others,3
+Middlesex County,TOTAL,President,,Democratic,Barack Obama,2370
+Middlesex County,TOTAL,President,,Republican,Willard M. Romney,3619
+Middlesex County,TOTAL,President,,Libertarian,Gary Johnson,43
+Middlesex County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",20
+Middlesex County,TOTAL,President,,Green,Jill Stein,15
+Middlesex County,TOTAL,President,,Other,All Others,13
+Montgomery County,TOTAL,President,,Democratic,Barack Obama,19903
+Montgomery County,TOTAL,President,,Republican,Willard M. Romney,20006
+Montgomery County,TOTAL,President,,Libertarian,Gary Johnson,710
+Montgomery County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",196
+Montgomery County,TOTAL,President,,Green,Jill Stein,123
+Montgomery County,TOTAL,President,,Other,All Others,71
+Nelson County,TOTAL,President,,Democratic,Barack Obama,4171
+Nelson County,TOTAL,President,,Republican,Willard M. Romney,3947
+Nelson County,TOTAL,President,,Libertarian,Gary Johnson,54
+Nelson County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",39
+Nelson County,TOTAL,President,,Green,Jill Stein,17
+Nelson County,TOTAL,President,,Other,All Others,22
+New Kent County,TOTAL,President,,Democratic,Barack Obama,3555
+New Kent County,TOTAL,President,,Republican,Willard M. Romney,7246
+New Kent County,TOTAL,President,,Libertarian,Gary Johnson,82
+New Kent County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",34
+New Kent County,TOTAL,President,,Green,Jill Stein,24
+New Kent County,TOTAL,President,,Other,All Others,65
+Newport News City,TOTAL,President,,Democratic,Barack Obama,51100
+Newport News City,TOTAL,President,,Republican,Willard M. Romney,27230
+Newport News City,TOTAL,President,,Libertarian,Gary Johnson,711
+Newport News City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",142
+Newport News City,TOTAL,President,,Green,Jill Stein,122
+Newport News City,TOTAL,President,,Other,All Others,248
+Norfolk City,TOTAL,President,,Democratic,Barack Obama,62687
+Norfolk City,TOTAL,President,,Republican,Willard M. Romney,23147
+Norfolk City,TOTAL,President,,Libertarian,Gary Johnson,658
+Norfolk City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",150
+Norfolk City,TOTAL,President,,Green,Jill Stein,184
+Norfolk City,TOTAL,President,,Other,All Others,375
+Northampton County,TOTAL,President,,Democratic,Barack Obama,3741
+Northampton County,TOTAL,President,,Republican,Willard M. Romney,2676
+Northampton County,TOTAL,President,,Libertarian,Gary Johnson,33
+Northampton County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",16
+Northampton County,TOTAL,President,,Green,Jill Stein,19
+Northampton County,TOTAL,President,,Other,All Others,8
+Northumberland County,TOTAL,President,,Democratic,Barack Obama,3191
+Northumberland County,TOTAL,President,,Republican,Willard M. Romney,4310
+Northumberland County,TOTAL,President,,Libertarian,Gary Johnson,23
+Northumberland County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",16
+Northumberland County,TOTAL,President,,Green,Jill Stein,9
+Northumberland County,TOTAL,President,,Other,All Others,9
+Norton City,TOTAL,President,,Democratic,Barack Obama,566
+Norton City,TOTAL,President,,Republican,Willard M. Romney,895
+Norton City,TOTAL,President,,Libertarian,Gary Johnson,15
+Norton City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",5
+Norton City,TOTAL,President,,Green,Jill Stein,5
+Norton City,TOTAL,President,,Other,All Others,6
+Nottoway County,TOTAL,President,,Democratic,Barack Obama,3344
+Nottoway County,TOTAL,President,,Republican,Willard M. Romney,3409
+Nottoway County,TOTAL,President,,Libertarian,Gary Johnson,32
+Nottoway County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",48
+Nottoway County,TOTAL,President,,Green,Jill Stein,11
+Nottoway County,TOTAL,President,,Other,All Others,2
+Orange County,TOTAL,President,,Democratic,Barack Obama,6870
+Orange County,TOTAL,President,,Republican,Willard M. Romney,9244
+Orange County,TOTAL,President,,Libertarian,Gary Johnson,106
+Orange County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",79
+Orange County,TOTAL,President,,Green,Jill Stein,31
+Orange County,TOTAL,President,,Other,All Others,24
+Page County,TOTAL,President,,Democratic,Barack Obama,3724
+Page County,TOTAL,President,,Republican,Willard M. Romney,6344
+Page County,TOTAL,President,,Libertarian,Gary Johnson,74
+Page County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",38
+Page County,TOTAL,President,,Green,Jill Stein,25
+Page County,TOTAL,President,,Other,All Others,23
+Patrick County,TOTAL,President,,Democratic,Barack Obama,2417
+Patrick County,TOTAL,President,,Republican,Willard M. Romney,5622
+Patrick County,TOTAL,President,,Libertarian,Gary Johnson,38
+Patrick County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",153
+Patrick County,TOTAL,President,,Green,Jill Stein,11
+Patrick County,TOTAL,President,,Other,All Others,25
+Petersburg City,TOTAL,President,,Democratic,Barack Obama,14283
+Petersburg City,TOTAL,President,,Republican,Willard M. Romney,1527
+Petersburg City,TOTAL,President,,Libertarian,Gary Johnson,39
+Petersburg City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",18
+Petersburg City,TOTAL,President,,Green,Jill Stein,17
+Petersburg City,TOTAL,President,,Other,All Others,52
+Pittsylvania County,TOTAL,President,,Democratic,Barack Obama,10858
+Pittsylvania County,TOTAL,President,,Republican,Willard M. Romney,19263
+Pittsylvania County,TOTAL,President,,Libertarian,Gary Johnson,138
+Pittsylvania County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",369
+Pittsylvania County,TOTAL,President,,Green,Jill Stein,29
+Pittsylvania County,TOTAL,President,,Other,All Others,36
+Poquoson City,TOTAL,President,,Democratic,Barack Obama,1679
+Poquoson City,TOTAL,President,,Republican,Willard M. Romney,5312
+Poquoson City,TOTAL,President,,Libertarian,Gary Johnson,85
+Poquoson City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",7
+Poquoson City,TOTAL,President,,Green,Jill Stein,15
+Poquoson City,TOTAL,President,,Other,All Others,8
+Portsmouth City,TOTAL,President,,Democratic,Barack Obama,32501
+Portsmouth City,TOTAL,President,,Republican,Willard M. Romney,12858
+Portsmouth City,TOTAL,President,,Libertarian,Gary Johnson,319
+Portsmouth City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",93
+Portsmouth City,TOTAL,President,,Green,Jill Stein,79
+Portsmouth City,TOTAL,President,,Other,All Others,127
+Powhatan County,TOTAL,President,,Democratic,Barack Obama,4088
+Powhatan County,TOTAL,President,,Republican,Willard M. Romney,11200
+Powhatan County,TOTAL,President,,Libertarian,Gary Johnson,136
+Powhatan County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",49
+Powhatan County,TOTAL,President,,Green,Jill Stein,24
+Powhatan County,TOTAL,President,,Other,All Others,31
+Prince Edward County,TOTAL,President,,Democratic,Barack Obama,5132
+Prince Edward County,TOTAL,President,,Republican,Willard M. Romney,3952
+Prince Edward County,TOTAL,President,,Libertarian,Gary Johnson,57
+Prince Edward County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",52
+Prince Edward County,TOTAL,President,,Green,Jill Stein,31
+Prince Edward County,TOTAL,President,,Other,All Others,15
+Prince George County,TOTAL,President,,Democratic,Barack Obama,6991
+Prince George County,TOTAL,President,,Republican,Willard M. Romney,8879
+Prince George County,TOTAL,President,,Libertarian,Gary Johnson,72
+Prince George County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",44
+Prince George County,TOTAL,President,,Green,Jill Stein,31
+Prince George County,TOTAL,President,,Other,All Others,29
+Prince William County,TOTAL,President,,Democratic,Barack Obama,103331
+Prince William County,TOTAL,President,,Republican,Willard M. Romney,74458
+Prince William County,TOTAL,President,,Libertarian,Gary Johnson,1372
+Prince William County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",337
+Prince William County,TOTAL,President,,Green,Jill Stein,381
+Prince William County,TOTAL,President,,Other,All Others,316
+Pulaski County,TOTAL,President,,Democratic,Barack Obama,5292
+Pulaski County,TOTAL,President,,Republican,Willard M. Romney,8920
+Pulaski County,TOTAL,President,,Libertarian,Gary Johnson,136
+Pulaski County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",242
+Pulaski County,TOTAL,President,,Green,Jill Stein,75
+Pulaski County,TOTAL,President,,Other,All Others,15
+Radford City,TOTAL,President,,Democratic,Barack Obama,2732
+Radford City,TOTAL,President,,Republican,Willard M. Romney,2520
+Radford City,TOTAL,President,,Libertarian,Gary Johnson,75
+Radford City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",40
+Radford City,TOTAL,President,,Green,Jill Stein,15
+Radford City,TOTAL,President,,Other,All Others,17
+Rappahannock County,TOTAL,President,,Democratic,Barack Obama,1980
+Rappahannock County,TOTAL,President,,Republican,Willard M. Romney,2311
+Rappahannock County,TOTAL,President,,Libertarian,Gary Johnson,33
+Rappahannock County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",11
+Rappahannock County,TOTAL,President,,Green,Jill Stein,9
+Rappahannock County,TOTAL,President,,Other,All Others,13
+Richmond County,TOTAL,President,,Democratic,Barack Obama,1574
+Richmond County,TOTAL,President,,Republican,Willard M. Romney,2160
+Richmond County,TOTAL,President,,Libertarian,Gary Johnson,16
+Richmond County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",13
+Richmond County,TOTAL,President,,Green,Jill Stein,5
+Richmond County,TOTAL,President,,Other,All Others,2
+Richmond City,TOTAL,President,,Democratic,Barack Obama,75921
+Richmond City,TOTAL,President,,Republican,Willard M. Romney,20050
+Richmond City,TOTAL,President,,Libertarian,Gary Johnson,968
+Richmond City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",172
+Richmond City,TOTAL,President,,Green,Jill Stein,303
+Richmond City,TOTAL,President,,Other,All Others,324
+Roanoke County,TOTAL,President,,Democratic,Barack Obama,18711
+Roanoke County,TOTAL,President,,Republican,Willard M. Romney,31624
+Roanoke County,TOTAL,President,,Libertarian,Gary Johnson,372
+Roanoke County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",333
+Roanoke County,TOTAL,President,,Green,Jill Stein,96
+Roanoke County,TOTAL,President,,Other,All Others,81
+Roanoke City,TOTAL,President,,Democratic,Barack Obama,24134
+Roanoke City,TOTAL,President,,Republican,Willard M. Romney,14991
+Roanoke City,TOTAL,President,,Libertarian,Gary Johnson,397
+Roanoke City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",384
+Roanoke City,TOTAL,President,,Green,Jill Stein,173
+Roanoke City,TOTAL,President,,Other,All Others,76
+Rockbridge County,TOTAL,President,,Democratic,Barack Obama,4088
+Rockbridge County,TOTAL,President,,Republican,Willard M. Romney,5898
+Rockbridge County,TOTAL,President,,Libertarian,Gary Johnson,82
+Rockbridge County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",67
+Rockbridge County,TOTAL,President,,Green,Jill Stein,21
+Rockbridge County,TOTAL,President,,Other,All Others,22
+Rockingham County,TOTAL,President,,Democratic,Barack Obama,10065
+Rockingham County,TOTAL,President,,Republican,Willard M. Romney,24186
+Rockingham County,TOTAL,President,,Libertarian,Gary Johnson,328
+Rockingham County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",127
+Rockingham County,TOTAL,President,,Green,Jill Stein,102
+Rockingham County,TOTAL,President,,Other,All Others,58
+Russell County,TOTAL,President,,Democratic,Barack Obama,3718
+Russell County,TOTAL,President,,Republican,Willard M. Romney,8180
+Russell County,TOTAL,President,,Libertarian,Gary Johnson,66
+Russell County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",76
+Russell County,TOTAL,President,,Green,Jill Stein,29
+Russell County,TOTAL,President,,Other,All Others,19
+Salem City,TOTAL,President,,Democratic,Barack Obama,4760
+Salem City,TOTAL,President,,Republican,Willard M. Romney,7299
+Salem City,TOTAL,President,,Libertarian,Gary Johnson,116
+Salem City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",89
+Salem City,TOTAL,President,,Green,Jill Stein,21
+Salem City,TOTAL,President,,Other,All Others,33
+Scott County,TOTAL,President,,Democratic,Barack Obama,2395
+Scott County,TOTAL,President,,Republican,Willard M. Romney,7439
+Scott County,TOTAL,President,,Libertarian,Gary Johnson,62
+Scott County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",43
+Scott County,TOTAL,President,,Green,Jill Stein,25
+Scott County,TOTAL,President,,Other,All Others,28
+Shenandoah County,TOTAL,President,,Democratic,Barack Obama,6469
+Shenandoah County,TOTAL,President,,Republican,Willard M. Romney,12538
+Shenandoah County,TOTAL,President,,Libertarian,Gary Johnson,173
+Shenandoah County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",66
+Shenandoah County,TOTAL,President,,Green,Jill Stein,62
+Shenandoah County,TOTAL,President,,Other,All Others,65
+Smyth County,TOTAL,President,,Democratic,Barack Obama,4171
+Smyth County,TOTAL,President,,Republican,Willard M. Romney,8379
+Smyth County,TOTAL,President,,Libertarian,Gary Johnson,97
+Smyth County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",77
+Smyth County,TOTAL,President,,Green,Jill Stein,32
+Smyth County,TOTAL,President,,Other,All Others,21
+Southampton County,TOTAL,President,,Democratic,Barack Obama,4437
+Southampton County,TOTAL,President,,Republican,Willard M. Romney,4733
+Southampton County,TOTAL,President,,Libertarian,Gary Johnson,48
+Southampton County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",28
+Southampton County,TOTAL,President,,Green,Jill Stein,15
+Southampton County,TOTAL,President,,Other,All Others,3
+Spotsylvania County,TOTAL,President,,Democratic,Barack Obama,25165
+Spotsylvania County,TOTAL,President,,Republican,Willard M. Romney,31844
+Spotsylvania County,TOTAL,President,,Libertarian,Gary Johnson,503
+Spotsylvania County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",187
+Spotsylvania County,TOTAL,President,,Green,Jill Stein,134
+Spotsylvania County,TOTAL,President,,Other,All Others,141
+Stafford County,TOTAL,President,,Democratic,Barack Obama,27182
+Stafford County,TOTAL,President,,Republican,Willard M. Romney,32480
+Stafford County,TOTAL,President,,Libertarian,Gary Johnson,511
+Stafford County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",153
+Stafford County,TOTAL,President,,Green,Jill Stein,116
+Stafford County,TOTAL,President,,Other,All Others,246
+Staunton City,TOTAL,President,,Democratic,Barack Obama,5728
+Staunton City,TOTAL,President,,Republican,Willard M. Romney,5272
+Staunton City,TOTAL,President,,Libertarian,Gary Johnson,119
+Staunton City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",38
+Staunton City,TOTAL,President,,Green,Jill Stein,30
+Staunton City,TOTAL,President,,Other,All Others,23
+Suffolk City,TOTAL,President,,Democratic,Barack Obama,24267
+Suffolk City,TOTAL,President,,Republican,Willard M. Romney,17820
+Suffolk City,TOTAL,President,,Libertarian,Gary Johnson,254
+Suffolk City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",100
+Suffolk City,TOTAL,President,,Green,Jill Stein,51
+Suffolk City,TOTAL,President,,Other,All Others,74
+Surry County,TOTAL,President,,Democratic,Barack Obama,2576
+Surry County,TOTAL,President,,Republican,Willard M. Romney,1671
+Surry County,TOTAL,President,,Libertarian,Gary Johnson,31
+Surry County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",13
+Surry County,TOTAL,President,,Green,Jill Stein,13
+Surry County,TOTAL,President,,Other,All Others,4
+Sussex County,TOTAL,President,,Democratic,Barack Obama,3358
+Sussex County,TOTAL,President,,Republican,Willard M. Romney,2021
+Sussex County,TOTAL,President,,Libertarian,Gary Johnson,16
+Sussex County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",27
+Sussex County,TOTAL,President,,Green,Jill Stein,10
+Sussex County,TOTAL,President,,Other,All Others,8
+Tazewell County,TOTAL,President,,Democratic,Barack Obama,3661
+Tazewell County,TOTAL,President,,Republican,Willard M. Romney,13843
+Tazewell County,TOTAL,President,,Libertarian,Gary Johnson,100
+Tazewell County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",73
+Tazewell County,TOTAL,President,,Green,Jill Stein,35
+Tazewell County,TOTAL,President,,Other,All Others,29
+Virginia Beach City,TOTAL,President,,Democratic,Barack Obama,94299
+Virginia Beach City,TOTAL,President,,Republican,Willard M. Romney,99291
+Virginia Beach City,TOTAL,President,,Libertarian,Gary Johnson,1829
+Virginia Beach City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",362
+Virginia Beach City,TOTAL,President,,Green,Jill Stein,368
+Virginia Beach City,TOTAL,President,,Other,All Others,749
+Warren County,TOTAL,President,,Democratic,Barack Obama,6452
+Warren County,TOTAL,President,,Republican,Willard M. Romney,9869
+Warren County,TOTAL,President,,Libertarian,Gary Johnson,185
+Warren County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",91
+Warren County,TOTAL,President,,Green,Jill Stein,46
+Warren County,TOTAL,President,,Other,All Others,55
+Washington County,TOTAL,President,,Democratic,Barack Obama,7076
+Washington County,TOTAL,President,,Republican,Willard M. Romney,18141
+Washington County,TOTAL,President,,Libertarian,Gary Johnson,184
+Washington County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",131
+Washington County,TOTAL,President,,Green,Jill Stein,50
+Washington County,TOTAL,President,,Other,All Others,50
+Waynesboro City,TOTAL,President,,Democratic,Barack Obama,3840
+Waynesboro City,TOTAL,President,,Republican,Willard M. Romney,4790
+Waynesboro City,TOTAL,President,,Libertarian,Gary Johnson,94
+Waynesboro City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",35
+Waynesboro City,TOTAL,President,,Green,Jill Stein,18
+Waynesboro City,TOTAL,President,,Other,All Others,14
+Westmoreland County,TOTAL,President,,Democratic,Barack Obama,4295
+Westmoreland County,TOTAL,President,,Republican,Willard M. Romney,3731
+Westmoreland County,TOTAL,President,,Libertarian,Gary Johnson,44
+Westmoreland County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",21
+Westmoreland County,TOTAL,President,,Green,Jill Stein,21
+Westmoreland County,TOTAL,President,,Other,All Others,8
+Williamsburg City,TOTAL,President,,Democratic,Barack Obama,4903
+Williamsburg City,TOTAL,President,,Republican,Willard M. Romney,2682
+Williamsburg City,TOTAL,President,,Libertarian,Gary Johnson,98
+Williamsburg City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",15
+Williamsburg City,TOTAL,President,,Green,Jill Stein,30
+Williamsburg City,TOTAL,President,,Other,All Others,20
+Winchester City,TOTAL,President,,Democratic,Barack Obama,5094
+Winchester City,TOTAL,President,,Republican,Willard M. Romney,4946
+Winchester City,TOTAL,President,,Libertarian,Gary Johnson,109
+Winchester City,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",66
+Winchester City,TOTAL,President,,Green,Jill Stein,48
+Winchester City,TOTAL,President,,Other,All Others,42
+Wise County,TOTAL,President,,Democratic,Barack Obama,3760
+Wise County,TOTAL,President,,Republican,Willard M. Romney,11076
+Wise County,TOTAL,President,,Libertarian,Gary Johnson,63
+Wise County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",62
+Wise County,TOTAL,President,,Green,Jill Stein,21
+Wise County,TOTAL,President,,Other,All Others,36
+Wythe County,TOTAL,President,,Democratic,Barack Obama,3783
+Wythe County,TOTAL,President,,Republican,Willard M. Romney,8324
+Wythe County,TOTAL,President,,Libertarian,Gary Johnson,74
+Wythe County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",128
+Wythe County,TOTAL,President,,Green,Jill Stein,28
+Wythe County,TOTAL,President,,Other,All Others,56
+York County,TOTAL,President,,Democratic,Barack Obama,13183
+York County,TOTAL,President,,Republican,Willard M. Romney,20204
+York County,TOTAL,President,,Libertarian,Gary Johnson,352
+York County,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",86
+York County,TOTAL,President,,Green,Jill Stein,64
+York County,TOTAL,President,,Other,All Others,64
+TOTALS,TOTAL,President,,Democratic,Barack Obama,1971820
+TOTALS,TOTAL,President,,Republican,Willard M. Romney,1822522
+TOTALS,TOTAL,President,,Libertarian,Gary Johnson,31216
+TOTALS,TOTAL,President,,Constitution,"Virgil Hamlin Goode, Jr.",13058
+TOTALS,TOTAL,President,,Green,Jill Stein,8627
+TOTALS,TOTAL,President,,Other,All Others,10800

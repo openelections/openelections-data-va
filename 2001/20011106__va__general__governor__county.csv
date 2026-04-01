@@ -1,0 +1,541 @@
+county,precinct,office,district,party,candidate,votes
+Accomack County,TOTAL,Governor,,Democratic,M. R. Warner,3710
+Accomack County,TOTAL,Governor,,Republican,M. L. Earley,3575
+Accomack County,TOTAL,Governor,,Libertarian,W. B. Redpath,89
+Accomack County,TOTAL,Governor,,Other,All Others,0
+Albemarle County,TOTAL,Governor,,Democratic,M. R. Warner,14891
+Albemarle County,TOTAL,Governor,,Republican,M. L. Earley,11143
+Albemarle County,TOTAL,Governor,,Libertarian,W. B. Redpath,373
+Albemarle County,TOTAL,Governor,,Other,All Others,21
+Alexandria City,TOTAL,Governor,,Democratic,M. R. Warner,23739
+Alexandria City,TOTAL,Governor,,Republican,M. L. Earley,10810
+Alexandria City,TOTAL,Governor,,Libertarian,W. B. Redpath,226
+Alexandria City,TOTAL,Governor,,Other,All Others,27
+Alleghany County,TOTAL,Governor,,Democratic,M. R. Warner,3018
+Alleghany County,TOTAL,Governor,,Republican,M. L. Earley,2044
+Alleghany County,TOTAL,Governor,,Libertarian,W. B. Redpath,56
+Alleghany County,TOTAL,Governor,,Other,All Others,0
+Amelia County,TOTAL,Governor,,Democratic,M. R. Warner,1665
+Amelia County,TOTAL,Governor,,Republican,M. L. Earley,1880
+Amelia County,TOTAL,Governor,,Libertarian,W. B. Redpath,20
+Amelia County,TOTAL,Governor,,Other,All Others,0
+Amherst County,TOTAL,Governor,,Democratic,M. R. Warner,4198
+Amherst County,TOTAL,Governor,,Republican,M. L. Earley,4031
+Amherst County,TOTAL,Governor,,Libertarian,W. B. Redpath,37
+Amherst County,TOTAL,Governor,,Other,All Others,0
+Appomattox County,TOTAL,Governor,,Democratic,M. R. Warner,2268
+Appomattox County,TOTAL,Governor,,Republican,M. L. Earley,2090
+Appomattox County,TOTAL,Governor,,Libertarian,W. B. Redpath,61
+Appomattox County,TOTAL,Governor,,Other,All Others,1
+Arlington County,TOTAL,Governor,,Democratic,M. R. Warner,35990
+Arlington County,TOTAL,Governor,,Republican,M. L. Earley,16214
+Arlington County,TOTAL,Governor,,Libertarian,W. B. Redpath,487
+Arlington County,TOTAL,Governor,,Other,All Others,28
+Augusta County,TOTAL,Governor,,Democratic,M. R. Warner,6673
+Augusta County,TOTAL,Governor,,Republican,M. L. Earley,11133
+Augusta County,TOTAL,Governor,,Libertarian,W. B. Redpath,164
+Augusta County,TOTAL,Governor,,Other,All Others,4
+Bath County,TOTAL,Governor,,Democratic,M. R. Warner,804
+Bath County,TOTAL,Governor,,Republican,M. L. Earley,721
+Bath County,TOTAL,Governor,,Libertarian,W. B. Redpath,28
+Bath County,TOTAL,Governor,,Other,All Others,0
+Bedford County,TOTAL,Governor,,Democratic,M. R. Warner,8035
+Bedford County,TOTAL,Governor,,Republican,M. L. Earley,11298
+Bedford County,TOTAL,Governor,,Libertarian,W. B. Redpath,211
+Bedford County,TOTAL,Governor,,Other,All Others,3
+Bedford City,TOTAL,Governor,,Democratic,M. R. Warner,1031
+Bedford City,TOTAL,Governor,,Republican,M. L. Earley,747
+Bedford City,TOTAL,Governor,,Libertarian,W. B. Redpath,35
+Bedford City,TOTAL,Governor,,Other,All Others,0
+Bland County,TOTAL,Governor,,Democratic,M. R. Warner,835
+Bland County,TOTAL,Governor,,Republican,M. L. Earley,888
+Bland County,TOTAL,Governor,,Libertarian,W. B. Redpath,11
+Bland County,TOTAL,Governor,,Other,All Others,0
+Botetourt County,TOTAL,Governor,,Democratic,M. R. Warner,4629
+Botetourt County,TOTAL,Governor,,Republican,M. L. Earley,5872
+Botetourt County,TOTAL,Governor,,Libertarian,W. B. Redpath,100
+Botetourt County,TOTAL,Governor,,Other,All Others,1
+Bristol City,TOTAL,Governor,,Democratic,M. R. Warner,2166
+Bristol City,TOTAL,Governor,,Republican,M. L. Earley,2268
+Bristol City,TOTAL,Governor,,Libertarian,W. B. Redpath,21
+Bristol City,TOTAL,Governor,,Other,All Others,3
+Brunswick County,TOTAL,Governor,,Democratic,M. R. Warner,2840
+Brunswick County,TOTAL,Governor,,Republican,M. L. Earley,1491
+Brunswick County,TOTAL,Governor,,Libertarian,W. B. Redpath,16
+Brunswick County,TOTAL,Governor,,Other,All Others,3
+Buchanan County,TOTAL,Governor,,Democratic,M. R. Warner,3746
+Buchanan County,TOTAL,Governor,,Republican,M. L. Earley,1921
+Buchanan County,TOTAL,Governor,,Libertarian,W. B. Redpath,39
+Buchanan County,TOTAL,Governor,,Other,All Others,0
+Buckingham County,TOTAL,Governor,,Democratic,M. R. Warner,2364
+Buckingham County,TOTAL,Governor,,Republican,M. L. Earley,1601
+Buckingham County,TOTAL,Governor,,Libertarian,W. B. Redpath,32
+Buckingham County,TOTAL,Governor,,Other,All Others,0
+Buena Vista City,TOTAL,Governor,,Democratic,M. R. Warner,853
+Buena Vista City,TOTAL,Governor,,Republican,M. L. Earley,572
+Buena Vista City,TOTAL,Governor,,Libertarian,W. B. Redpath,30
+Buena Vista City,TOTAL,Governor,,Other,All Others,0
+Campbell County,TOTAL,Governor,,Democratic,M. R. Warner,7187
+Campbell County,TOTAL,Governor,,Republican,M. L. Earley,8366
+Campbell County,TOTAL,Governor,,Libertarian,W. B. Redpath,187
+Campbell County,TOTAL,Governor,,Other,All Others,3
+Caroline County,TOTAL,Governor,,Democratic,M. R. Warner,3590
+Caroline County,TOTAL,Governor,,Republican,M. L. Earley,2274
+Caroline County,TOTAL,Governor,,Libertarian,W. B. Redpath,34
+Caroline County,TOTAL,Governor,,Other,All Others,4
+Carroll County,TOTAL,Governor,,Democratic,M. R. Warner,3309
+Carroll County,TOTAL,Governor,,Republican,M. L. Earley,4481
+Carroll County,TOTAL,Governor,,Libertarian,W. B. Redpath,40
+Carroll County,TOTAL,Governor,,Other,All Others,0
+Charles City County,TOTAL,Governor,,Democratic,M. R. Warner,1747
+Charles City County,TOTAL,Governor,,Republican,M. L. Earley,631
+Charles City County,TOTAL,Governor,,Libertarian,W. B. Redpath,13
+Charles City County,TOTAL,Governor,,Other,All Others,0
+Charlotte County,TOTAL,Governor,,Democratic,M. R. Warner,2202
+Charlotte County,TOTAL,Governor,,Republican,M. L. Earley,2012
+Charlotte County,TOTAL,Governor,,Libertarian,W. B. Redpath,73
+Charlotte County,TOTAL,Governor,,Other,All Others,0
+Charlottesville City,TOTAL,Governor,,Democratic,M. R. Warner,6781
+Charlottesville City,TOTAL,Governor,,Republican,M. L. Earley,2316
+Charlottesville City,TOTAL,Governor,,Libertarian,W. B. Redpath,193
+Charlottesville City,TOTAL,Governor,,Other,All Others,16
+Chesapeake City,TOTAL,Governor,,Democratic,M. R. Warner,24087
+Chesapeake City,TOTAL,Governor,,Republican,M. L. Earley,28328
+Chesapeake City,TOTAL,Governor,,Libertarian,W. B. Redpath,201
+Chesapeake City,TOTAL,Governor,,Other,All Others,17
+Chesterfield County,TOTAL,Governor,,Democratic,M. R. Warner,33810
+Chesterfield County,TOTAL,Governor,,Republican,M. L. Earley,46160
+Chesterfield County,TOTAL,Governor,,Libertarian,W. B. Redpath,534
+Chesterfield County,TOTAL,Governor,,Other,All Others,94
+Clarke County,TOTAL,Governor,,Democratic,M. R. Warner,1839
+Clarke County,TOTAL,Governor,,Republican,M. L. Earley,1851
+Clarke County,TOTAL,Governor,,Libertarian,W. B. Redpath,34
+Clarke County,TOTAL,Governor,,Other,All Others,3
+Colonial Heights City,TOTAL,Governor,,Democratic,M. R. Warner,1758
+Colonial Heights City,TOTAL,Governor,,Republican,M. L. Earley,3660
+Colonial Heights City,TOTAL,Governor,,Libertarian,W. B. Redpath,41
+Colonial Heights City,TOTAL,Governor,,Other,All Others,14
+Covington City,TOTAL,Governor,,Democratic,M. R. Warner,1071
+Covington City,TOTAL,Governor,,Republican,M. L. Earley,597
+Covington City,TOTAL,Governor,,Libertarian,W. B. Redpath,41
+Covington City,TOTAL,Governor,,Other,All Others,0
+Craig County,TOTAL,Governor,,Democratic,M. R. Warner,918
+Craig County,TOTAL,Governor,,Republican,M. L. Earley,887
+Craig County,TOTAL,Governor,,Libertarian,W. B. Redpath,19
+Craig County,TOTAL,Governor,,Other,All Others,1
+Culpeper County,TOTAL,Governor,,Democratic,M. R. Warner,3721
+Culpeper County,TOTAL,Governor,,Republican,M. L. Earley,5054
+Culpeper County,TOTAL,Governor,,Libertarian,W. B. Redpath,74
+Culpeper County,TOTAL,Governor,,Other,All Others,0
+Cumberland County,TOTAL,Governor,,Democratic,M. R. Warner,1315
+Cumberland County,TOTAL,Governor,,Republican,M. L. Earley,1255
+Cumberland County,TOTAL,Governor,,Libertarian,W. B. Redpath,62
+Cumberland County,TOTAL,Governor,,Other,All Others,0
+Danville City,TOTAL,Governor,,Democratic,M. R. Warner,7346
+Danville City,TOTAL,Governor,,Republican,M. L. Earley,6150
+Danville City,TOTAL,Governor,,Libertarian,W. B. Redpath,231
+Danville City,TOTAL,Governor,,Other,All Others,3
+Dickenson County,TOTAL,Governor,,Democratic,M. R. Warner,2907
+Dickenson County,TOTAL,Governor,,Republican,M. L. Earley,1837
+Dickenson County,TOTAL,Governor,,Libertarian,W. B. Redpath,19
+Dickenson County,TOTAL,Governor,,Other,All Others,0
+Dinwiddie County,TOTAL,Governor,,Democratic,M. R. Warner,3578
+Dinwiddie County,TOTAL,Governor,,Republican,M. L. Earley,3202
+Dinwiddie County,TOTAL,Governor,,Libertarian,W. B. Redpath,55
+Dinwiddie County,TOTAL,Governor,,Other,All Others,1
+Emporia City,TOTAL,Governor,,Democratic,M. R. Warner,912
+Emporia City,TOTAL,Governor,,Republican,M. L. Earley,616
+Emporia City,TOTAL,Governor,,Libertarian,W. B. Redpath,7
+Emporia City,TOTAL,Governor,,Other,All Others,0
+Essex County,TOTAL,Governor,,Democratic,M. R. Warner,1436
+Essex County,TOTAL,Governor,,Republican,M. L. Earley,1203
+Essex County,TOTAL,Governor,,Libertarian,W. B. Redpath,10
+Essex County,TOTAL,Governor,,Other,All Others,2
+Fairfax County,TOTAL,Governor,,Democratic,M. R. Warner,146537
+Fairfax County,TOTAL,Governor,,Republican,M. L. Earley,120799
+Fairfax County,TOTAL,Governor,,Libertarian,W. B. Redpath,1586
+Fairfax County,TOTAL,Governor,,Other,All Others,92
+Fairfax City,TOTAL,Governor,,Democratic,M. R. Warner,3478
+Fairfax City,TOTAL,Governor,,Republican,M. L. Earley,3203
+Fairfax City,TOTAL,Governor,,Libertarian,W. B. Redpath,43
+Fairfax City,TOTAL,Governor,,Other,All Others,0
+Falls Church City,TOTAL,Governor,,Democratic,M. R. Warner,2623
+Falls Church City,TOTAL,Governor,,Republican,M. L. Earley,1326
+Falls Church City,TOTAL,Governor,,Libertarian,W. B. Redpath,35
+Falls Church City,TOTAL,Governor,,Other,All Others,1
+Fauquier County,TOTAL,Governor,,Democratic,M. R. Warner,6952
+Fauquier County,TOTAL,Governor,,Republican,M. L. Earley,9420
+Fauquier County,TOTAL,Governor,,Libertarian,W. B. Redpath,91
+Fauquier County,TOTAL,Governor,,Other,All Others,9
+Floyd County,TOTAL,Governor,,Democratic,M. R. Warner,2093
+Floyd County,TOTAL,Governor,,Republican,M. L. Earley,2331
+Floyd County,TOTAL,Governor,,Libertarian,W. B. Redpath,69
+Floyd County,TOTAL,Governor,,Other,All Others,0
+Fluvanna County,TOTAL,Governor,,Democratic,M. R. Warner,3118
+Fluvanna County,TOTAL,Governor,,Republican,M. L. Earley,3425
+Fluvanna County,TOTAL,Governor,,Libertarian,W. B. Redpath,86
+Fluvanna County,TOTAL,Governor,,Other,All Others,1
+Franklin County,TOTAL,Governor,,Democratic,M. R. Warner,7182
+Franklin County,TOTAL,Governor,,Republican,M. L. Earley,6703
+Franklin County,TOTAL,Governor,,Libertarian,W. B. Redpath,111
+Franklin County,TOTAL,Governor,,Other,All Others,0
+Franklin City,TOTAL,Governor,,Democratic,M. R. Warner,1434
+Franklin City,TOTAL,Governor,,Republican,M. L. Earley,781
+Franklin City,TOTAL,Governor,,Libertarian,W. B. Redpath,6
+Franklin City,TOTAL,Governor,,Other,All Others,1
+Frederick County,TOTAL,Governor,,Democratic,M. R. Warner,6433
+Frederick County,TOTAL,Governor,,Republican,M. L. Earley,9947
+Frederick County,TOTAL,Governor,,Libertarian,W. B. Redpath,113
+Frederick County,TOTAL,Governor,,Other,All Others,6
+Fredericksburg City,TOTAL,Governor,,Democratic,M. R. Warner,2717
+Fredericksburg City,TOTAL,Governor,,Republican,M. L. Earley,1679
+Fredericksburg City,TOTAL,Governor,,Libertarian,W. B. Redpath,55
+Fredericksburg City,TOTAL,Governor,,Other,All Others,5
+Galax City,TOTAL,Governor,,Democratic,M. R. Warner,866
+Galax City,TOTAL,Governor,,Republican,M. L. Earley,733
+Galax City,TOTAL,Governor,,Libertarian,W. B. Redpath,6
+Galax City,TOTAL,Governor,,Other,All Others,0
+Giles County,TOTAL,Governor,,Democratic,M. R. Warner,3071
+Giles County,TOTAL,Governor,,Republican,M. L. Earley,2276
+Giles County,TOTAL,Governor,,Libertarian,W. B. Redpath,85
+Giles County,TOTAL,Governor,,Other,All Others,0
+Gloucester County,TOTAL,Governor,,Democratic,M. R. Warner,4116
+Gloucester County,TOTAL,Governor,,Republican,M. L. Earley,5010
+Gloucester County,TOTAL,Governor,,Libertarian,W. B. Redpath,68
+Gloucester County,TOTAL,Governor,,Other,All Others,2
+Goochland County,TOTAL,Governor,,Democratic,M. R. Warner,3091
+Goochland County,TOTAL,Governor,,Republican,M. L. Earley,3394
+Goochland County,TOTAL,Governor,,Libertarian,W. B. Redpath,46
+Goochland County,TOTAL,Governor,,Other,All Others,6
+Grayson County,TOTAL,Governor,,Democratic,M. R. Warner,2507
+Grayson County,TOTAL,Governor,,Republican,M. L. Earley,2824
+Grayson County,TOTAL,Governor,,Libertarian,W. B. Redpath,40
+Grayson County,TOTAL,Governor,,Other,All Others,0
+Greene County,TOTAL,Governor,,Democratic,M. R. Warner,1644
+Greene County,TOTAL,Governor,,Republican,M. L. Earley,2244
+Greene County,TOTAL,Governor,,Libertarian,W. B. Redpath,56
+Greene County,TOTAL,Governor,,Other,All Others,0
+Greensville County,TOTAL,Governor,,Democratic,M. R. Warner,1859
+Greensville County,TOTAL,Governor,,Republican,M. L. Earley,841
+Greensville County,TOTAL,Governor,,Libertarian,W. B. Redpath,8
+Greensville County,TOTAL,Governor,,Other,All Others,1
+Halifax County,TOTAL,Governor,,Democratic,M. R. Warner,5506
+Halifax County,TOTAL,Governor,,Republican,M. L. Earley,4366
+Halifax County,TOTAL,Governor,,Libertarian,W. B. Redpath,178
+Halifax County,TOTAL,Governor,,Other,All Others,1
+Hampton City,TOTAL,Governor,,Democratic,M. R. Warner,20627
+Hampton City,TOTAL,Governor,,Republican,M. L. Earley,11592
+Hampton City,TOTAL,Governor,,Libertarian,W. B. Redpath,157
+Hampton City,TOTAL,Governor,,Other,All Others,16
+Hanover County,TOTAL,Governor,,Democratic,M. R. Warner,11713
+Hanover County,TOTAL,Governor,,Republican,M. L. Earley,18757
+Hanover County,TOTAL,Governor,,Libertarian,W. B. Redpath,201
+Hanover County,TOTAL,Governor,,Other,All Others,20
+Harrisonburg City,TOTAL,Governor,,Democratic,M. R. Warner,3083
+Harrisonburg City,TOTAL,Governor,,Republican,M. L. Earley,3334
+Harrisonburg City,TOTAL,Governor,,Libertarian,W. B. Redpath,49
+Harrisonburg City,TOTAL,Governor,,Other,All Others,2
+Henrico County,TOTAL,Governor,,Democratic,M. R. Warner,42089
+Henrico County,TOTAL,Governor,,Republican,M. L. Earley,39215
+Henrico County,TOTAL,Governor,,Libertarian,W. B. Redpath,514
+Henrico County,TOTAL,Governor,,Other,All Others,85
+Henry County,TOTAL,Governor,,Democratic,M. R. Warner,9872
+Henry County,TOTAL,Governor,,Republican,M. L. Earley,5942
+Henry County,TOTAL,Governor,,Libertarian,W. B. Redpath,270
+Henry County,TOTAL,Governor,,Other,All Others,1
+Highland County,TOTAL,Governor,,Democratic,M. R. Warner,533
+Highland County,TOTAL,Governor,,Republican,M. L. Earley,568
+Highland County,TOTAL,Governor,,Libertarian,W. B. Redpath,9
+Highland County,TOTAL,Governor,,Other,All Others,0
+Hopewell City,TOTAL,Governor,,Democratic,M. R. Warner,2467
+Hopewell City,TOTAL,Governor,,Republican,M. L. Earley,2435
+Hopewell City,TOTAL,Governor,,Libertarian,W. B. Redpath,88
+Hopewell City,TOTAL,Governor,,Other,All Others,4
+Isle of Wight County,TOTAL,Governor,,Democratic,M. R. Warner,4727
+Isle of Wight County,TOTAL,Governor,,Republican,M. L. Earley,4708
+Isle of Wight County,TOTAL,Governor,,Libertarian,W. B. Redpath,32
+Isle of Wight County,TOTAL,Governor,,Other,All Others,4
+James City County,TOTAL,Governor,,Democratic,M. R. Warner,8505
+James City County,TOTAL,Governor,,Republican,M. L. Earley,8654
+James City County,TOTAL,Governor,,Libertarian,W. B. Redpath,86
+James City County,TOTAL,Governor,,Other,All Others,6
+King and Queen County,TOTAL,Governor,,Democratic,M. R. Warner,1188
+King and Queen County,TOTAL,Governor,,Republican,M. L. Earley,872
+King and Queen County,TOTAL,Governor,,Libertarian,W. B. Redpath,14
+King and Queen County,TOTAL,Governor,,Other,All Others,0
+King George County,TOTAL,Governor,,Democratic,M. R. Warner,2110
+King George County,TOTAL,Governor,,Republican,M. L. Earley,2151
+King George County,TOTAL,Governor,,Libertarian,W. B. Redpath,29
+King George County,TOTAL,Governor,,Other,All Others,1
+King William County,TOTAL,Governor,,Democratic,M. R. Warner,1942
+King William County,TOTAL,Governor,,Republican,M. L. Earley,1960
+King William County,TOTAL,Governor,,Libertarian,W. B. Redpath,25
+King William County,TOTAL,Governor,,Other,All Others,2
+Lancaster County,TOTAL,Governor,,Democratic,M. R. Warner,2025
+Lancaster County,TOTAL,Governor,,Republican,M. L. Earley,2373
+Lancaster County,TOTAL,Governor,,Libertarian,W. B. Redpath,29
+Lancaster County,TOTAL,Governor,,Other,All Others,5
+Lee County,TOTAL,Governor,,Democratic,M. R. Warner,2923
+Lee County,TOTAL,Governor,,Republican,M. L. Earley,2536
+Lee County,TOTAL,Governor,,Libertarian,W. B. Redpath,25
+Lee County,TOTAL,Governor,,Other,All Others,0
+Lexington City,TOTAL,Governor,,Democratic,M. R. Warner,1053
+Lexington City,TOTAL,Governor,,Republican,M. L. Earley,552
+Lexington City,TOTAL,Governor,,Libertarian,W. B. Redpath,24
+Lexington City,TOTAL,Governor,,Other,All Others,0
+Loudoun County,TOTAL,Governor,,Democratic,M. R. Warner,20907
+Loudoun County,TOTAL,Governor,,Republican,M. L. Earley,24372
+Loudoun County,TOTAL,Governor,,Libertarian,W. B. Redpath,310
+Loudoun County,TOTAL,Governor,,Other,All Others,20
+Louisa County,TOTAL,Governor,,Democratic,M. R. Warner,4244
+Louisa County,TOTAL,Governor,,Republican,M. L. Earley,3568
+Louisa County,TOTAL,Governor,,Libertarian,W. B. Redpath,89
+Louisa County,TOTAL,Governor,,Other,All Others,1
+Lunenburg County,TOTAL,Governor,,Democratic,M. R. Warner,1996
+Lunenburg County,TOTAL,Governor,,Republican,M. L. Earley,1634
+Lunenburg County,TOTAL,Governor,,Libertarian,W. B. Redpath,21
+Lunenburg County,TOTAL,Governor,,Other,All Others,1
+Lynchburg City,TOTAL,Governor,,Democratic,M. R. Warner,9314
+Lynchburg City,TOTAL,Governor,,Republican,M. L. Earley,8132
+Lynchburg City,TOTAL,Governor,,Libertarian,W. B. Redpath,112
+Lynchburg City,TOTAL,Governor,,Other,All Others,10
+Madison County,TOTAL,Governor,,Democratic,M. R. Warner,1794
+Madison County,TOTAL,Governor,,Republican,M. L. Earley,2121
+Madison County,TOTAL,Governor,,Libertarian,W. B. Redpath,76
+Madison County,TOTAL,Governor,,Other,All Others,1
+Manassas City,TOTAL,Governor,,Democratic,M. R. Warner,2992
+Manassas City,TOTAL,Governor,,Republican,M. L. Earley,3520
+Manassas City,TOTAL,Governor,,Libertarian,W. B. Redpath,31
+Manassas City,TOTAL,Governor,,Other,All Others,0
+Manassas Park City,TOTAL,Governor,,Democratic,M. R. Warner,691
+Manassas Park City,TOTAL,Governor,,Republican,M. L. Earley,790
+Manassas Park City,TOTAL,Governor,,Libertarian,W. B. Redpath,11
+Manassas Park City,TOTAL,Governor,,Other,All Others,2
+Martinsville City,TOTAL,Governor,,Democratic,M. R. Warner,2769
+Martinsville City,TOTAL,Governor,,Republican,M. L. Earley,1346
+Martinsville City,TOTAL,Governor,,Libertarian,W. B. Redpath,16
+Martinsville City,TOTAL,Governor,,Other,All Others,1
+Mathews County,TOTAL,Governor,,Democratic,M. R. Warner,1516
+Mathews County,TOTAL,Governor,,Republican,M. L. Earley,1712
+Mathews County,TOTAL,Governor,,Libertarian,W. B. Redpath,37
+Mathews County,TOTAL,Governor,,Other,All Others,0
+Mecklenburg County,TOTAL,Governor,,Democratic,M. R. Warner,3519
+Mecklenburg County,TOTAL,Governor,,Republican,M. L. Earley,3898
+Mecklenburg County,TOTAL,Governor,,Libertarian,W. B. Redpath,124
+Mecklenburg County,TOTAL,Governor,,Other,All Others,0
+Middlesex County,TOTAL,Governor,,Democratic,M. R. Warner,1757
+Middlesex County,TOTAL,Governor,,Republican,M. L. Earley,1861
+Middlesex County,TOTAL,Governor,,Libertarian,W. B. Redpath,74
+Middlesex County,TOTAL,Governor,,Other,All Others,0
+Montgomery County,TOTAL,Governor,,Democratic,M. R. Warner,11154
+Montgomery County,TOTAL,Governor,,Republican,M. L. Earley,8639
+Montgomery County,TOTAL,Governor,,Libertarian,W. B. Redpath,228
+Montgomery County,TOTAL,Governor,,Other,All Others,13
+Nelson County,TOTAL,Governor,,Democratic,M. R. Warner,2681
+Nelson County,TOTAL,Governor,,Republican,M. L. Earley,1763
+Nelson County,TOTAL,Governor,,Libertarian,W. B. Redpath,68
+Nelson County,TOTAL,Governor,,Other,All Others,1
+New Kent County,TOTAL,Governor,,Democratic,M. R. Warner,2161
+New Kent County,TOTAL,Governor,,Republican,M. L. Earley,2532
+New Kent County,TOTAL,Governor,,Libertarian,W. B. Redpath,37
+New Kent County,TOTAL,Governor,,Other,All Others,7
+Newport News City,TOTAL,Governor,,Democratic,M. R. Warner,21318
+Newport News City,TOTAL,Governor,,Republican,M. L. Earley,15920
+Newport News City,TOTAL,Governor,,Libertarian,W. B. Redpath,168
+Newport News City,TOTAL,Governor,,Other,All Others,16
+Norfolk City,TOTAL,Governor,,Democratic,M. R. Warner,28244
+Norfolk City,TOTAL,Governor,,Republican,M. L. Earley,14741
+Norfolk City,TOTAL,Governor,,Libertarian,W. B. Redpath,294
+Norfolk City,TOTAL,Governor,,Other,All Others,14
+Northampton County,TOTAL,Governor,,Democratic,M. R. Warner,2316
+Northampton County,TOTAL,Governor,,Republican,M. L. Earley,1236
+Northampton County,TOTAL,Governor,,Libertarian,W. B. Redpath,58
+Northampton County,TOTAL,Governor,,Other,All Others,0
+Northumberland County,TOTAL,Governor,,Democratic,M. R. Warner,2166
+Northumberland County,TOTAL,Governor,,Republican,M. L. Earley,2159
+Northumberland County,TOTAL,Governor,,Libertarian,W. B. Redpath,26
+Northumberland County,TOTAL,Governor,,Other,All Others,4
+Norton City,TOTAL,Governor,,Democratic,M. R. Warner,773
+Norton City,TOTAL,Governor,,Republican,M. L. Earley,366
+Norton City,TOTAL,Governor,,Libertarian,W. B. Redpath,5
+Norton City,TOTAL,Governor,,Other,All Others,0
+Nottoway County,TOTAL,Governor,,Democratic,M. R. Warner,2513
+Nottoway County,TOTAL,Governor,,Republican,M. L. Earley,1824
+Nottoway County,TOTAL,Governor,,Libertarian,W. B. Redpath,43
+Nottoway County,TOTAL,Governor,,Other,All Others,1
+Orange County,TOTAL,Governor,,Democratic,M. R. Warner,3617
+Orange County,TOTAL,Governor,,Republican,M. L. Earley,3902
+Orange County,TOTAL,Governor,,Libertarian,W. B. Redpath,94
+Orange County,TOTAL,Governor,,Other,All Others,0
+Page County,TOTAL,Governor,,Democratic,M. R. Warner,2443
+Page County,TOTAL,Governor,,Republican,M. L. Earley,3292
+Page County,TOTAL,Governor,,Libertarian,W. B. Redpath,21
+Page County,TOTAL,Governor,,Other,All Others,1
+Patrick County,TOTAL,Governor,,Democratic,M. R. Warner,2651
+Patrick County,TOTAL,Governor,,Republican,M. L. Earley,2775
+Patrick County,TOTAL,Governor,,Libertarian,W. B. Redpath,56
+Patrick County,TOTAL,Governor,,Other,All Others,1
+Petersburg City,TOTAL,Governor,,Democratic,M. R. Warner,7018
+Petersburg City,TOTAL,Governor,,Republican,M. L. Earley,1509
+Petersburg City,TOTAL,Governor,,Libertarian,W. B. Redpath,32
+Petersburg City,TOTAL,Governor,,Other,All Others,0
+Pittsylvania County,TOTAL,Governor,,Democratic,M. R. Warner,7462
+Pittsylvania County,TOTAL,Governor,,Republican,M. L. Earley,9831
+Pittsylvania County,TOTAL,Governor,,Libertarian,W. B. Redpath,270
+Pittsylvania County,TOTAL,Governor,,Other,All Others,5
+Poquoson City,TOTAL,Governor,,Democratic,M. R. Warner,1489
+Poquoson City,TOTAL,Governor,,Republican,M. L. Earley,2656
+Poquoson City,TOTAL,Governor,,Libertarian,W. B. Redpath,25
+Poquoson City,TOTAL,Governor,,Other,All Others,1
+Portsmouth City,TOTAL,Governor,,Democratic,M. R. Warner,17336
+Portsmouth City,TOTAL,Governor,,Republican,M. L. Earley,8922
+Portsmouth City,TOTAL,Governor,,Libertarian,W. B. Redpath,103
+Portsmouth City,TOTAL,Governor,,Other,All Others,13
+Powhatan County,TOTAL,Governor,,Democratic,M. R. Warner,2558
+Powhatan County,TOTAL,Governor,,Republican,M. L. Earley,4338
+Powhatan County,TOTAL,Governor,,Libertarian,W. B. Redpath,58
+Powhatan County,TOTAL,Governor,,Other,All Others,3
+Prince Edward County,TOTAL,Governor,,Democratic,M. R. Warner,2874
+Prince Edward County,TOTAL,Governor,,Republican,M. L. Earley,1967
+Prince Edward County,TOTAL,Governor,,Libertarian,W. B. Redpath,64
+Prince Edward County,TOTAL,Governor,,Other,All Others,0
+Prince George County,TOTAL,Governor,,Democratic,M. R. Warner,3414
+Prince George County,TOTAL,Governor,,Republican,M. L. Earley,4104
+Prince George County,TOTAL,Governor,,Libertarian,W. B. Redpath,43
+Prince George County,TOTAL,Governor,,Other,All Others,9
+Prince William County,TOTAL,Governor,,Democratic,M. R. Warner,27297
+Prince William County,TOTAL,Governor,,Republican,M. L. Earley,30543
+Prince William County,TOTAL,Governor,,Libertarian,W. B. Redpath,497
+Prince William County,TOTAL,Governor,,Other,All Others,5
+Pulaski County,TOTAL,Governor,,Democratic,M. R. Warner,5109
+Pulaski County,TOTAL,Governor,,Republican,M. L. Earley,4411
+Pulaski County,TOTAL,Governor,,Libertarian,W. B. Redpath,115
+Pulaski County,TOTAL,Governor,,Other,All Others,4
+Radford City,TOTAL,Governor,,Democratic,M. R. Warner,1876
+Radford City,TOTAL,Governor,,Republican,M. L. Earley,1280
+Radford City,TOTAL,Governor,,Libertarian,W. B. Redpath,26
+Radford City,TOTAL,Governor,,Other,All Others,1
+Rappahannock County,TOTAL,Governor,,Democratic,M. R. Warner,1284
+Rappahannock County,TOTAL,Governor,,Republican,M. L. Earley,1369
+Rappahannock County,TOTAL,Governor,,Libertarian,W. B. Redpath,20
+Rappahannock County,TOTAL,Governor,,Other,All Others,2
+Richmond County,TOTAL,Governor,,Democratic,M. R. Warner,1101
+Richmond County,TOTAL,Governor,,Republican,M. L. Earley,1124
+Richmond County,TOTAL,Governor,,Libertarian,W. B. Redpath,17
+Richmond County,TOTAL,Governor,,Other,All Others,0
+Richmond City,TOTAL,Governor,,Democratic,M. R. Warner,35558
+Richmond City,TOTAL,Governor,,Republican,M. L. Earley,12432
+Richmond City,TOTAL,Governor,,Libertarian,W. B. Redpath,514
+Richmond City,TOTAL,Governor,,Other,All Others,33
+Roanoke County,TOTAL,Governor,,Democratic,M. R. Warner,14993
+Roanoke County,TOTAL,Governor,,Republican,M. L. Earley,16713
+Roanoke County,TOTAL,Governor,,Libertarian,W. B. Redpath,204
+Roanoke County,TOTAL,Governor,,Other,All Others,7
+Roanoke City,TOTAL,Governor,,Democratic,M. R. Warner,15348
+Roanoke City,TOTAL,Governor,,Republican,M. L. Earley,9147
+Roanoke City,TOTAL,Governor,,Libertarian,W. B. Redpath,204
+Roanoke City,TOTAL,Governor,,Other,All Others,0
+Rockbridge County,TOTAL,Governor,,Democratic,M. R. Warner,2972
+Rockbridge County,TOTAL,Governor,,Republican,M. L. Earley,2885
+Rockbridge County,TOTAL,Governor,,Libertarian,W. B. Redpath,44
+Rockbridge County,TOTAL,Governor,,Other,All Others,2
+Rockingham County,TOTAL,Governor,,Democratic,M. R. Warner,6642
+Rockingham County,TOTAL,Governor,,Republican,M. L. Earley,11723
+Rockingham County,TOTAL,Governor,,Libertarian,W. B. Redpath,97
+Rockingham County,TOTAL,Governor,,Other,All Others,10
+Russell County,TOTAL,Governor,,Democratic,M. R. Warner,4507
+Russell County,TOTAL,Governor,,Republican,M. L. Earley,2907
+Russell County,TOTAL,Governor,,Libertarian,W. B. Redpath,53
+Russell County,TOTAL,Governor,,Other,All Others,0
+Salem City,TOTAL,Governor,,Democratic,M. R. Warner,4067
+Salem City,TOTAL,Governor,,Republican,M. L. Earley,4042
+Salem City,TOTAL,Governor,,Libertarian,W. B. Redpath,66
+Salem City,TOTAL,Governor,,Other,All Others,0
+Scott County,TOTAL,Governor,,Democratic,M. R. Warner,2877
+Scott County,TOTAL,Governor,,Republican,M. L. Earley,3772
+Scott County,TOTAL,Governor,,Libertarian,W. B. Redpath,78
+Scott County,TOTAL,Governor,,Other,All Others,0
+Shenandoah County,TOTAL,Governor,,Democratic,M. R. Warner,4531
+Shenandoah County,TOTAL,Governor,,Republican,M. L. Earley,6653
+Shenandoah County,TOTAL,Governor,,Libertarian,W. B. Redpath,72
+Shenandoah County,TOTAL,Governor,,Other,All Others,7
+Smyth County,TOTAL,Governor,,Democratic,M. R. Warner,4691
+Smyth County,TOTAL,Governor,,Republican,M. L. Earley,4354
+Smyth County,TOTAL,Governor,,Libertarian,W. B. Redpath,85
+Smyth County,TOTAL,Governor,,Other,All Others,0
+Southampton County,TOTAL,Governor,,Democratic,M. R. Warner,2790
+Southampton County,TOTAL,Governor,,Republican,M. L. Earley,1827
+Southampton County,TOTAL,Governor,,Libertarian,W. B. Redpath,15
+Southampton County,TOTAL,Governor,,Other,All Others,0
+Spotsylvania County,TOTAL,Governor,,Democratic,M. R. Warner,9742
+Spotsylvania County,TOTAL,Governor,,Republican,M. L. Earley,11447
+Spotsylvania County,TOTAL,Governor,,Libertarian,W. B. Redpath,89
+Spotsylvania County,TOTAL,Governor,,Other,All Others,5
+Stafford County,TOTAL,Governor,,Democratic,M. R. Warner,9248
+Stafford County,TOTAL,Governor,,Republican,M. L. Earley,12019
+Stafford County,TOTAL,Governor,,Libertarian,W. B. Redpath,132
+Stafford County,TOTAL,Governor,,Other,All Others,23
+Staunton City,TOTAL,Governor,,Democratic,M. R. Warner,3141
+Staunton City,TOTAL,Governor,,Republican,M. L. Earley,3256
+Staunton City,TOTAL,Governor,,Libertarian,W. B. Redpath,38
+Staunton City,TOTAL,Governor,,Other,All Others,2
+Suffolk City,TOTAL,Governor,,Democratic,M. R. Warner,9124
+Suffolk City,TOTAL,Governor,,Republican,M. L. Earley,7996
+Suffolk City,TOTAL,Governor,,Libertarian,W. B. Redpath,59
+Suffolk City,TOTAL,Governor,,Other,All Others,2
+Surry County,TOTAL,Governor,,Democratic,M. R. Warner,1550
+Surry County,TOTAL,Governor,,Republican,M. L. Earley,801
+Surry County,TOTAL,Governor,,Libertarian,W. B. Redpath,14
+Surry County,TOTAL,Governor,,Other,All Others,0
+Sussex County,TOTAL,Governor,,Democratic,M. R. Warner,1924
+Sussex County,TOTAL,Governor,,Republican,M. L. Earley,1134
+Sussex County,TOTAL,Governor,,Libertarian,W. B. Redpath,66
+Sussex County,TOTAL,Governor,,Other,All Others,0
+Tazewell County,TOTAL,Governor,,Democratic,M. R. Warner,5250
+Tazewell County,TOTAL,Governor,,Republican,M. L. Earley,4335
+Tazewell County,TOTAL,Governor,,Libertarian,W. B. Redpath,76
+Tazewell County,TOTAL,Governor,,Other,All Others,0
+Virginia Beach City,TOTAL,Governor,,Democratic,M. R. Warner,43495
+Virginia Beach City,TOTAL,Governor,,Republican,M. L. Earley,49800
+Virginia Beach City,TOTAL,Governor,,Libertarian,W. B. Redpath,560
+Virginia Beach City,TOTAL,Governor,,Other,All Others,35
+Warren County,TOTAL,Governor,,Democratic,M. R. Warner,3546
+Warren County,TOTAL,Governor,,Republican,M. L. Earley,4311
+Warren County,TOTAL,Governor,,Libertarian,W. B. Redpath,97
+Warren County,TOTAL,Governor,,Other,All Others,5
+Washington County,TOTAL,Governor,,Democratic,M. R. Warner,6703
+Washington County,TOTAL,Governor,,Republican,M. L. Earley,7972
+Washington County,TOTAL,Governor,,Libertarian,W. B. Redpath,130
+Washington County,TOTAL,Governor,,Other,All Others,3
+Waynesboro City,TOTAL,Governor,,Democratic,M. R. Warner,2109
+Waynesboro City,TOTAL,Governor,,Republican,M. L. Earley,2777
+Waynesboro City,TOTAL,Governor,,Libertarian,W. B. Redpath,21
+Waynesboro City,TOTAL,Governor,,Other,All Others,4
+Westmoreland County,TOTAL,Governor,,Democratic,M. R. Warner,2471
+Westmoreland County,TOTAL,Governor,,Republican,M. L. Earley,1759
+Westmoreland County,TOTAL,Governor,,Libertarian,W. B. Redpath,63
+Westmoreland County,TOTAL,Governor,,Other,All Others,0
+Williamsburg City,TOTAL,Governor,,Democratic,M. R. Warner,1475
+Williamsburg City,TOTAL,Governor,,Republican,M. L. Earley,1067
+Williamsburg City,TOTAL,Governor,,Libertarian,W. B. Redpath,24
+Williamsburg City,TOTAL,Governor,,Other,All Others,0
+Winchester City,TOTAL,Governor,,Democratic,M. R. Warner,3155
+Winchester City,TOTAL,Governor,,Republican,M. L. Earley,2928
+Winchester City,TOTAL,Governor,,Libertarian,W. B. Redpath,50
+Winchester City,TOTAL,Governor,,Other,All Others,0
+Wise County,TOTAL,Governor,,Democratic,M. R. Warner,5509
+Wise County,TOTAL,Governor,,Republican,M. L. Earley,3816
+Wise County,TOTAL,Governor,,Libertarian,W. B. Redpath,92
+Wise County,TOTAL,Governor,,Other,All Others,4
+Wythe County,TOTAL,Governor,,Democratic,M. R. Warner,3822
+Wythe County,TOTAL,Governor,,Republican,M. L. Earley,3991
+Wythe County,TOTAL,Governor,,Libertarian,W. B. Redpath,47
+Wythe County,TOTAL,Governor,,Other,All Others,9
+York County,TOTAL,Governor,,Democratic,M. R. Warner,7530
+York County,TOTAL,Governor,,Republican,M. L. Earley,9083
+York County,TOTAL,Governor,,Libertarian,W. B. Redpath,100
+York County,TOTAL,Governor,,Other,All Others,5
+TOTALS,TOTAL,Governor,,Democratic,M. R. Warner,984177
+TOTALS,TOTAL,Governor,,Republican,M. L. Earley,887234
+TOTALS,TOTAL,Governor,,Libertarian,W. B. Redpath,14497
+TOTALS,TOTAL,Governor,,Other,All Others,813
